@@ -17,4 +17,4 @@ In order to create a table, I usually use ```\begin{table}```. And then ```\begi
 \end{table}
 ```
 The end result is displayed as below:
-{{ site.baseurl }}/images/config.png
+![Table](/images/table.jpg "Table")
