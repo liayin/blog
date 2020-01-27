@@ -17,4 +17,4 @@ In order to create a table, I usually use ```\begin{table}```. And then ```\begi
 \end{table}
 ```
 The end result is displayed as below:
-![Table](https://github.com/flowerysleeves/flowerysleeves.github.io/blob/master/images/table.jpg "Table")
+![Table](https://raw.githubusercontent.com/flowerysleeves/flowerysleeves.github.io/blob/master/images/table.jpg "Table")
