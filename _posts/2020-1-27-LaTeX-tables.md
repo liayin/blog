@@ -56,3 +56,7 @@ Here is an example:
 In the category of something taken, only 3.3\% of crime cases face defense. For harassment/abusive language, 33.2\% of crime cases face defense.
 \vspace{6mm}
 ```
+
+The resulting table would look like:
+
+![Table3](/images/table3.jpg "Table 3")
