@@ -18,3 +18,29 @@ In order to create a table, I usually use ```\begin{table}```. And then ```\begi
 ```
 The end result is displayed as below:
 ![Table](/images/table.jpg "Table")
+
+If I want to add notes, I would use three part tables. In the header, I would add ```\usepackage{threeparttable}```. In the body of the text, I would use
+```
+\begin{table}[H]
+\label{tab:gun}
+\centering
+\begin{threeparttable}
+\caption{Comparing Weapon Percentage between First-Degree and Second-Degree Murder}
+	\begin{tabular}{*{3}{c}}
+		\hline \hline
+		First-Degree Murder & Second-Degree Murder & P-Value (One-Sided) \\
+		\hline
+		12.93\% & 15.28\% & .0269 \\
+		\hline \hline
+	\end{tabular}
+\begin{tablenotes}[flushleft]
+\small
+\item	12.93\% of First-Degree Murder victims have a weapon compared to 15.28\% of Second-Degree Murder victims. If we hypothesize that the percentage for a Second-Degree Murder is higher, the p-value for the one-sided test comparing the two groups is .0269.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+```
+
+The resulting table would look like:
+
+![Table2](/images/table2.jpg "Table 2")
