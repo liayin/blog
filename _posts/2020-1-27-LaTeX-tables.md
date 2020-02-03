@@ -3,7 +3,7 @@ layout: post
 title: Tables in LaTeX
 ---
 
-In order to create a table, I usually use ```\begin{table}```. And then ```\begin{tabular}{}``` where I can specify how many columns there are and what their alignments are. The common ones I use are ```{l c c}``` if there are three columns or ```{l *{5}{c} m{4cm}}``` if there are seven. In order to add notes to the table, ```\multicolumn``` is helpful. Below is an example:
+In order to create a table, the most common way is to use ```\begin{table}```. And then ```\begin{tabular}{}``` where we can specify how many columns there are and what their alignments are. The common ones used are ```{l c c}``` if there are three columns or ```{l *{5}{c} m{4cm}}``` if there are seven. In order to add notes to the table, ```\multicolumn``` is helpful. Below is an example:
 ```
 \begin{table}
 \begin{tabular}{l *{5}{c} m{4cm}}
@@ -19,7 +19,7 @@ In order to create a table, I usually use ```\begin{table}```. And then ```\begi
 The end result is displayed as below:
 ![Table](/images/table.jpg "Table")
 
-If I want to add notes, I would use three part tables. In the header, I would add ```\usepackage{threeparttable}```. In the body of the text, I would use
+If we want to add notes, we could use three part tables. In the header, we could add ```\usepackage{threeparttable}```. In the body of the text, we could use
 ```
 \begin{table}[H]
 \label{tab:gun}
@@ -44,3 +44,5 @@ If I want to add notes, I would use three part tables. In the header, I would ad
 The resulting table would look like:
 
 ![Table2](/images/table2.jpg "Table 2")
+
+With tables generated from software, we can use ```\input{D:/Research/Data/NCVS/perc_def.tex}```
