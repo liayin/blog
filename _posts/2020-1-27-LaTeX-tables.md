@@ -46,9 +46,7 @@ The resulting table would look like:
 ![Table2](/images/table2.jpg "Table 2")
 
 With tables generated from software, we can use ```\input{D:/Research/Data/NCVS/perc_def.tex}```. In order to add notes, we could use 
-```
-\leftskip=2cm\rightskip=2cm
-```
+```\leftskip=2cm\rightskip=2cm```
 
 Here is an example:
 ```
