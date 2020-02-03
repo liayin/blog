@@ -42,4 +42,5 @@ If I want to add notes, I would use three part tables. In the header, I would ad
 ```
 
 The resulting table would look like:
+
 ![Table2](/images/table2.jpg "Table 2")
