@@ -15,3 +15,11 @@ Second derivative is:
 
 The label is not visible in text:
 ![derivative](/images/derivative.jpg "derivative")
+
+Reference to this equation would be:
+```
+Based on discussions after Equation \ref{eq:1}, $a_{\delta} < 0$.
+```
+
+The text will display as:
+![reference](/images/reference.jpg "reference")
