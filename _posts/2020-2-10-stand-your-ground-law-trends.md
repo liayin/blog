@@ -21,3 +21,5 @@ The increase before the big spike was possibly a result of national coverage of 
 Even prior to this incident, there is a small increase in October 2005, which is probably correlated with the enactment of the stand your ground law in Florida.
 
 ![Subregion Long](/images/states.jpg "Subregion Long")
+
+Therefore, I would like to claim that people generally have a good knowledge of the law if they live in the states where the law was enacted.
