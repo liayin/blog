@@ -22,9 +22,9 @@ Rename column from "Unnamed: 0" to "State" for the data set called "all":
 all = all.rename(columns={"Unnamed: 0": "State"})
 ```
 
-Remove column:
+Remove columns:
 ```
-del all['Unnamed: 16']
+data = data.drop(["Y2001", "Y2002", "Y2003"], axis=1)
 ```
 
 Reshape data from wide to long:
