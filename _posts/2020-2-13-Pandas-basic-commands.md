@@ -47,3 +47,5 @@ Change data type. Note that NaN can only be changed into float but not into inte
 all['ER Visits'] = all['ER Visits'].astype(float)
 ```
 
+Replace values:
+`all.replace(0, 5)`
