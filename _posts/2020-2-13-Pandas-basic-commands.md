@@ -37,6 +37,11 @@ Change multilevel index to single level:
 all = all.reset_index()
 ```
 
+Check data type:
+```
+all.dtypes
+```
+
 Change data type. Note that NaN can only be changed into float but not into integer.
 ```
 all['ER Visits'] = all['ER Visits'].astype(float)
