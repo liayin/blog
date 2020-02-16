@@ -12,6 +12,11 @@ all = pd.read_csv(
 )
 ```
 
+Merge two dataframes by a certain column:
+```
+result = pd.concat([df1, df4], axis=1, join='inner')
+```
+
 Display a slice of the data
 ```
 all.head()
