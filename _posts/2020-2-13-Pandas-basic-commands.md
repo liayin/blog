@@ -14,7 +14,7 @@ all = pd.read_csv(
 
 Merge two dataframes by a certain column:
 ```
-result = pd.concat([df1, df4], axis=1, join='inner')
+pd.merge(df1, df2, on='company')
 ```
 
 Display a slice of the data
