@@ -47,6 +47,11 @@ Change data type. Note that NaN can only be changed into float but not into inte
 all['ER Visits'] = all['ER Visits'].astype(float)
 ```
 
+Sort values:
+```
+avg.sort_values("perc_gun", inplace = True, ascending=False) 
+```
+
 Replace values:
 ```
 all.replace(0, 5)
