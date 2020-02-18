@@ -22,6 +22,11 @@ Display a slice of the data
 all.head()
 ```
 
+Find column index:
+```
+df.columns.get_loc("pear")
+```
+
 Rename column from "Unnamed: 0" to "State" for the data set called "all":
 ```
 all = all.rename(columns={"Unnamed: 0": "State"})
@@ -30,6 +35,11 @@ all = all.rename(columns={"Unnamed: 0": "State"})
 Remove columns:
 ```
 data = data.drop(["Y2001", "Y2002", "Y2003"], axis=1)
+```
+
+Remove all columns between column index 1 to 3:
+```
+df.drop(df.iloc[:, 1:3], inplace = True, axis = 1) 
 ```
 
 Reshape data from wide to long:
