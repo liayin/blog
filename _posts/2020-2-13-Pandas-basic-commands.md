@@ -34,7 +34,7 @@ all = all.rename(columns={"Unnamed: 0": "State"})
 
 Concatenate columns:
 ```
-df1 = df['1st Column Name'] + df['2nd Column Name']
+shr['nameyear'] = shr['name'] + shr['year'].map(str)
 ```
 
 Remove columns:
