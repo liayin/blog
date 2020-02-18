@@ -32,6 +32,11 @@ Rename column from "Unnamed: 0" to "State" for the data set called "all":
 all = all.rename(columns={"Unnamed: 0": "State"})
 ```
 
+Concatenate columns:
+```
+df1 = df['1st Column Name'] + df['2nd Column Name']
+```
+
 Remove columns:
 ```
 data = data.drop(["Y2001", "Y2002", "Y2003"], axis=1)
