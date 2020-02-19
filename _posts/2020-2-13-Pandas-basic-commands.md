@@ -12,6 +12,15 @@ all = pd.read_csv(
 )
 ```
 
+Read Stata file:
+```
+rate = pd.read_stata('rate.dta')
+```
+
+Other basics:
+
+https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8
+
 Merge two dataframes by a certain column:
 ```
 pd.merge(df1, df2, on='company')
