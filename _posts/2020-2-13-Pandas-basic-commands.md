@@ -85,3 +85,8 @@ Replace values:
 ```
 all.replace(0, 5)
 ```
+
+Drop values:
+```
+df = df[df.line_race != 0]
+```
