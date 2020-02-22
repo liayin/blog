@@ -6,6 +6,9 @@ title: Interview at TJX
 Their data science group has two full time data scientists and one full time senior data analyst. The other members are two co-ops. Their data science manager is Chen Liu and the senior data analyst is Wenchi Jin. Wenchi conducted a half-hour phone interview with me today. First introduced the group, then asked me to introduce myself. Then asked statistics questions, SQL questions, and a programming question.
 
 Statistics questions:
+0. Bias - variance tradeoff
+  This is a criterion for comparing models. One model might have a large bias but a small variance across samples, another might have a smaller bias but a large variance across samples. In order to mitigate this problem, we should use the concept of mean squared error, which is bias squared plus variance. Maybe it helps to talk about how OLS has no bias, but regularization methods such as lasso has a smaller variance.
+
 1. If we are to compare the average height of Americans and Canadians, what test should we use? And then about null hypothesis and alternative hypothesis.
 two sample T test.
 
