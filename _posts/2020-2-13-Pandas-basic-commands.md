@@ -71,6 +71,11 @@ Check data type:
 all.dtypes
 ```
 
+Check the shape of data, namely how many rows and how many columns they have:
+```
+all.shape
+```
+
 Change data type. Note that NaN can only be changed into float but not into integer.
 ```
 all['ER Visits'] = all['ER Visits'].astype(float)
