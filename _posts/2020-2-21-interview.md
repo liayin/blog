@@ -36,4 +36,4 @@ Product question:
 What is a good customer? If there is a customer who spends $10,000 and another one who spends $100 in a given time period, which customer is better?
 I touched upon looking at other time periods, checking if they returned items, but then arrived at the conclusion that the customer who spends $10,000 is a better customer.
 
-Results won't be back until March.
+Results won't be back until March. 
