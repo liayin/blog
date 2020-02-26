@@ -12,10 +12,7 @@ cap global dir = "C:\Users\liang\Desktop\111523-V2\aer_replication"
 
 Local macros only exist either in the current session, or in the current do file (if the do file is run once).
 
-```
-macro list
-```
-will list all the current macros.
+`macro list` will list all the current macros.
 
 To substitute the macro contents of a global macro name, the macro name is typed (punctuated)
 with a dollar sign ($) in front. 
