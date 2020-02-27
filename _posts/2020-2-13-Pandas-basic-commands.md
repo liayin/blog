@@ -31,6 +31,11 @@ Display a slice of the data
 all.head()
 ```
 
+Find rows that contain certain values:
+```
+df[df.values == 'banana']
+```
+
 Find column index:
 ```
 df.columns.get_loc("pear")
