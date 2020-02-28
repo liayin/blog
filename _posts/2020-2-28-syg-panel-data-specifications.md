@@ -48,6 +48,10 @@ Here is the structure of the regional data:
 
 ![Regional data](/images/region_data.jpg "Regional data")
 
+Here is how it is in the form of region by year dummies:
+
+![Region by Year Dummies](/images/region_year_dummies.jpg "Region by Year Dummies")
+
 Then we controlled for time-varying factors:
 
 ![Time-varying Factors](/images/time_varying.jpg "Time-varying Factors")
