@@ -3,7 +3,7 @@ layout: post
 title: Panel data modeling for the Stand Your Ground Law project
 ---
 
-The baseline specification is very straightforward. Note that both states and years are binary variables.
+The baseline specification is very straightforward. Note that both states and years are binary variables. We have 66 regressors in total here.
 
 ![Baseline specification](/images/baseline.jpg "Baseline specification")
 
@@ -14,7 +14,7 @@ xtset state year
 qui xtreg murder law i.year [aweight=popwt], fe vce(cluster state)
 ```
 
-Then we added region-by-year fixed effects to control for region-specific linear trends. Regions are binary variables. We would like to see how different the time trends are between the baseline trend and each other region's.
+Then we added region-by-year fixed effects to control for region-specific time effects. Regions are binary variables. We would like to see how different the time trends are between the baseline trend and each other region's.
 
 ![Regional trends](/images/region.jpg "Regional trends")
 
