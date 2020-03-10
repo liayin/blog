@@ -15,6 +15,11 @@ style(tex) ///
 ptotal(none)
 ```
 
+After wrapping some code around it, the tex table is:
+```
+
+```
+
 The end result of which is:
 
 ![Reporting Agencies](/images/agencies.jpg "Reporting Agencies in Michigan")
