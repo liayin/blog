@@ -42,3 +42,8 @@ label values charg* charge
 So that all the variables that start with charg will have this variable label.
 
 ![Charges2](/images/charges2.jpg "Charges 2")
+
+To see the value label, use
+```
+label list charge
+```
