@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NIBRS Data by the State
+title: NIBRS Data from the state of Ohio
 ---
 
 
