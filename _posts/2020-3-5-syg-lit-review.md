@@ -28,6 +28,12 @@ Method: seasonally adjusted segmented Poisson regression models
   Independent variable: SYG law
 
 
+Maine:
+
+https://www.nicholschurchill.com/maine-defender/law-of-self-defense-in-maine/:
+Jury instructions: duty to retreat
+
+
 Oklahoma:
 
 Chamlin & Krajewski (2014):
