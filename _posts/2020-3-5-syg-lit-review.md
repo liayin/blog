@@ -3,6 +3,14 @@ layout: post
 title: Stand Your Ground Law and Michigan - Literature Review
 ---
 
+Arizona:
+
+Chamlin (2014):
+Data: monthly data from the Arizona Department of Health Services & Arizona Department of Public Safety
+Method: ARIMA
+Results: generated an immediate and lasting increase in all three robbery series. Increased the number of suicides.
+
+
 Florida:
 
 Ackermann et all (2015): 
@@ -19,18 +27,6 @@ Method: seasonally adjusted segmented Poisson regression models
   Dependent variable: homicide & homicide by firearms
   Independent variable: SYG law
 
-Texas:
-
-Ren, Zhang, Zhao (2015):
-Data: daily burglary cases in Houston & Dallas
-Method: 
-
-Arizona:
-
-Chamlin (2014):
-Data: monthly data from the Arizona Department of Health Services & Arizona Department of Public Safety
-Method: ARIMA
-Results: generated an immediate and lasting increase in all three robbery series. Increased the number of suicides.
 
 Oklahoma:
 
@@ -39,3 +35,11 @@ Background: 2006 statute only covers residential areas, not business. However, n
 Data: monthly counts of the following burglaries series: residential burglaries, non-residential burglaries, etc. from the Tulsa police department
 Method: ARIMA
 Results: 
+
+
+Texas:
+
+Ren, Zhang, Zhao (2015):
+Data: daily burglary cases in Houston & Dallas
+Method: 
+
