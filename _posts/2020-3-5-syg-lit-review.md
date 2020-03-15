@@ -34,6 +34,11 @@ https://www.nicholschurchill.com/maine-defender/law-of-self-defense-in-maine/:
 Jury instructions: duty to retreat
 
 
+Maryland:
+https://en.wikipedia.org/wiki/Right_of_self-defense_in_Maryland:
+Jury instructions: beofre using deadly-force, the defendant is required to make all reasonable effort to retreat.
+
+
 Oklahoma:
 
 Chamlin & Krajewski (2014):
