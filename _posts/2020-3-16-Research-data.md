@@ -23,4 +23,4 @@ Census Bureau:
 Civil Justice Survey of State Courts:
 
 Court Briefings:
-  These data are obtained from Nexus Uni through searching "Stand your ground"
+  These data are obtained from Nexus Uni through searching "Stand your ground", then selecting "United States", and then narrowing the time period to 2004-now, and lastly deselecting everything under Federal and selecting everything under State.
