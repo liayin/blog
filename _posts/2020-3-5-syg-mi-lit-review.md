@@ -13,12 +13,12 @@ Results: generated an immediate and lasting increase in all three robbery series
 
 Florida:
 
-Ackermann et all (2015): 
+Ackermann et all (2015):
 Data: Tampa Bay Times
-Method: logistics regression. 
+Method: logistics regression.
   Dependent variable: whether someone is convicted
   Independent variable: whether the victim is white
-  Control variables: 
+  Control variables:
   Sample size: 204
 
 Humphreys et al (2017):
@@ -46,12 +46,11 @@ Chamlin & Krajewski (2014):
 Background: 2006 statute only covers residential areas, not business. However, note that Part D stipulates that it is applied to places where a person has the legal right to be.
 Data: monthly counts of the following burglaries series: residential burglaries, non-residential burglaries, etc. from the Tulsa police department
 Method: ARIMA
-Results: 
+Results:
 
 
 Texas:
 
 Ren, Zhang, Zhao (2015):
 Data: daily burglary cases in Houston & Dallas
-Method: 
-
+Method:
