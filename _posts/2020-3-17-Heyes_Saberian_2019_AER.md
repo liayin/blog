@@ -24,6 +24,8 @@ Data
 Method
   Empirical Strategy:
     Linear probability model
+  Comments:
+    The method in this paper is relatively basic, only linear probability model. However, the data is very rich. It has over 250,000 observations and 572 variables. They have also conducted a wide variety of robustness tests.
 
 Results
   A 10 degree Farenheit increase in case-day temperature reduces decisions favorable to the applicant by 6.55 percent.
