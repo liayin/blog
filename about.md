@@ -8,4 +8,4 @@ I'm a Ph.D. in Economics at Boston College. This blog is a place where I store i
 
 ### Contact me
 
-[Email](mailto:lia.yinliang@gmail.com)
+[Email](mailto:lia.yinliang@gmail.com) 
