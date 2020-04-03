@@ -5,10 +5,12 @@ title: Citations in LaTeX
 
 BibTeX
 
-Store bibliography items in .bib file. Assume the file is called ``label.bib''
-
+Store bibliography items in .bib file.
 
 Add the following commands in the LaTeX document:
-
 ```
-\cite{label}
+\bibliography{bibfilename}
+\bibliographystyle{bstfilename}
+```
+
+The usual bibliography style is ``plain''.
