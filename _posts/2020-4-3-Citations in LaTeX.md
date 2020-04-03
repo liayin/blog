@@ -31,3 +31,9 @@ BibLaTeX
 If you're using TeXstudio to edit LaTeX files, make sure to change the configurations to allow Biber to compile bibliography rather than BibTeX. The way to do it is as follows:
 
 Options -> Configure TeXstudio -> Build -> Default Bibliography Tool -> Biber
+
+The compiling process goes like this:
+
+Compile
+Bibliography
+Compile
