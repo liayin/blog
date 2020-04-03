@@ -13,4 +13,4 @@ Add the following commands in the LaTeX document:
 \bibliographystyle{bstfilename}
 ```
 
-The usual bibliography style is ``plain''.
+The usual bibliography style is "plain".
