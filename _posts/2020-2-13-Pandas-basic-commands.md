@@ -4,7 +4,7 @@ title: Pandas Basic Commands
 ---
 
 Read csv file:
-```
+```Python
 all = pd.read_csv(
     "export-2020-02-13-T-13-58-18.csv",
     skiprows=8, # skip the first 8 rows
@@ -13,29 +13,38 @@ all = pd.read_csv(
 ```
 
 Read Stata file:
-```
+```Python
 rate = pd.read_stata('rate.dta')
 ```
 
-[Other basics:](https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8)
+[Click here for other basics](https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8)
+
+In order to see all the column names, we could do the trick below:
+```Python
+cols = y1988.columns.tolist()
+cols
+```
+
+In Jupyter notebook, the following is displayed:
+![All Columns](/images/cols.jpg "All Columns in Pandas")
 
 Merge two dataframes by a certain column:
-```
+```Python
 pd.merge(df1, df2, on='company')
 ```
 
 Display a slice of the data
-```
+```Python
 all.head()
 ```
 
 Find rows that contain certain values:
-```
+```Python
 df[df.values == 'banana']
 ```
 
 Find column index:
-```
+```Python
 df.columns.get_loc("pear")
 ```
 
