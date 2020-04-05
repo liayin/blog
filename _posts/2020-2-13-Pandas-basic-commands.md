@@ -17,9 +17,7 @@ Read Stata file:
 rate = pd.read_stata('rate.dta')
 ```
 
-Other basics:
-
-https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8
+[Other basics:](https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8)
 
 Merge two dataframes by a certain column:
 ```
@@ -58,7 +56,7 @@ data = data.drop(["Y2001", "Y2002", "Y2003"], axis=1)
 
 Remove all columns between column index 1 to 3:
 ```
-df.drop(df.iloc[:, 1:3], inplace = True, axis = 1) 
+df.drop(df.iloc[:, 1:3], inplace = True, axis = 1)
 ```
 
 Reshape data from wide to long:
@@ -88,7 +86,7 @@ all['ER Visits'] = all['ER Visits'].astype(float)
 
 Sort values:
 ```
-avg.sort_values("perc_gun", inplace = True, ascending=False) 
+avg.sort_values("perc_gun", inplace = True, ascending=False)
 ```
 
 Replace values:
