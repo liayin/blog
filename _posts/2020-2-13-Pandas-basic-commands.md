@@ -26,6 +26,7 @@ cols
 ```
 
 In Jupyter notebook, the following is displayed:
+
 ![All Columns](/images/cols.jpg "All Columns in Pandas")
 
 Merge two dataframes by a certain column:
