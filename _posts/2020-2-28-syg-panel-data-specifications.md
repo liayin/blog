@@ -48,7 +48,7 @@ Here is the structure of the regional data:
 
 ![Regional data](/images/region_data.jpg "Regional data")
 
-Here is how it is in the form of region by year dummies:
+Below is how it is in the form of region by year dummies. r20003 for Alabama equals to 1 because it is the year 2000 and Alabama is in the South.
 
 ![Region by Year Dummies](/images/region_year_dummies.jpg "Region by Year Dummies")
 
