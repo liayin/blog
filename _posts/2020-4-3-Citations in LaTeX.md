@@ -5,11 +5,16 @@ title: Citations in LaTeX
 
 There are multiple ways to incorporate citation information in LaTeX. One of them is BibTeX and another one is BibLaTeX.
 
-BibTeX
+First, store bibliography items in .bib file. Google Scholars will generate BibTeX style citations.
 
-Store bibliography items in .bib file.
+#### BibTeX
 
-Add the following commands in the LaTeX document:
+In the header of the file, add
+```
+\usepackage{natbib}
+```
+
+Add the following commands in the LaTeX document, usually at the end of the file:
 ```
 \bibliography{bibfilename}
 \bibliographystyle{bstfilename}
@@ -17,8 +22,13 @@ Add the following commands in the LaTeX document:
 
 The usual bibliography style is "plain".
 
+My own setup is
+```
+\bibliography{D:/OneDrive/SYG Writeup/References}
+\bibliographystyle{plain}
+```
 
-BibLaTeX
+#### BibLaTeX
 
 ```
 \usepackage{biblatex}
@@ -37,3 +47,9 @@ The compiling process goes like this:
 Compile
 Bibliography
 Compile
+
+My own setup is as follows:
+```
+\usepackage[authordate, backend = biber, sorting=nyt]{biblatex-chicago}
+\addbibresource{D:/Dropbox/StandYourGroundLawWriteup/references.bib}
+```

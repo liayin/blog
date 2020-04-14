@@ -22,10 +22,10 @@ The end result is displayed as below:
 If we want to add notes, we could use three part tables. In the header, we could add ```\usepackage{threeparttable}```. In the body of the text, we could use
 ```
 \begin{table}[H]
+\caption{Comparing Weapon Percentage between First-Degree and Second-Degree Murder}
 \label{tab:gun}
 \centering
 \begin{threeparttable}
-\caption{Comparing Weapon Percentage between First-Degree and Second-Degree Murder}
 	\begin{tabular}{*{3}{c}}
 		\hline \hline
 		First-Degree Murder & Second-Degree Murder & P-Value (One-Sided) \\
@@ -45,7 +45,9 @@ The resulting table would look like:
 
 ![Table2](/images/table2.jpg "Table 2")
 
-With tables generated from software, we can use ```\input{D:/Research/Data/NCVS/perc_def.tex}```. In order to add notes, we could use 
+Note that we should always put `\label` after `\caption` because counter would only be reset by `\refstepcounter` after a call to `\caption`.
+
+With tables generated from software, we can use ```\input{D:/Research/Data/NCVS/perc_def.tex}```. In order to add notes, we could use
 ```\leftskip=2cm\rightskip=2cm```, and for the rest of the article, we should add ```\leftskip=0cm\rightskip=0cm```
 
 Here is an example:
@@ -61,3 +63,7 @@ In the category of something taken, only 3.3\% of crime cases face defense. For 
 The resulting table would look like:
 
 ![Table3](/images/table3.jpg "Table 3")
+
+[Click link for a good reference.](https://www.overleaf.com/learn/latex/Tables)
+
+[Click here](https://tex.stackexchange.com/questions/28333/continuous-v-per-chapter-section-numbering-of-figures-tables-and-other-docume) if you would like table numbering to follow/unfollow the chapter headings.
