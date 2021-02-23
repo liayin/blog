@@ -1,0 +1,11 @@
+I"Œ<p>This way of making summary tables turns out very nice results</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>generate dummy = 1
+label var dummy "Number of Reporting Agencies"
+tabout dummy using agencies.txt, ///
+c(mean nvals min nvals max nvals ) f(0) sum ///
+h3(nil) ///
+rep ///
+style(tex) ///
+ptotal(none)
+</code></pre></div></div>
+:ET

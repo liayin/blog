@@ -1,0 +1,12 @@
+I"ˆ<p>Scatter plots:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>twoway scatter nvals modate, xline(561)
+</code></pre></div></div>
+
+<p>nvals: values on the y axis</p>
+
+<p>modate: values on the x axis</p>
+
+<p>xline: draw a line at the value in the parentheses.</p>
+
+<p><img src="/images/figure.jpg" alt="Figure" title="Figure" /></p>
+:ET

@@ -1,0 +1,62 @@
+I"õ<p>In order to create a table, the most common way is to use <code class="language-plaintext highlighter-rouge">\begin{table}</code>. And then <code class="language-plaintext highlighter-rouge">\begin{tabular}{}</code> where we can specify how many columns there are and what their alignments are. The common ones used are <code class="language-plaintext highlighter-rouge">{l c c}</code> if there are three columns or <code class="language-plaintext highlighter-rouge">{l *{5}{c} m{4cm}}</code> if there are seven. In order to add notes to the table, <code class="language-plaintext highlighter-rouge">\multicolumn</code> is helpful. Below is an example:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>\begin{table}
+\begin{tabular}{l *{5}{c} m{4cm}}
+\hline
+\textbf{Code} &amp; \textbf{States} &amp; \textbf{DtR} &amp; \textbf{CD} &amp; \textbf{Signed} &amp; \textbf{Enacted} &amp; \textbf{Law Stipulations} \\
+\hline
+03 &amp; Arkansas &amp; yes (wp) &amp; yes (wp) &amp; &amp; no &amp; \\
+\hline
+\multicolumn{7}{l}{\footnotesize DtR: Duty to Retreat} \\
+\end{tabular}
+\end{table}
+</code></pre></div></div>
+<p>The end result is displayed as below:
+<img src="/images/table.jpg" alt="Table" title="Table" /></p>
+
+<p>If we want to add notes, we could use three part tables. In the header, we could add <code class="language-plaintext highlighter-rouge">\usepackage{threeparttable}</code>. In the body of the text, we could use</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>\begin{table}[H]
+\caption{Comparing Weapon Percentage between First-Degree and Second-Degree Murder}
+\label{tab:gun}
+\centering
+\begin{threeparttable}
+	\begin{tabular}{*{3}{c}}
+		\hline \hline
+		First-Degree Murder &amp; Second-Degree Murder &amp; P-Value (One-Sided) \\
+		\hline
+		12.93\% &amp; 15.28\% &amp; .0269 \\
+		\hline \hline
+	\end{tabular}
+\begin{tablenotes}[flushleft]
+\small
+\item	12.93\% of First-Degree Murder victims have a weapon compared to 15.28\% of Second-Degree Murder victims. If we hypothesize that the percentage for a Second-Degree Murder is higher, the p-value for the one-sided test comparing the two groups is .0269.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+</code></pre></div></div>
+
+<p>The resulting table would look like:</p>
+
+<p><img src="/images/table2.jpg" alt="Table2" title="Table 2" /></p>
+
+<p>Note that we should always put <code class="language-plaintext highlighter-rouge">\label</code> after <code class="language-plaintext highlighter-rouge">\caption</code> because counter would only be reset by <code class="language-plaintext highlighter-rouge">\refstepcounter</code> after a call to <code class="language-plaintext highlighter-rouge">\caption</code>.</p>
+
+<p>With tables generated from software, we can use <code class="language-plaintext highlighter-rouge">\input{D:/Research/Data/NCVS/perc_def.tex}</code>. In order to add notes, we could use
+<code class="language-plaintext highlighter-rouge">\leftskip=2cm\rightskip=2cm</code>, and for the rest of the article, we should add <code class="language-plaintext highlighter-rouge">\leftskip=0cm\rightskip=0cm</code></p>
+
+<p>Here is an example:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>\input{D:/Research/Data/NCVS/perc_def.tex}
+\vspace{1mm}
+\leftskip=2cm\rightskip=2cm
+In the category of something taken, only 3.3\% of crime cases face defense. For harassment/abusive language, 33.2\% of crime cases face defense.
+\vspace{6mm}
+\leftskip=0cm\rightskip=0cm
+</code></pre></div></div>
+
+<p>The resulting table would look like:</p>
+
+<p><img src="/images/table3.jpg" alt="Table3" title="Table 3" /></p>
+
+<p><a href="https://www.overleaf.com/learn/latex/Tables">Click link for a good reference.</a></p>
+
+<p><a href="https://tex.stackexchange.com/questions/28333/continuous-v-per-chapter-section-numbering-of-figures-tables-and-other-docume">Click here</a> if you would like table numbering to follow/unfollow the chapter headings.</p>
+:ET

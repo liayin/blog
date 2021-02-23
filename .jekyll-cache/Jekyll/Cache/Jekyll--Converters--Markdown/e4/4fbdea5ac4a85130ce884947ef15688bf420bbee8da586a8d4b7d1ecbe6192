@@ -1,0 +1,16 @@
+I",<p>Regression discontinuity tries to discern if there is a break and a slope change at a certain point. Let’s look at an example:</p>
+
+<p><img src="/images/michigan.jpg" alt="Michigan" title="Crime Incidences in Parts of Michigan" /></p>
+
+<p>We would like to see if there is a jump or a slope change at the point when the law was passed. We use three variables, where instances is the number of crime instances in Michigan, syg is an indicator variable for whether the law exists in the specific month, and time increases by one each month:</p>
+
+<p><img src="/images/variables.jpg" alt="Variables" title="Three Variables" /></p>
+
+<p>In the regression we include three terms, syg, time, and a term that is syg*time. Since time is on the x-axis, syg would be the term that changes the intercept and the slope of the regression line.</p>
+
+<p><img src="/images/equation.jpg" alt="Equation" title="Equation for Regression Line" /></p>
+
+<p>The regression results are as follows:</p>
+
+<p><img src="/images/regression.jpg" alt="Regression" title="Regression Results" /></p>
+:ET

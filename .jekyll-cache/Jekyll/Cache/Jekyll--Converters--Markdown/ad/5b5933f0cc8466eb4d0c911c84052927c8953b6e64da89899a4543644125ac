@@ -1,0 +1,8 @@
+I"Ò<p>Read csv file:</p>
+<pre><code class="language-Python">all = pd.read_csv(
+    "export-2020-02-13-T-13-58-18.csv",
+    skiprows=8, # skip the first 8 rows
+    nrows=16, # read the next 16 rows
+)
+</code></pre>
+:ET

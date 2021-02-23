@@ -1,0 +1,19 @@
+I"<p>The format for creating LaTeX equations is usually <code class="language-plaintext highlighter-rouge">\begin{equation}\end{equation}</code>. In order to label the equation, the common method is to write <code class="language-plaintext highlighter-rouge">\label{eq:1}</code> and then later refer to it as <code class="language-plaintext highlighter-rouge">ref{eq:1}</code>. See code below for an example:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Second derivative is:
+\begin{align}
+\frac{\partial ^2 A(a)}{\partial a^2} &amp;= p_{aa} \delta F + p_a \delta F_a + p_a F_a + p F_{aa} + L_{aa} - p_{aa} L - p_a L_a - p_a L_a - p L_{aa} \\
+&amp;= p_{aa}(\delta F - L) + (1 + \delta)p_a F_a + p F_{aa} + (1 - p)L_{aa} - 2 p_a L_a \label{eq:1}
+\end{align}
+</code></pre></div></div>
+
+<p>The label is not visible in text:
+<img src="/images/derivative.jpg" alt="derivative" title="derivative" /></p>
+
+<p>Reference to this equation would be:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Based on discussions after Equation \ref{eq:1}, $a_{\delta} &lt; 0$.
+</code></pre></div></div>
+
+<p>The text will display as:
+<img src="/images/reference.jpg" alt="reference" title="reference" /></p>
+:ET

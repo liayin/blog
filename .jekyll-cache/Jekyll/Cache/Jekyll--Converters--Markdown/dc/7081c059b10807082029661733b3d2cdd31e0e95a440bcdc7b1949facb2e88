@@ -1,0 +1,4 @@
+I"<p>Counting the number of offenses for each ori in each month and recording the results:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bysort year month ori: egen crimes = count(offense)
+</code></pre></div></div>
+:ET

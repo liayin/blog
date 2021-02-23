@@ -1,0 +1,4 @@
+I"J<p>While cells themselves are highlighted but not the content, we could press <code class="language-plaintext highlighter-rouge">B</code> to create another one under the current one, <code class="language-plaintext highlighter-rouge">A</code> to create another one above the current one, <code class="language-plaintext highlighter-rouge">O</code> to collapse the output for the current cell, and <code class="language-plaintext highlighter-rouge">M</code> to turn cell from code to markdown.</p>
+
+<p><code class="language-plaintext highlighter-rouge">H</code> shows all shortcuts.</p>
+:ET

@@ -1,0 +1,87 @@
+I"�<p>Read csv file:</p>
+<pre><code class="language-Python">all = pd.read_csv(
+    "export-2020-02-13-T-13-58-18.csv",
+    skiprows=8, # skip the first 8 rows
+    nrows=16, # read the next 16 rows
+)
+</code></pre>
+
+<p>Read Stata file:</p>
+<pre><code class="language-Python">rate = pd.read_stata('rate.dta')
+</code></pre>
+
+<p><a href="https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8">Click here for other basics</a></p>
+
+<p>In order to see all the column names, we could do the trick below:</p>
+<pre><code class="language-Python">cols = y1988.columns.tolist()
+cols
+</code></pre>
+
+<p>In Jupyter notebook, the following is displayed:</p>
+
+<p><img src="/images/cols.jpg" alt="All Columns" title="All Columns in Pandas" /></p>
+
+<p>Merge two dataframes by a certain column:</p>
+<pre><code class="language-Python">pd.merge(df1, df2, on='company')
+</code></pre>
+
+<p>Display a slice of the data</p>
+<pre><code class="language-Python">all.head()
+</code></pre>
+
+<p>Find rows that contain certain values:</p>
+<pre><code class="language-Python">df[df.values == 'banana']
+</code></pre>
+
+<p>Find column index:</p>
+<pre><code class="language-Python">df.columns.get_loc("pear")
+</code></pre>
+
+<p>Rename column from “Unnamed: 0” to “State” for the data set called “all”:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>all = all.rename(columns={"Unnamed: 0": "State"})
+</code></pre></div></div>
+
+<p>Concatenate columns:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>shr['nameyear'] = shr['name'] + shr['year'].map(str)
+</code></pre></div></div>
+
+<p>Remove columns:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>data = data.drop(["Y2001", "Y2002", "Y2003"], axis=1)
+</code></pre></div></div>
+
+<p>Remove all columns between column index 1 to 3:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>df.drop(df.iloc[:, 1:3], inplace = True, axis = 1)
+</code></pre></div></div>
+
+<p>Reshape data from wide to long:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>all = pd.wide_to_long(all, stubnames="", i="State", j="Year")
+</code></pre></div></div>
+
+<p>Change multilevel index to single level:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>all = all.reset_index()
+</code></pre></div></div>
+
+<p>Check data type:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>all.dtypes
+</code></pre></div></div>
+
+<p>Check the shape of data, namely how many rows and how many columns they have:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>all.shape
+</code></pre></div></div>
+
+<p>Change data type. Note that NaN can only be changed into float but not into integer.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>all['ER Visits'] = all['ER Visits'].astype(float)
+</code></pre></div></div>
+
+<p>Sort values:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>avg.sort_values("perc_gun", inplace = True, ascending=False)
+</code></pre></div></div>
+
+<p>Replace values:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>all.replace(0, 5)
+</code></pre></div></div>
+
+<p>Drop values:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>df = df[df.line_race != 0]
+</code></pre></div></div>
+:ET
