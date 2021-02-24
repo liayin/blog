@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Counting in Stata
+date: 2020-03-12 17:06:00 --0000
 ---
 
 Counting the number of offenses for each ori in each month and recording the results:

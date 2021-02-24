@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Citations in LaTeX
+date: 2020-04-03 17:06:00 --0000
 ---
 
 There are multiple ways to incorporate citation information in LaTeX. One of them is BibTeX and another one is BibLaTeX.

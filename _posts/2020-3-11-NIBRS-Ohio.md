@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NIBRS Data from the state of Ohio
+date: 2020-03-11 17:06:00 --0000
 ---
 
 The total number of cases from the reporting agencies that consistently report over the years 2000 to 2014 is plotted as:
