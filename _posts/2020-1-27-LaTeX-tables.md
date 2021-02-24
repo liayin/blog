@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tables in LaTeX
+date: 20200127 
 ---
 
 In order to create a table, the most common way is to use ```\begin{table}```. And then ```\begin{tabular}{}``` where we can specify how many columns there are and what their alignments are. The common ones used are ```{l c c}``` if there are three columns or ```{l *{5}{c} m{4cm}}``` if there are seven. In order to add notes to the table, ```\multicolumn``` is helpful. Below is an example:
