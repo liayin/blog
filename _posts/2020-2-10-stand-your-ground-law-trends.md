@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stand Your Ground Law Trends
+date: 2020-02-10 17:04:00 --0000
 ---
 One concern with stand your ground law research is that people are unaware of the law. Here in Massachusetts, a large number of people are unfamiliar with the law. Among people who know about the law, a large number know about Florida and Texas, but are unaware of the other states. Let's take a look at the Google Trends data related to it.
 

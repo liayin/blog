@@ -1,4 +1,0 @@
-I"¾<p>Scatter plots:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>twoway scatter nvals modate, xline(561)
-</code></pre></div></div>
-:ET

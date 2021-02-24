@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making Tables in Stata
+date: 2020-03-05 17:05:00 --0000
 ---
 
 This way of making summary tables turns out very nice results

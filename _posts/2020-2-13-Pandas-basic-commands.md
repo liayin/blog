@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pandas Basic Commands
+date: 2020-02-13 17:05:00 --0000
 ---
 
 Read csv file:

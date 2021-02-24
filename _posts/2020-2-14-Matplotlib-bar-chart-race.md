@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bar Chart Races in Matplotlib
+date: 2020-02-14 17:04:00 --0000
 ---
 
 https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41

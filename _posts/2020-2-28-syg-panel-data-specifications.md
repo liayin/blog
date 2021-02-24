@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Panel data modeling for the Stand Your Ground Law project
+date: 2020-02-28 17:05:00 --0000
 ---
 
 The baseline specification is very straightforward. Note that both states and years are binary variables. We have 66 regressors in total here.

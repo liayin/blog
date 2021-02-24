@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plotting for Multiple Groups using Seaborn
+date: 2020-02-10 17:03:00 --0000
 ---
 Sometimes we have multiple groups in the data and we would like to generate a plot for each of the groups. First we import the data set:
 ```

@@ -1,6 +1,0 @@
-I"Q<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>global base `"C:/mydata/"'
-</code></pre></div></div>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import excel using `"${base}/myrawdata.xlsx"', clear
-</code></pre></div></div>
-:ET

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Regression Discontinuity
+date: 2020-02-10 17:01:00 --0000
 ---
 Regression discontinuity tries to discern if there is a break and a slope change at a certain point. Let's look at an example:
 

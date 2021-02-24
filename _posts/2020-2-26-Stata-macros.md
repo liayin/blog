@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stata Macros
+date: 2020-02-26 17:05:00 --0000
 ---
 
 

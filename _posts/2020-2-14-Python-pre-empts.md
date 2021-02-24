@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Common Headers in Python
+date: 2020-02-14 17:05:00 --0000
 ---
 
 For different functionalities, we need different types of headers.

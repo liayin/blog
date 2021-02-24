@@ -1,2 +1,0 @@
-I"›<p>The format for creating LaTeX equations is usually <code class="language-plaintext highlighter-rouge">\begin{equation}\end{equation}</code>. In order to label the equation, the common method is to write <code class="language-plaintext highlighter-rouge">\label{eq:1}</code> and then later refer to it as <code class="language-plaintext highlighter-rouge">ref{eq:1}</code>. See code below for an example:</p>
-:ET

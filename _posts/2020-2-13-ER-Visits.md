@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visits to the Emergency Room
+date: 2020-02-13 17:03:00 --0000
 ---
 My hypothesis is that if the stand your ground law is passed, and there are more murders, there should be more visits to the emergency room due to gun inflicted wounds. See below for information:
 

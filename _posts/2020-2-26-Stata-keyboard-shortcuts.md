@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stata Keyboard Shortcuts
+date: 2020-02-26 17:04:00 --0000
 ---
 
 ```

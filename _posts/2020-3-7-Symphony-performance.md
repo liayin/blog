@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Performance at the Symphony
+date: 2020-03-07 17:06:00 --0000
 ---
 
 Too bad I couldn't make it to the symphony tonight, so I listened to the pieces at home.

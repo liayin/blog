@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stata Labels
+date: 2020-02-07 17:05:00 --0000
 ---
 It is possible to assign the same label for multiple variables. Check out the following example:
 

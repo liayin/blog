@@ -1,5 +1,0 @@
-I"à<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import turtle 
-wn = turtle.Screen() # background
-bonny = turtle.Turtle() # class under a module
-</code></pre></div></div>
-:ET

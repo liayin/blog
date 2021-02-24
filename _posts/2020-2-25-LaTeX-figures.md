@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Figures in LaTeX
+date: 2020-02-25 17:05:00 --0000
 ---
 
 Here is an example of how figures should be embedded into LaTeX:

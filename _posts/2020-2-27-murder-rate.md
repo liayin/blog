@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Murder Rate Visualization Based on Uniform Crime Report
+date: 2020-02-27 17:05:00 --0000
 ---
 
 For murder rate in states without the law, if we divide the states into regions, below is what we get:

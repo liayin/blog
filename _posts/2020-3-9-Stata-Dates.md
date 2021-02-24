@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dates in Stata
+date: 2020-03-09 17:06:00 --0000
 ---
 
 Change annual data into monthly:

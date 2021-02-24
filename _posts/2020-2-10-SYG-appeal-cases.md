@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stand Your Ground Law Appeal Cases
+date: 2020-02-10 17:05:00 --0000
 ---
 Below is a list of all appeals cases that have the keyword "Stand Your Ground" in their description in Nexis Uni. 
 
