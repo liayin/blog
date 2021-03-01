@@ -23,11 +23,19 @@ Add the following commands in the LaTeX document, usually at the end of the file
 
 The usual bibliography style is "plain".
 
-My own setup is
+My own setup is:
 ```
 \bibliography{D:/OneDrive/SYG Writeup/References}
 \bibliographystyle{plain}
 ```
+
+If you are going with the AEA style, you can write:
+
+```
+\bibliographystyle{aea}
+```
+
+Of course, you would have downloaded the *aea.bst* file from the AEA website.
 
 #### BibLaTeX
 
