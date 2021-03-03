@@ -75,6 +75,11 @@ Reshape data from wide to long:
 all = pd.wide_to_long(all, stubnames="", i="State", j="Year")
 ```
 
+Resetting index:
+```python
+df = df.reset_index(drop=True)
+```
+
 Change multilevel index to single level:
 ```
 all = all.reset_index()
@@ -108,4 +113,14 @@ all.replace(0, 5)
 Drop values:
 ```
 df = df[df.line_race != 0]
+```
+
+[Rearrange columns](https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns):
+```python
+df = df[['mean', 4, 3, 2, 1]]
+```
+
+[Strip white spaces](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.strip.html)
+```python
+df = df['State'].str.strip(' ')
 ```
