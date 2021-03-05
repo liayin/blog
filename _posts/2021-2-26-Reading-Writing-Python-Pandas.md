@@ -38,6 +38,12 @@ Find link [here](https://stackoverflow.com/questions/21546739/load-data-from-txt
 df = pd.read_csv('file_location\filename.txt', delimiter = '\t')
 ```
 
+### Clipboard
+
+```python
+df = pd.read_clipboard()
+```
+
 ## Export
 ### Stata
 Official documentation [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_stata.html). One example is:

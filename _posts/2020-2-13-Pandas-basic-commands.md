@@ -50,7 +50,7 @@ Find column index:
 df.columns.get_loc("pear")
 ```
 
-Rename column from "Unnamed: 0" to "State" for the data set called "all":
+Rename column from "Unnamed: 0" to "State" for the dataframe called "all":
 ```
 all = all.rename(columns={"Unnamed: 0": "State"})
 ```
@@ -70,6 +70,11 @@ Remove all columns between column index 1 to 3:
 df.drop(df.iloc[:, 1:3], inplace = True, axis = 1)
 ```
 
+[Rearrange columns](https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns):
+```python
+df = df[['mean', 4, 3, 2, 1]]
+```
+
 Reshape data from wide to long:
 ```
 all = pd.wide_to_long(all, stubnames="", i="State", j="Year")
@@ -83,6 +88,11 @@ df = df.reset_index(drop=True)
 Change multilevel index to single level:
 ```
 all = all.reset_index()
+```
+
+Repeat rows multiple times:
+```python
+df_law = df_law.loc[np.repeat(df_law.index.values, 15)].reset_index(drop=True)
 ```
 
 Check data type:
@@ -115,12 +125,14 @@ Drop values:
 df = df[df.line_race != 0]
 ```
 
-[Rearrange columns](https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns):
-```python
-df = df[['mean', 4, 3, 2, 1]]
-```
-
 [Strip white spaces](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.strip.html)
 ```python
 df = df['State'].str.strip(' ')
+```
+
+## Some Groupby Tricks
+### Add new column that increments on a number
+```python
+ar_year = df_law.groupby('State.1').cumcount()+2000
+df_law.insert(1, 'Year', ar_year)
 ```
