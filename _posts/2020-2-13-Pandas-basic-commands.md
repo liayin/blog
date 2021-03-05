@@ -45,6 +45,7 @@ Find rows that contain certain values:
 df[df.values == 'banana']
 ```
 
+## Column Tricks
 Find column index:
 ```Python
 df.columns.get_loc("pear")
@@ -73,6 +74,41 @@ df.drop(df.iloc[:, 1:3], inplace = True, axis = 1)
 [Rearrange columns](https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns):
 ```python
 df = df[['mean', 4, 3, 2, 1]]
+```
+
+### Adding columns
+Insert column with incremental year
+```python
+ar_year = df_law.groupby('State.1').cumcount()+2000
+df_law.insert(1, 'Year', ar_year)
+```
+
+Convert integer to datetime and add as column
+```python
+df_law['Date'] = pd.to_datetime((df_law['Year']), format='%Y')
+```
+
+Add column based on conditions
+```python
+df_law['Around Law Year'] = np.where(
+    ((df_law['Law Passing Date'].dt.year - df_law['Year'])==1) | \
+    ((df_law['Law Passing Date'].dt.year - df_law['Year'])==0) | \
+    ((df_law['Law Passing Date'].dt.year - df_law['Year'])==-1), 1, 0)
+```
+
+```python
+conditions = [
+    df_law['Year'] < df_law['Date.1'].dt.year,
+    df_law['Year'] == df_law['Date.1'].dt.year,
+    df_law['Year'] > df_law['Date.1'].dt.year
+]
+values = [
+    0,
+    (df_law['Date Next Year'] - df_law['Date.1']).dt.days/ \
+    (df_law['Date Next Year'] - df_law['Date']).dt.days,
+    1
+]
+df_law['Law'] = np.select(conditions, values)
 ```
 
 Reshape data from wide to long:
@@ -135,4 +171,10 @@ df = df['State'].str.strip(' ')
 ```python
 ar_year = df_law.groupby('State.1').cumcount()+2000
 df_law.insert(1, 'Year', ar_year)
+```
+
+## Datetime
+### Series
+```python
+df_law['Date.1'].dt.year
 ```
