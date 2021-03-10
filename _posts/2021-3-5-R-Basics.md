@@ -111,7 +111,9 @@ x <- as.matrix(data[-12])
 y <- data[, 12]
 ```
 
-Logit panel regression
+#### Logit panel regression
+
+See [here](https://data.princeton.edu/wws509/r/fixedRandom3) for a reference.
 ```r
 result_1 <- clogit(resp_stovetype_n ~ indep_var + strata(unique_id), data = df)
 ```
