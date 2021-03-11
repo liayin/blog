@@ -117,3 +117,8 @@ See [here](https://data.princeton.edu/wws509/r/fixedRandom3) for a reference.
 ```r
 result_1 <- clogit(resp_stovetype_n ~ indep_var + strata(unique_id), data = df)
 ```
+If you think some of the variations are due to overall time trends or other time series patterns ([reference here](https://www.statalist.org/forums/forum/general-stata-discussion/general/228950-time-fixed-effects)), then you should add time dummies in the data. Just be aware that the log-likelihood may not converge if time dummies are added.
+```r
+result_1 <- clogit(resp_stovetype_n ~ indep_var + strata(unique_id) 
+    + strata(time_period), data = df)
+```
