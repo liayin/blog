@@ -8,3 +8,4 @@ date: 2021-02-24 16:06:00 --0000
 
 [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[Grouping posts by topic](https://jekyllrb.com/tutorials/navigation/)
