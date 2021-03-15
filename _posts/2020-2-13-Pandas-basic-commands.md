@@ -3,32 +3,14 @@ layout: post
 title: Pandas Basic Commands
 date: 2020-02-13 17:05:00 --0000
 ---
-
-Read csv file:
-```Python
-all = pd.read_csv(
-    "export-2020-02-13-T-13-58-18.csv",
-    skiprows=8, # skip the first 8 rows
-    nrows=16, # read the next 16 rows
-)
-```
-
-Read Stata file:
-```Python
-rate = pd.read_stata('rate.dta')
-```
-
 [Click here for other basics](https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8)
 
-In order to see all the column names, we could do the trick below:
-```Python
-cols = y1988.columns.tolist()
-cols
+## Dataframe Tricks
+[Make new dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html):
+```python
+df2 = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
+                   columns=['a', 'b', 'c'])
 ```
-
-In Jupyter notebook, the following is displayed:
-
-![All Columns](/images/cols.jpg "All Columns in Pandas")
 
 Merge two dataframes by a certain column:
 ```Python
@@ -40,12 +22,29 @@ Display a slice of the data
 all.head()
 ```
 
+## Row Tricks
+
 Find rows that contain certain values:
 ```Python
 df[df.values == 'banana']
 ```
 
+Repeat rows multiple times:
+```python
+df_law = df_law.loc[np.repeat(df_law.index.values, 15)].reset_index(drop=True)
+```
+
 ## Column Tricks
+In order to see all the column names, we could do the trick below:
+```Python
+cols = y1988.columns.tolist()
+cols
+```
+
+In Jupyter notebook, the following is displayed:
+
+![All Columns](/images/cols.jpg "All Columns in Pandas")
+
 Find column index:
 ```Python
 df.columns.get_loc("pear")
@@ -126,11 +125,6 @@ Change multilevel index to single level:
 all = all.reset_index()
 ```
 
-Repeat rows multiple times:
-```python
-df_law = df_law.loc[np.repeat(df_law.index.values, 15)].reset_index(drop=True)
-```
-
 Check data type:
 ```
 all.dtypes
@@ -164,6 +158,12 @@ df = df[df.line_race != 0]
 [Strip white spaces](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.strip.html)
 ```python
 df = df['State'].str.strip(' ')
+```
+
+## Data Tricks
+Frequency table for a column
+```python
+df_circum['charg1'].value_counts()
 ```
 
 ## Some Groupby Tricks

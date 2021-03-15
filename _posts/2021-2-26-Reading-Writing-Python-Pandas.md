@@ -29,6 +29,10 @@ pd.read_excel('tmp.xlsx', index_col = 0, sheet_name = 'Sheet3')
 
 Find link [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_stata.html).
 
+The pandas method `read_stata` is not able to import value labels. In cases when we would like to import value labels, we can make use of the library `pyreadstat` ([Github repo](https://github.com/Roche/pyreadstat)). 
+```python
+df_circum, meta = pyreadstat.read_dta('../Data/1988/y1988.dta', apply_value_formats=True)
+```
 
 ### Tab Delimited File
 
