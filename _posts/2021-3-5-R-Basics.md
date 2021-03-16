@@ -73,6 +73,11 @@ df_midline <- transform(df_midline,
                         employment_woman = as.numeric(employment_woman))
 ```
 
+Change column type from integer to categorical
+```r
+mydata$COR <- as.factor(mydata$COR)
+```
+
 Rename columns
 ```r
 my_data %>% 
@@ -122,3 +127,5 @@ If you think some of the variations are due to overall time trends or other time
 result_1 <- clogit(resp_stovetype_n ~ indep_var + strata(unique_id) 
     + strata(time_period), data = df)
 ```
+
+[This version](https://stats.idre.ucla.edu/r/dae/mixed-effects-logistic-regression/) and [this version](https://uc-r.github.io/logistic_regression) can handle factor variables.
