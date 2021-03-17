@@ -2,6 +2,7 @@
 layout: post
 title: R Basics
 date: 2021-03-05 12:45:00 --0000
+permalink: /posts/r-basics/
 ---
 
 ## General Maintenance

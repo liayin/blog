@@ -1,6 +1,24 @@
-nav:
+toc:
 - title: Version Control
   url: /posts/version-control/
 
 - title: Miscellaneous Readings
   url: /posts/readings/
+
+- title: Econometrics
+  subfolderitems:
+    - page: Econometrics Models
+      url: /posts/metrics-models/
+
+- title: R-related
+  subfolderitems:
+    - page: R Basics
+      url: /posts/r-basics/
+
+    - page: RStudio Basics
+      url: /posts/rstudio-basics/
+
+- title: Other
+  subfolderitems:
+    - page: Github Pages Jekyll Blog
+      url: /posts/github-pages-jekyll-blog/

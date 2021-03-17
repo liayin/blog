@@ -2,6 +2,7 @@
 layout: post
 title: GitHub Pages Jekyll Blog
 date: 2021-02-24 16:06:00 --0000
+permalink: /posts/github-pages-jekyll-blog/
 ---
 
 [Bill Raymond's Tutorial on How to Set Up A Jekyll Blog](https://www.youtube.com/watch?v=EmSrQCDsMv4)
