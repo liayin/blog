@@ -1,0 +1,12 @@
+<!-- Side navigation -->
+<div class="sidebar"></div>
+    <ul>
+        {% for item in site.data.nav.nav %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    
+        {% if item.subnav %}
+            {% include nav.html nav=item.subnav %}
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>

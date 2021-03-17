@@ -13,3 +13,5 @@ date: 2021-02-24 16:06:00 --0000
 [Add navigation](https://jekyllrb.com/tutorials/navigation/#scenario-9-nested-tree-navigation-with-recursion)
 
 [Add sidebar](https://justus.science/blog/2015/04/17/a-sweetass-sidebar.html)
+
+Of course, in order to change the layout of the page, there needs to be some modifications of the .css file. 
