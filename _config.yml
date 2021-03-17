@@ -19,6 +19,14 @@ avatar: https://avatars2.githubusercontent.com/u/29715447?s=400&u=66ff7bced74b41
 # Flags below are optional
 #
 
+defaults:
+  - scope:
+      path: ""
+      type: nav
+    values:
+      sidebar:
+        nav: "nav"
+
 # Includes an icon in the footer for each username you enter
 social-links:
   dribbble:

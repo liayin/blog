@@ -2,7 +2,14 @@
 layout: post
 title: Version Control
 date: 2021-03-14 20:31:00 --0000
+permalink: /posts/version-control/
 ---
+<ul>
+   {% for item in site.data.nav.nav %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+
 
 Version control is very useful for working with R projects, as well as other analytics/software projects, because if you have deleted some content from the code file, and later would like to restore it, version control gives you the option to do so.
 

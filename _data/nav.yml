@@ -1,3 +1,6 @@
 nav:
-  - title: Version Control
-    url: Version-Control
+- title: Version Control
+  url: /posts/version-control/
+
+- title: Miscellaneous Readings
+  url: /posts/readings/
