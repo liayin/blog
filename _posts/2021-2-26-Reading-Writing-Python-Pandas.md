@@ -2,6 +2,7 @@
 layout: post
 title: How to Import to and Export from Python Pandas
 date: 2021-02-26 16:06:00 --0000
+permalink: /posts/pandas-imports-exports/
 ---
 
 The most common use of Python Pandas is to process data. However, data could be recorded in different formats: tab-delimited text data, .csv files, .json files, .dta files, etc. Below I would like to list some sources and offer some examples of how to import certain types of data into Python Pandas and how to export them from it:

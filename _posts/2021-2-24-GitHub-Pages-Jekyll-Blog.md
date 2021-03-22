@@ -15,4 +15,4 @@ permalink: /posts/github-pages-jekyll-blog/
 
 [Add sidebar](https://justus.science/blog/2015/04/17/a-sweetass-sidebar.html)
 
-Of course, in order to change the layout of the page, there needs to be some modifications of the .css file. 
+Of course, in order to change the layout of the page, there needs to be some modifications of the .css file. If we want to display two columns side by side, we could use the CSS Grid like [here](https://www.cssmakeovers.com/patterns/two-columns-infinite/).

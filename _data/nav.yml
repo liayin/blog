@@ -1,14 +1,24 @@
 toc:
-- title: Version Control
-  url: /posts/version-control/
-
-- title: Miscellaneous Readings
-  url: /posts/readings/
+- title: Research
+  subfolderitems:
+    - page: Murder Circumstances
+      url: /posts/murder-circumstances/
 
 - title: Econometrics
   subfolderitems:
     - page: Econometrics Models
       url: /posts/metrics-models/
+
+- title: Python-related
+  subfolderitems:
+    - page: Pandas Imports and Exports
+      url: /posts/pandas-imports-exports/
+    
+    - page: Pandas Basic Commands
+      url: /posts/pandas-basic-commands/
+
+    - page: Plotting in Python
+      url: /posts/python-plotting
 
 - title: R-related
   subfolderitems:
@@ -18,7 +28,18 @@ toc:
     - page: RStudio Basics
       url: /posts/rstudio-basics/
 
+- title: Latex-related
+  subfolderitems:
+    - page: Latex Equations
+      url: /posts/latex-equations/
+
 - title: Other
   subfolderitems:
     - page: Github Pages Jekyll Blog
       url: /posts/github-pages-jekyll-blog/
+    
+    - page: Miscellaneous Readings
+      url: /posts/readings/
+
+    - page: Version Control
+      url: /posts/version-control/

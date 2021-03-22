@@ -2,6 +2,7 @@
 layout: post
 title: Pandas Basic Commands
 date: 2020-02-13 17:05:00 --0000
+permalink: /posts/pandas-basic-commands/
 ---
 [Click here for other basics](https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8)
 

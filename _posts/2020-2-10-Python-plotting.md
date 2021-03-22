@@ -2,6 +2,7 @@
 layout: post
 title: Plotting in Python
 date: 2020-02-10 17:03:00 --0000
+permalink: /posts/python-plotting/
 ---
 
 ## Matplotlib

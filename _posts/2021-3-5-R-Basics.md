@@ -33,6 +33,21 @@ To set working directory
 ```r
 setwd("/path/to/my/directory")
 ```
+## Data Types
+### Convert character variable to numeric
+```r
+dataset$prop_camp <- as.numeric(dataset$prop_camp)
+```
+
+### Converting Character Variable to Factor
+```r
+dataset$cookstove_assigned2 <- factor(dataset$cookstove_assigned2, 
+                                      levels = c("Already users", 
+                                                 "Intervention group",
+                                                 "Waitlisted controls"),
+                                      ordered=TRUE)
+```
+
 
 ## Simple Plotting
 ### Boxplot
