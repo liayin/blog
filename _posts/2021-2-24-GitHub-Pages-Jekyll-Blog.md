@@ -16,3 +16,5 @@ permalink: /posts/github-pages-jekyll-blog/
 [Add sidebar](https://justus.science/blog/2015/04/17/a-sweetass-sidebar.html)
 
 Of course, in order to change the layout of the page, there needs to be some modifications of the .css file. If we want to display two columns side by side, we could use the CSS Grid like [here](https://www.cssmakeovers.com/patterns/two-columns-infinite/).
+
+The style sheet used by the `minima` theme is called [sass](https://sass-lang.com/), and the file extension is .scss. In scss, the [way](https://rivet.iu.edu/add-ons/rivet-shell/) to add the sidebar is to add it under the `main` element.
