@@ -4,6 +4,9 @@ toc:
     - page: Murder Circumstances
       url: /posts/murder-circumstances/
 
+    - page: Charges
+      url: /posts/charges/
+
 - title: Econometrics
   subfolderitems:
     - page: Econometrics Models
@@ -43,3 +46,6 @@ toc:
 
     - page: Version Control
       url: /posts/version-control/
+
+    - page: Jupyter Lab
+      url: /posts/jupyter-lab/

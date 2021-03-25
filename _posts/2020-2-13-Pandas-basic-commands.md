@@ -13,14 +13,33 @@ df2 = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
                    columns=['a', 'b', 'c'])
 ```
 
+Make a list of dataframes from names in a list:
+```python
+i = 0
+for df_name in list_dfs:
+    globals()[df_name] = df.loc[df.id == 'id-0000' + str(i)]
+    i += 1
+```
+
 Merge two dataframes by a certain column:
 ```Python
 pd.merge(df1, df2, on='company')
 ```
 
-Display a slice of the data
+Display a slice of the data:
 ```Python
 all.head()
+```
+
+Display all unique values in dataframe ([link](https://www.kite.com/python/answers/how-to-find-the-unique-values-in-multiple-columns-of-a-pandas-dataframe-in-python)):
+```python
+column_values = df[["A", "B"]].values.ravel()
+unique_values =  pd.unique(column_values)
+```
+
+Append dataframes:
+```python
+df = df.append(df2, ignore_index=True)
 ```
 
 ## Row Tricks
@@ -161,10 +180,23 @@ df = df[df.line_race != 0]
 df = df['State'].str.strip(' ')
 ```
 
+### Change Column Data Type
+Change from categorical to numeric:
+```python
+list = ['charg5', 'charg4', 'charg3', 'charg2', 'charg1']
+for charges in list:
+    df_circum[charges] = df_circum[charges].cat.codes
+```
+
 ## Data Tricks
-Frequency table for a column
+Frequency table for a column:
 ```python
 df_circum['charg1'].value_counts()
+```
+
+Replace a number with NaN:
+```python
+df_circum['charg1'] = df_circum['charg1'].replace(-1, np.NaN)
 ```
 
 ## Some Groupby Tricks
