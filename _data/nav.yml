@@ -6,6 +6,12 @@ toc:
 
     - page: Charges
       url: /posts/charges/
+    
+    - page: Murder Numbers by SHR
+      url: /posts/murder-numbers/
+    
+    - page: Definitions of Murder
+      url: /posts/murder-def/
 
 - title: Econometrics
   subfolderitems:

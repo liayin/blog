@@ -2,6 +2,7 @@
 layout: post
 title: Murder Numbers by the State based on Supplementary Homicide Report
 date: 2020-02-18 17:05:00 --0000
+permalink: /posts/murder-numbers/
 ---
 
 From the time trends, we can tell that Florida had a large increase around the time when the syg law was passed. Other states didn't have a visible change, perhaps because theirs are small compared to the major states.
