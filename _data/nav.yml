@@ -18,6 +18,9 @@ toc:
     - page: Econometrics Models
       url: /posts/metrics-models/
 
+    - page: Seminars
+      url: /posts/seminars/
+
 - title: Python-related
   subfolderitems:
     - page: Python Basics
@@ -44,6 +47,11 @@ toc:
   subfolderitems:
     - page: Latex Equations
       url: /posts/latex-equations/
+
+- title: Stata-related
+  subfolderitems:
+    - page: Counting in Stata
+      url: /posts/counting-stata/
 
 - title: Other
   subfolderitems:

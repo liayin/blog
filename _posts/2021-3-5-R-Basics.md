@@ -108,7 +108,26 @@ Reorder columns
 df[,c(1,2,3,4)]
 ```
 
+Drop columns
+```r
+df = subset(mydata, select = -c(x,z) )
+```
+
 ### Data frames
+[Examine a Data Frame in R with 7 Basic Functions](https://rveryday.wordpress.com/2016/11/29/examine-a-data-frame-in-r-with-7-basic-functions/):
+1. `dim()`: shows the dimensions of the data frame by row and column
+2. `str()`: shows the structure of the data frame
+3. `summary()`: provides summary statistics on the columns of the data frame
+4. `colnames()`: shows the name of each column in the data frame
+5. `head()`: shows the first 6 rows of the data frame
+6. `tail()`: shows the last 6 rows of the data frame
+7. `View()`: shows a spreadsheet-like display of the entire data frame
+
+Check for missing values in a dataframe:
+```r
+sapply(airquality, function(x) sum(is.na(x)))
+```
+
 Combine two cross sectional data sets into a panel data set
 ```r
 library(dplyr)
