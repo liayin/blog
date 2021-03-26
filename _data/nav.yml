@@ -11,7 +11,7 @@ toc:
       url: /posts/murder-numbers/
     
     - page: Definitions of Murder
-      url: /posts/murder-def/
+      url: /posts/murder-defn/
 
 - title: Econometrics
   subfolderitems:
@@ -20,6 +20,9 @@ toc:
 
 - title: Python-related
   subfolderitems:
+    - page: Python Basics
+      url: /posts/python-basics/
+
     - page: Pandas Imports and Exports
       url: /posts/pandas-imports-exports/
     
@@ -55,3 +58,9 @@ toc:
 
     - page: Jupyter Lab
       url: /posts/jupyter-lab/
+
+    - page: Jupyter Notebook Shortcuts
+      url: /posts/jupyter-notebook-shortcuts/
+
+    - page: Conda Environments
+      url: /posts/conda-environ/

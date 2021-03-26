@@ -54,6 +54,11 @@ Repeat rows multiple times:
 df_law = df_law.loc[np.repeat(df_law.index.values, 15)].reset_index(drop=True)
 ```
 
+Pandas forward fill:
+```python
+df['x'] = df.groupby(['id'])['x'].ffill()
+```
+
 ## Column Tricks
 In order to see all the column names, we could do the trick below:
 ```Python
