@@ -12,6 +12,9 @@ toc:
     
     - page: Definitions of Murder
       url: /posts/murder-defn/
+    
+    - page: Literature
+      url: /posts/literature/
 
 - title: Econometrics
   subfolderitems:
@@ -42,6 +45,9 @@ toc:
 
     - page: RStudio Basics
       url: /posts/rstudio-basics/
+
+    - page: R Graphics
+      url: /posts/r-graphics/
 
 - title: Latex-related
   subfolderitems:
