@@ -100,6 +100,17 @@ df.drop(df.iloc[:, 1:3], inplace = True, axis = 1)
 df = df[['mean', 4, 3, 2, 1]]
 ```
 
+Remove column name, especially after crosstab:
+```python
+df_murder_type.columns.name = None
+```
+
+Rounding a column:
+```python
+df.round(1)
+df.round({'dogs': 1, 'cats': 0})
+```
+
 ### Adding columns
 Insert column with incremental year
 ```python
@@ -186,11 +197,22 @@ df = df['State'].str.strip(' ')
 ```
 
 ### Change Column Data Type
+Change to numeric:
+```python
+# convert column "a" of a DataFrame
+df["a"] = pd.to_numeric(df["a"])
+```
+
 Change from categorical to numeric:
 ```python
 list = ['charg5', 'charg4', 'charg3', 'charg2', 'charg1']
 for charges in list:
     df_circum[charges] = df_circum[charges].cat.codes
+```
+
+Change to integer:
+```python
+df[list("ABCD")] = df[list("ABCD")].astype(int)
 ```
 
 ## Data Tricks
@@ -202,6 +224,10 @@ df_circum['charg1'].value_counts()
 Replace a number with NaN:
 ```python
 df_circum['charg1'] = df_circum['charg1'].replace(-1, np.NaN)
+```
+Replace a value based on a criterion:
+```python
+df.loc[df['First Season'] > 1990, 'First Season'] = 1
 ```
 
 ## Some Groupby Tricks
