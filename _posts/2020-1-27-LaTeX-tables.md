@@ -68,3 +68,30 @@ The resulting table would look like:
 [Click link for a good reference.](https://www.overleaf.com/learn/latex/Tables)
 
 [Click here](https://tex.stackexchange.com/questions/28333/continuous-v-per-chapter-section-numbering-of-figures-tables-and-other-docume) if you would like table numbering to follow/unfollow the chapter headings.
+
+### Multirow Table
+```
+\usepackage{multirow}
+
+\begin{table}[H]\centering
+	\caption{Comparison between States With Law and States Without Law (2000-2015)}
+	\vspace{1mm}
+	\label{sum2}
+	\begin{tabular}{c *{5}{c} *{2}{c}}
+		\hline\hline
+		State and Year & \multicolumn{5}{c}{Summary Statistics} & \multicolumn{2}{c}{Comparison} \\
+		 &  Count & Max & Min & Mean & SD & Degrees of Freedom & t \\
+		\hline
+		Without Law & 575 & 13.25 &        0.62 &        4.19&         2.29&    \multirow{2}{*}{775} & \multirow{2}{*}{-6.47***}    \\
+		With Law & 200 & 14.56 & .9 & 5.39 & 2.08 &      &      \\
+		\hline
+		\multicolumn{8}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+		\multicolumn{8}{l}{\footnotesize * \(p<0.10\), ** \(p<0.05\), *** \(p<0.01\)}\\
+	\end{tabular}
+	\vspace{-4mm}
+	\caption*{\footnotesize The average murder rates for state-years without law and with law are statistically significantly different. The average murder rate for state-years without the law is 4.22 and that for state-years with the law is 5.35.}
+\end{table}
+```
+
+Resulting table:
+![Multirow Table](/images/multirow_table.jpg "Multirow Table")

@@ -16,13 +16,13 @@ toc:
     - page: Literature
       url: /posts/literature/
 
+    - page: Seminars
+      url: /posts/seminars/
+
 - title: Econometrics
   subfolderitems:
     - page: Econometrics Models
       url: /posts/metrics-models/
-
-    - page: Seminars
-      url: /posts/seminars/
 
 - title: Python-related
   subfolderitems:
