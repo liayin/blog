@@ -59,11 +59,16 @@ toc:
     - page: Counting in Stata
       url: /posts/counting-stata/
 
-- title: Other
+- title: Github
   subfolderitems:
+    - page: Some Tips on Using Github
+      url: /posts/github/
+
     - page: Github Pages Jekyll Blog
       url: /posts/github-pages-jekyll-blog/
-    
+
+- title: Other
+  subfolderitems:
     - page: Miscellaneous Readings
       url: /posts/readings/
 
