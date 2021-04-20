@@ -38,9 +38,30 @@ Alex Torgovitsky
 "Instrumental Variables with Multiple Instruments"
 
 [The Causal Interpretation of Two-Stage Least Squares with Multiple Instrumental Variables](https://a-torgovitsky.github.io/monotonicity.pdf)
+
 [Policy Evaluation with Multiple Instrumental Variables](https://a-torgovitsky.github.io/multipleivmte.pdf)
 
 The accompanying Stata module can be found on his [personal website](https://a-torgovitsky.github.io/).
+
+
+4-1-2021
+
+Harvard/MIT Seminar in Econometrics
+
+Dmitry Arkhangelsky
+
+[On Policy Evaluation with Aggregate Time-Series Shocks](https://sites.google.com/view/dmitry-arkhangelsky/research?authuser=0)
+
+
+4-15-2021
+
+Harvard/MIT Seminar in Econometrics
+
+Bryan Graham
+
+[An optimal test for strategic interaction in social and economic network formation beteen heterogeneous agents](http://bryangraham.github.io/econometrics/research/)
+
+Python package for the simulation is available on the same page.
 
 ### Crime
 
@@ -60,11 +81,10 @@ ClassACTForum
 
 [Racism In the Criminal System: Communities Fight for Justice](https://www.classacthr73.org/Racism-in-the-Criminal-System-Communities-Fight-for-Justice)
 
+4-15-2021
 
-4-1-2021
+Hanna Hoover
 
-Harvard/MIT Seminar in Econometrics
+[Civil Rights Restoration and Recidivism](https://sites.google.com/view/hannahoover/research?authuser=0)
 
-Dmitry Arkhangelsky
-
-[On Policy Evaluation with Aggregate Time-Series Shocks](https://sites.google.com/view/dmitry-arkhangelsky/research?authuser=0)
+Florida is currently one of only a handful of states that does not restore civil rights upon completion of a sentence for felons. Instead, persons with a prior felony conviction must apply for civil rights restoration through a constitutionally authorized process known as clemency. Civil rights revocation not only revokes the right to vote, but also denies eligibility of certain occupational licenses and state-funded scholarships. Over the past 26 years, the Rules of Executive Clemency have been amended such that approval became automatic for those eligible between 2007 to 2011. Outside of this time period, however, clemency required an application, hearing, and a mandatory waiting period. It is unknown, a priori, if such policy changes influenced labor market outcomes, voting behavior, or educational attainment, any of which may affect incentives for convicted felons to re-offend. As an aggregate measure of these channels, I analyze the casual link between civil rights restoration and rates of recidivism. To establish causality, this paper uses changes in the Rules of Executive Clemency affecting ex-felons' ability to restore their civil rights in order to identify the impact of civil rights restoration on rates of recidivism.

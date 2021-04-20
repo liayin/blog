@@ -47,3 +47,6 @@ Based on discussions after Equation \ref{eq:1}, $a_{\delta} < 0$.
 
 The text will display as:
 ![reference](/images/reference.jpg "reference")
+
+### Bold Font in Math Mode
+The `\mathbf` command can only be used for non-italic math content, but the `\bm` command from the package `bm` provides a good alternative. See details [here](https://tex.stackexchange.com/questions/22643/how-to-write-letters-in-bold-in-the-math-mode).

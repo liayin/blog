@@ -51,6 +51,9 @@ toc:
 
 - title: Latex-related
   subfolderitems:
+    - page: LaTex Basics
+      url: /posts/latex-basics/
+
     - page: Latex Equations
       url: /posts/latex-equations/
 
