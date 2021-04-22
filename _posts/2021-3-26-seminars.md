@@ -88,3 +88,11 @@ Hanna Hoover
 [Civil Rights Restoration and Recidivism](https://sites.google.com/view/hannahoover/research?authuser=0)
 
 Florida is currently one of only a handful of states that does not restore civil rights upon completion of a sentence for felons. Instead, persons with a prior felony conviction must apply for civil rights restoration through a constitutionally authorized process known as clemency. Civil rights revocation not only revokes the right to vote, but also denies eligibility of certain occupational licenses and state-funded scholarships. Over the past 26 years, the Rules of Executive Clemency have been amended such that approval became automatic for those eligible between 2007 to 2011. Outside of this time period, however, clemency required an application, hearing, and a mandatory waiting period. It is unknown, a priori, if such policy changes influenced labor market outcomes, voting behavior, or educational attainment, any of which may affect incentives for convicted felons to re-offend. As an aggregate measure of these channels, I analyze the casual link between civil rights restoration and rates of recidivism. To establish causality, this paper uses changes in the Rules of Executive Clemency affecting ex-felons' ability to restore their civil rights in order to identify the impact of civil rights restoration on rates of recidivism.
+
+4-22-2021
+
+Marta Troya-Martinez
+
+[Mobbed Up: Control of Labor Unions as Cartel Enforcement](https://sites.google.com/site/mtroyamartinez/research)
+
+After select counties enforced Racketeer Influenced and Corrupt Organizations Act (RICO), they see a statistically significant rise in the number of new establishments and employment. The paper attributes it to the successful removal of mafia influence in these locations.

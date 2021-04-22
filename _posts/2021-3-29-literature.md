@@ -10,6 +10,9 @@ Works on the SYG Law:
 
 - [GVPedia University (2018)](https://www.gvpedia.org/fact-sheet-stand-your-ground-laws/): Fact Sheet - Stand Your Ground Laws (media synthesis of research articles)
 
+Right-to-Carry Laws:
+- [Donohue, Aneja & Weber (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/jels.12219): Right-to-Carry Laws and Violent Crime: A Comprehensive Assessment Using Panel Data and a State-Level Synthetic Control Analysis
+
 Methods:
 - [Hausman & Lavetti (2021): Physician Practice Organization and Negotiated Prices: Evidence from State Law Changes](https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20180078)
 
@@ -30,3 +33,6 @@ Gun and Self-defense:
 - [Defilippis & Hughes (2015)](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262/): The Myth Behind Defensive Gun Ownership (newspaper article)
 
 - [Zimring (2017)](https://law.asu.edu/sites/default/files/pdf/academy_for_justice/9_Reforming-Criminal-Justice_Vol_1_Firearms-and-Violence.pdf): Firearms and Violence (book chapter). Zimring pointed out that the higher rate of civilians killed by police may be associated with the higher rate of police death. He suspects that both may be related with the use of firearms.
+
+Law's unintended consequences:
+- [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).

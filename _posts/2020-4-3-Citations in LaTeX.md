@@ -62,3 +62,10 @@ My own setup is as follows:
 \usepackage[authordate, backend = biber, sorting=nyt]{biblatex-chicago}
 \addbibresource{D:/Dropbox/StandYourGroundLawWriteup/references.bib}
 ```
+
+#### Law Citations
+
+Citing statutes:
+```
+\footnote{}
+```

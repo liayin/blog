@@ -19,6 +19,12 @@ toc:
     - page: Seminars
       url: /posts/seminars/
 
+    - page: Journal Ranking
+      url: /posts/journal-ranking/
+
+    - page: Laws
+      url: /posts/laws/
+
 - title: Econometrics
   subfolderitems:
     - page: Econometrics Models
