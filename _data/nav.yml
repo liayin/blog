@@ -25,10 +25,16 @@ toc:
     - page: Laws
       url: /posts/laws/
 
+    - page: Citation Guides
+      url: /posts/citation-guides/
+
 - title: Econometrics
   subfolderitems:
     - page: Econometrics Models
       url: /posts/metrics-models/
+
+    - page: Econometrics Resources
+      url: /posts/metrics-resources/
 
 - title: Python-related
   subfolderitems:
@@ -42,7 +48,10 @@ toc:
       url: /posts/pandas-basic-commands/
 
     - page: Plotting in Python
-      url: /posts/python-plotting
+      url: /posts/python-plotting/
+
+    - page: Two Sample t Test in Python
+      url: /posts/t-test/
 
 - title: R-related
   subfolderitems:

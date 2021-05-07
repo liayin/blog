@@ -63,6 +63,16 @@ Bryan Graham
 
 Python package for the simulation is available on the same page.
 
+4-26-2021
+
+BC Econometrics Seminar
+
+Susanne Schennach
+
+[Independent Nonlinear Component Analysis](https://sites.google.com/a/brown.edu/smschenn/home/Papers)
+
+Primarily applied to regularization of control variables.
+
 ### Crime
 
 4-1-2021
@@ -96,3 +106,11 @@ Marta Troya-Martinez
 [Mobbed Up: Control of Labor Unions as Cartel Enforcement](https://sites.google.com/site/mtroyamartinez/research)
 
 After select counties enforced Racketeer Influenced and Corrupt Organizations Act (RICO), they see a statistically significant rise in the number of new establishments and employment. The paper attributes it to the successful removal of mafia influence in these locations.
+
+4-29-2021
+
+Tinna Laufey Asgeirsdottir
+
+Monetizing victim suffering due to violence
+
+Abstract: Efficiency calculations of violence prevention are likely to be severely biased if the hard-to-measure value of utility reductions due to victimization are not included. We measure the monetary compensation needed to offset the welfare loss associated with being subjected to violence, by applying the compensating-income-variation method to data from an Icelandic health-and-lifestyle survey carried out in 2017. We examine differences in the monetary compensation needed by (i) types of violence, (ii) duration since the exposure, and (iii) the relationship with the perpetrator. Our results show that the cost associated with the welfare loss of violence is highest when the violence psychological, the perpetrator is a spouse or an ex-spouse, and when the violence happened recently.

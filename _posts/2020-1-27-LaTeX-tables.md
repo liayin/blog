@@ -4,6 +4,7 @@ title: Tables in LaTeX
 date: 2020-01-27 17:05:00 --0000
 ---
 
+### Basic Tables
 In order to create a table, the most common way is to use ```\begin{table}```. And then ```\begin{tabular}{}``` where we can specify how many columns there are and what their alignments are. The common ones used are ```{l c c}``` if there are three columns or ```{l *{5}{c} m{4cm}}``` if there are seven. In order to add notes to the table, ```\multicolumn``` is helpful. Below is an example:
 ```
 \begin{table}
@@ -20,6 +21,7 @@ In order to create a table, the most common way is to use ```\begin{table}```. A
 The end result is displayed as below:
 ![Table](/images/table.jpg "Table")
 
+### Adding Notes
 If we want to add notes, we could use three part tables. In the header, we could add ```\usepackage{threeparttable}```. In the body of the text, we could use
 ```
 \begin{table}[H]
@@ -48,6 +50,7 @@ The resulting table would look like:
 
 Note that we should always put `\label` after `\caption` because counter would only be reset by `\refstepcounter` after a call to `\caption`.
 
+### Importing Tables from another File
 With tables generated from software, we can use ```\input{D:/Research/Data/NCVS/perc_def.tex}```. In order to add notes, we could use
 ```\leftskip=2cm\rightskip=2cm```, and for the rest of the article, we should add ```\leftskip=0cm\rightskip=0cm```
 
@@ -95,3 +98,42 @@ The resulting table would look like:
 
 Resulting table:
 ![Multirow Table](/images/multirow_table.jpg "Multirow Table")
+
+### Multipage Table
+```
+\usepackage{longtable}
+\usepackage{lipsum} % just for dummy text- not needed for a longtable
+
+\begin{document}
+\lipsum[1]
+\lipsum[1]
+\lipsum[1]
+
+%\begin{table}[h] 
+%\centering
+\begin{longtable}{| p{.20\textwidth} | p{.80\textwidth} |} 
+\caption{SYG Law Status for All States\label{tbl: all_states}} \\
+\hline
+Header \\ \hline
+\endhead % all the lines above this will be repeated on every page
+foo & bar \\ \hline 
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+\caption{Your caption here} % needs to go inside longtable environment
+\label{tab:myfirstlongtable}
+\end{longtable}
+%\end{table} 
+
+Table \ref{tab:myfirstlongtable} shows my first longtable.
+\end{document}
+```
+
+Reference [here](https://tex.stackexchange.com/questions/26462/make-a-table-span-multiple-pages), [here](https://tex.stackexchange.com/questions/11380/how-to-repeat-top-rows-column-headings-on-every-page), and [here](https://tex.stackexchange.com/questions/219138/how-to-have-a-caption-on-top-of-longtable/219145).
