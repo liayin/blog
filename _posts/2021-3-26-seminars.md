@@ -43,8 +43,9 @@ Alex Torgovitsky
 
 The accompanying Stata module can be found on his [personal website](https://a-torgovitsky.github.io/).
 
+#### Causal Inference
 
-4-1-2021
+- 4-1-2021
 
 Harvard/MIT Seminar in Econometrics
 
@@ -52,7 +53,17 @@ Dmitry Arkhangelsky
 
 [On Policy Evaluation with Aggregate Time-Series Shocks](https://sites.google.com/view/dmitry-arkhangelsky/research?authuser=0)
 
+- 5-7-2021
 
+Chamberlain Seminar
+
+Anna Mikusheva
+
+[Inference with Many Weak Instruments](https://drive.google.com/file/d/1-yas_cspytrr9r1iDR-yPyOVnNefpBqN/view?usp=sharing)
+
+We develop a concept of weak identification in linear IV models in which the number of instruments can grow at the same rate or slower than the sample size. We propose a jackknifed version of the classical weak identification-robust Anderson-Rubin (AR) test statistic. Large-sample inference based on the jackknifed AR is valid under heteroscedasticity and weak identication. The feasible version of this statistic uses a novel variance estimator. The test has uniformly correct size and good power properties. We also develop a pre-test for weak identification that is related to the size property of a Wald test based on the Jackknife Instrumental Variable Estimator. This new pre-test is valid under heteroscedasticity and with many instruments.
+
+#### Networks
 4-15-2021
 
 Harvard/MIT Seminar in Econometrics

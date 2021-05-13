@@ -15,6 +15,10 @@ Works on the SYG Law:
 Right-to-Carry Laws:
 - [Donohue, Aneja & Weber (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/jels.12219): Right-to-Carry Laws and Violent Crime: A Comprehensive Assessment Using Panel Data and a State-Level Synthetic Control Analysis
 
+Other laws:
+- [Ferrazares, Sabia & Anderson (2021)](https://www.nber.org/system/files/working_papers/w28763/w28763.pdf): Have U.S. Gun Buyback Programs Misfired?
+![Specification](/images/specification.jpg)
+
 Methods:
 - [Hausman & Lavetti (2021): Physician Practice Organization and Negotiated Prices: Evidence from State Law Changes](https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20180078)
 
@@ -32,6 +36,10 @@ Benefit-Cost Analysis:
 
 Shootings
 - [Deb & Gangaram (2021): Effects of School Shootings on Risky Behavior, Health and Human Capital](https://www.nber.org/papers/w28634)
+
+Education and Crime:
+- [Garcia, Heckman & Ziff (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344026/): Early Childhood Education and Crime
+    - Small sample size.
 
 Employments and Crime:
 - [Kessler, Tahamont, Gelber & Isen (2021)](https://www.nber.org/papers/w28373): The Effects of Youth Employment on Crime: Evidence from New York City Lotteries
