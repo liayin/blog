@@ -1,6 +1,9 @@
 toc:
 - title: Research
   subfolderitems:
+    - page: Crime Categories
+      url: /posts/crime-categories/
+
     - page: Murder Circumstances
       url: /posts/murder-circumstances/
 

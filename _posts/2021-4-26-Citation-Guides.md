@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laws
+title: Citation Guides
 date: 2021-04-26 14:43:00 --0000
 permalink: /posts/citation-guides/
 ---

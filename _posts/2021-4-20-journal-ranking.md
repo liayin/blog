@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LaTeX Basics
+title: Journal Ranking
 date: 2021-04-20 15:06:00 --0000
 permalink: /posts/journal-ranking/
 ---
