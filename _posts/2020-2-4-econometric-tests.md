@@ -2,6 +2,7 @@
 layout: post
 title: Econometric Tests
 date: 2020-02-04 17:04:00 --0000
+permalink: /posts/metrics-tests/
 ---
 
 Durbin-Wu-Hausman test: it evaluates the consistency of an estimator when compared to an alternative, less efficient estimator which is already known to be consistent.

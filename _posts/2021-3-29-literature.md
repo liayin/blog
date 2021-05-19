@@ -52,6 +52,17 @@ Gun and Self-defense:
 
 - [Zimring (2017)](https://law.asu.edu/sites/default/files/pdf/academy_for_justice/9_Reforming-Criminal-Justice_Vol_1_Firearms-and-Violence.pdf): Firearms and Violence (book chapter). Zimring pointed out that the higher rate of civilians killed by police may be associated with the higher rate of police death. He suspects that both may be related with the use of firearms.
 
+- [Hemenway & Solnick (2015)](https://pubmed.ncbi.nlm.nih.gov/25910555/)
+    - Objectives: To describe the epidemiology of self-defense gun use (SDGU) and the relative effectiveness of SDGU in preventing injury and property loss.
+
+    - Methods: Data come from the National Crime Victimization Survey for 2007-2011, focusing on personal contact crimes. For property loss, we examined incidents where the intent was to steal property. Multivariate analyses controlled for age, gender of offender and victim, if offender had a gun, urbanicity, and thirteen types of self-protective action.
+
+    - Results: Of over 14,000 incidents in which the victim was present, 127 (0.9%) involved a SDGU. SDGU was more common among males, in rural areas, away from home, against male offenders and against offenders with a gun. After any protective action, 4.2% of victims were injured; after SDGU, 4.1% of victims were injured. In property crimes, 55.9% of victims who took protective action lost property, 38.5 of SDGU victims lost property, and 34.9% of victims who used a weapon other than a gun lost property.
+
+    - Conclusions: Compared to other protective actions, the National Crime Victimization Surveys provide little evidence that SDGU is uniquely beneficial in reducing the likelihood of injury or property loss.
+
+    - Keywords: Gun; Property loss; Protection; Self-defense.
+
 Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
