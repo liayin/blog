@@ -85,6 +85,9 @@ toc:
   subfolderitems:
     - page: Counting in Stata
       url: /posts/counting-stata/
+    
+    - page: Edit Stata .do-files in Atom
+      url: /posts/stata-atom/
 
 - title: Github
   subfolderitems:
@@ -110,3 +113,6 @@ toc:
 
     - page: Conda Environments
       url: /posts/conda-environ/
+    
+    - page: Job Search Tips
+      url: /posts/job-search/
