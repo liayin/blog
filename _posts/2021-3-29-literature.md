@@ -47,6 +47,9 @@ Employments and Crime:
 Health and Crime:
 - [Arenberg, Neller & Stripling (2020)](https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf): The Impact of Youth Medicaid Eligibility on Adult Incarceration
 
+- [Moore & Schnepel (2021)](https://www.nber.org/papers/w28848): Opioid Use, Health and Crime: Insights from a Rapid Reduction in Heroin Supply
+    - In 2001, a large and sustained supply shock halted a heroin epidemic in Australia. We use outpatient drug treatment records to identify individuals who accounted for nearly half of opioid overdoses prior to the shock, and examine how the reduced supply of heroin affected their health and criminal activity over the next eight years. Initially, the gains from fewer overdose deaths are offset by individuals substituting to other drugs and committing more violent crime, including homicides. Most adverse effects dissipate after one year, and are followed by further decreases in deaths and a large reduction in property crime. Our results demonstrate that reducing the supply of illicit opioids can lead to meaningful longer-term improvements, even when the short-term effects are ambiguous.
+
 Gun and Self-defense: 
 - [Defilippis & Hughes (2015)](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262/): The Myth Behind Defensive Gun Ownership (newspaper article)
 

@@ -125,3 +125,11 @@ Tinna Laufey Asgeirsdottir
 Monetizing victim suffering due to violence
 
 Abstract: Efficiency calculations of violence prevention are likely to be severely biased if the hard-to-measure value of utility reductions due to victimization are not included. We measure the monetary compensation needed to offset the welfare loss associated with being subjected to violence, by applying the compensating-income-variation method to data from an Icelandic health-and-lifestyle survey carried out in 2017. We examine differences in the monetary compensation needed by (i) types of violence, (ii) duration since the exposure, and (iii) the relationship with the perpetrator. Our results show that the cost associated with the welfare loss of violence is highest when the violence psychological, the perpetrator is a spouse or an ex-spouse, and when the violence happened recently.
+
+5-20-2021
+
+[Jorge García Hombrados](https://sites.google.com/view/jgarciahombrados/home?authuser=0)
+
+Recidivism and Neighborhood Institutions: Evidence from the Rise of the Evangelical Church in Chile
+
+Abstract: Rehabilitating convicted criminals is challenging and an important share of convicted criminals return to prison only a few years after their release. Thus, finding effective ways of encouraging crime desistance has become an important policy goal to reduce crime and incarceration rates. This paper provides causal evidence that the local institutions of the neighborhood where individuals return after prison matter. Specifically, we show that the opening of an Evangelical church reduces twelve-months re-incarceration rates among property crime offenders by more than 10 percentage points. This effect represents a drop of 16% in the probability of returning to prison for this group of individuals. We find smaller and less precise effects for more severe types of crime. We discuss two classes of mechanisms that could explain our results: religiosity and social support. We provide evidence that the social support provided by evangelical churches is an important driver of our results. This suggests that non-religious local institutions could also play an important role in the rehabilitation of former inmates.
