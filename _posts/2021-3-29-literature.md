@@ -12,6 +12,17 @@ Works on the SYG Law:
 
 - [Chamlin & Krajewski (2016)](https://www.tandfonline.com/doi/abs/10.1080/01639625.2015.1012027): Use of Force and Home Safety: An Impact Assessment of Oklahoma's Stand Your Ground Law
 
+- [Ren, Zhang & Zhao (2012)](https://journals.sagepub.com/doi/full/10.1177/0011128712466886): The Deterrent Effect of the Castle Doctrine Law on Burglary in Texas: A Tale of Outcomes in Houston and Dallas
+    - On the Joe Horn shooting
+
+- [Roman (2013)](https://www.urban.org/research/publication/race-justifiable-homicide-and-stand-your-ground-laws): Race, Justifiable Homicide, and Stand Your Ground Laws
+    - Race and the SYG laws
+
+- [Oliver (2021)](https://www.youtube.com/watch?v=vTF-Kz_7L0c): Late night show episode on it
+    - SecondCall Defense, USCCA, US LawShield
+
+- [Levy et al (2020)](https://pubmed.ncbi.nlm.nih.gov/31730807/): Stand Your Ground: Policy and Trends in Firearm-Related Justifiable Homicide and Homicide in the US
+
 Right-to-Carry Laws:
 - [Donohue, Aneja & Weber (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/jels.12219): Right-to-Carry Laws and Violent Crime: A Comprehensive Assessment Using Panel Data and a State-Level Synthetic Control Analysis
 
@@ -43,6 +54,18 @@ Education and Crime:
 
 Employments and Crime:
 - [Kessler, Tahamont, Gelber & Isen (2021)](https://www.nber.org/papers/w28373): The Effects of Youth Employment on Crime: Evidence from New York City Lotteries
+
+Inequality and Crime:
+- [Enamorado, Lopez-Calva, Rodriguez-Castelan & Winkler (2015)](https://www.sciencedirect.com/science/article/abs/pii/S0304387815001364): Income inequality and violent crime: Evidence from Mexico's drug war
+    - Instruments for inequality through initial distribution and national income trends
+    - Data is at the municipality level
+
+- [Brush (2007)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Does+income+inequality+lead+to+more+crime%3F+A+comparison+of+cross-sectional+and+time-series+analyses+of+United+States+counties&btnG=): Does income inequality lead to more crime? A comparison of cross-sectional and time-series analyses of United States counties
+    - Data is at the county level
+
+- [Choe (2008)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Income+inequality+and+crime+in+the+United+States&btnG=): Income inequality and crime in the United States
+    - Data is at the state level
+    - Time is 1995-2004
 
 Health and Crime:
 - [Arenberg, Neller & Stripling (2020)](https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf): The Impact of Youth Medicaid Eligibility on Adult Incarceration
@@ -101,3 +124,6 @@ control and abortion, in so far as it is reflected in their Internet search and 
 media activity. In particular, we examine the potential influence of 16 and Pregnant
 on teens’ decision-making process with data on the frequency with which teens search for terms like “how to get birth control” or use the terms “birth control” or “abortion” in their tweets. This analysis provides some insight into the mechanisms 
 that would lead to changes in rates of teen childbearing in the absence of sufficient data on actual levels of sexual activity and contraceptive use.
+
+- [Jetter & Molina (2020)](https://www.dropbox.com/s/wxvoex9m7mv7sxj/philspeech.pdf): Persuasive agenda-setting: Rodrigo Duterte's inauguration speech and drugs in the Philippines
+    - Exploring the elusive agenda-setting hypothesis pertaining to democratically-elected leaders, we hypothesize that Duterte’s 2016 inauguration speech systematically shifted Filipinos’ policy agenda to prioritizing illegal drugs. In a country that tops internet usage worldwide, we study daily Google searches on the national and regional level, identifying a strong and persistent increase in drug-related searches right after the speech, both in absolute terms and relative to other prominent policy topics. Further estimations rule out alternative explanations, including Duterte’s election campaign, potentially confounding topics (i.e., pharmaceutical drugs, Duterte’s ‘War on Drugs’), and common international time trends. Complementing Google search data, individual-level surveys also reveal more respondents considered crime reduction the top national priority right after the speech. To better identify causality, we exploit the historical timing of local festivals, leaving some provinces less exposed to the speech. Results show less-exposed provinces exhibit smaller increases in drug-related Google searches and survey-elicited crime prioritization.

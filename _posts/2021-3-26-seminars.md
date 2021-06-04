@@ -63,6 +63,15 @@ Anna Mikusheva
 
 We develop a concept of weak identification in linear IV models in which the number of instruments can grow at the same rate or slower than the sample size. We propose a jackknifed version of the classical weak identification-robust Anderson-Rubin (AR) test statistic. Large-sample inference based on the jackknifed AR is valid under heteroscedasticity and weak identication. The feasible version of this statistic uses a novel variance estimator. The test has uniformly correct size and good power properties. We also develop a pre-test for weak identification that is related to the size property of a Wald test based on the Jackknife Instrumental Variable Estimator. This new pre-test is valid under heteroscedasticity and with many instruments.
 
+- 6-4-2021
+
+Chamberlain Seminar
+
+Shu Shen
+
+Dynamic Regression Discontinuity Under Treatment Effect Heterogeneity
+- Regression discontinuity (RD) is a popular tool for the analysis of economic policies or treatment interventions. This paper extends the classic static RD model to a dynamic framework, where observations are eligible for repeated RD eligibility tests and, therefore, treatments. Such kinds of dynamics complicate the identification and estimation of longer-term average treatment effects. Previous empirical research with such designs typically ignored the dynamics in the model or adopted restrictive identifying assumptions. This paper lays out the dynamic RD model using the potential outcome framework and proposes nonparametric and semiparametric identification and estimation strategies under various assumptions. The proposed methods are applied to revisit the effect of local school bonds in the seminal study of Cellini et al. (2010). Estimated effects are qualitatively similar or somewhat larger than reported in Cellini et al. (2010).
+
 #### Networks
 4-15-2021
 
@@ -133,3 +142,16 @@ Abstract: Efficiency calculations of violence prevention are likely to be severe
 Recidivism and Neighborhood Institutions: Evidence from the Rise of the Evangelical Church in Chile
 
 Abstract: Rehabilitating convicted criminals is challenging and an important share of convicted criminals return to prison only a few years after their release. Thus, finding effective ways of encouraging crime desistance has become an important policy goal to reduce crime and incarceration rates. This paper provides causal evidence that the local institutions of the neighborhood where individuals return after prison matter. Specifically, we show that the opening of an Evangelical church reduces twelve-months re-incarceration rates among property crime offenders by more than 10 percentage points. This effect represents a drop of 16% in the probability of returning to prison for this group of individuals. We find smaller and less precise effects for more severe types of crime. We discuss two classes of mechanisms that could explain our results: religiosity and social support. We provide evidence that the social support provided by evangelical churches is an important driver of our results. This suggests that non-religious local institutions could also play an important role in the rehabilitation of former inmates.
+
+5-27-2021
+
+Teresa Molina
+
+[Persuasive agenda-setting: Rodrigo Duterte's inauguration speech and drugs in the Philippines](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fwxvoex9m7mv7sxj%2Fphilspeech.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGwMJV9mHjIVlvmGOr1fHHByrDVxg)
+- Use Google Search data
+
+6-3-2021
+
+Brian Knight
+
+[Crime and Gender Segregation: Evidence from the Bogota Lockdown](https://sites.brown.edu/brianknight/files/2021/05/w28686.pdf)
