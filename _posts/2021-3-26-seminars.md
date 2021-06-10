@@ -155,3 +155,11 @@ Teresa Molina
 Brian Knight
 
 [Crime and Gender Segregation: Evidence from the Bogota Lockdown](https://sites.brown.edu/brianknight/files/2021/05/w28686.pdf)
+
+6-10-2021
+
+Emily Weisburst
+
+[Do Police Make Too Many Arrests?](https://drive.google.com/file/d/1ci-U6Y3Exjj7AtyEPPat_lcHdOAfaHT6/view)
+
+We ask whether reductions in arrests increase crime, a central question in the current debate about police reform in the United States. Identifying this causal effect is difficult, as changes in arrests are nonrandom and often reflect or coincide with changes in crime. We study changes in arrests after line-of-duty deaths of officers, events that are likely to impact peer police behavior through increased fear of job risk or emotional distress but are unlikely to directly affect civilian criminal activity or community trust. We document that officer deaths are not preceded by changes in crime within cities, indicating that their timing is plausibly exogenous. These deaths lead to short-term but significant reductions in arrests of all types, with the largest reductions in more discretionary arrests for lower level offenses. Despite this drop in arrest activity, we find no evidence of an increase in crime. Moreover, there does not appear to be a threshold level or duration of reduced arrest activity past which crime increases. Our findings suggest that police departments may be able to reduce marginal enforcement without incurring public safety costs.

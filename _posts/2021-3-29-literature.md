@@ -67,6 +67,9 @@ Inequality and Crime:
     - Data is at the state level
     - Time is 1995-2004
 
+- [Kang (2015)](https://link.springer.com/article/10.1007/s00148-015-0579-3): Inequality and crime revisited: effects of local inequality and economic segregation on crime
+    - Data is at the census tract level
+
 Health and Crime:
 - [Arenberg, Neller & Stripling (2020)](https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf): The Impact of Youth Medicaid Eligibility on Adult Incarceration
 
@@ -127,3 +130,6 @@ that would lead to changes in rates of teen childbearing in the absence of suffi
 
 - [Jetter & Molina (2020)](https://www.dropbox.com/s/wxvoex9m7mv7sxj/philspeech.pdf): Persuasive agenda-setting: Rodrigo Duterte's inauguration speech and drugs in the Philippines
     - Exploring the elusive agenda-setting hypothesis pertaining to democratically-elected leaders, we hypothesize that Duterte’s 2016 inauguration speech systematically shifted Filipinos’ policy agenda to prioritizing illegal drugs. In a country that tops internet usage worldwide, we study daily Google searches on the national and regional level, identifying a strong and persistent increase in drug-related searches right after the speech, both in absolute terms and relative to other prominent policy topics. Further estimations rule out alternative explanations, including Duterte’s election campaign, potentially confounding topics (i.e., pharmaceutical drugs, Duterte’s ‘War on Drugs’), and common international time trends. Complementing Google search data, individual-level surveys also reveal more respondents considered crime reduction the top national priority right after the speech. To better identify causality, we exploit the historical timing of local festivals, leaving some provinces less exposed to the speech. Results show less-exposed provinces exhibit smaller increases in drug-related Google searches and survey-elicited crime prioritization.
+
+Judge Leniency Method:
+- [Cespedes, Parra & Sialm (2021)](https://www.nber.org/papers/w28900)
