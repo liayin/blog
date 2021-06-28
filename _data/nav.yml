@@ -37,7 +37,7 @@ toc:
     - page: Datasets
       url: /posts/datasets/
 
-- title: Econometrics
+- title: Methods
   subfolderitems:
     - page: Econometrics Models
       url: /posts/metrics-models/
@@ -47,6 +47,9 @@ toc:
 
     - page: Econometrics Resources
       url: /posts/metrics-resources/
+    
+    - page: Event Study Plots
+      url: /posts/event-study/
 
 - title: Python-related
   subfolderitems:

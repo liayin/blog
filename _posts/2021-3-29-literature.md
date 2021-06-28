@@ -133,3 +133,5 @@ that would lead to changes in rates of teen childbearing in the absence of suffi
 
 Judge Leniency Method:
 - [Cespedes, Parra & Sialm (2021)](https://www.nber.org/papers/w28900)
+
+- [Bhuller, Dahl, Loken & Mogstad (2021)](https://econweb.ucsd.edu/~gdahl/papers/measuring-intergenerational-incarceration.pdf)
