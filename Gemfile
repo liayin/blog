@@ -2,7 +2,9 @@
 
 # Run Jekyll with `bundle exec`:
 # bundle exec jekyll serve
-# bundle exec jekyll serve --livereload
+# bundle exec jekyll serve --livereload 
+#       --> this option creates a local copy of the blog in the browser
+#       --> the local copy is at http://127.0.0.1:4000/
 
 source "https://rubygems.org"
 

@@ -9,3 +9,7 @@ Durbin-Wu-Hausman test: it evaluates the consistency of an estimator when compar
 
 Hausman Test for Endogeneity: it detects endogenous regressors in a regression model
 
+Comparing regression coefficients across models:
+- [Comparing regression coefficients across models in Stata](https://www.stata.com/statalist/archive/2006-06/msg00837.html)
+- [Fixed effects models](https://www.statalist.org/forums/forum/general-stata-discussion/general/1428299-alternative-to-suest-to-work-with-xtreg)
+- [Fixed effects models II](https://www.statalist.org/forums/forum/general-stata-discussion/general/1449783-comparing-coefficients-of-two-equal-fe-regressions-from-two-subsamples)
