@@ -20,3 +20,7 @@ permalink: /posts/datasets/
 [NCVS](https://www.icpsr.umich.edu/web/NACJD/series/95)
 
 NCRP [(described here)](https://intranet.weatherhead.case.edu/document-upload/docs/1665.pdf)
+
+Universe of public (non-charter) school students in Michigan from CEPI/MDE.
+
+Universe of adult arrests in Michigan (>= 17) from MSP.
