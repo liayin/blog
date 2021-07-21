@@ -119,13 +119,6 @@ Hanna Hoover
 
 Florida is currently one of only a handful of states that does not restore civil rights upon completion of a sentence for felons. Instead, persons with a prior felony conviction must apply for civil rights restoration through a constitutionally authorized process known as clemency. Civil rights revocation not only revokes the right to vote, but also denies eligibility of certain occupational licenses and state-funded scholarships. Over the past 26 years, the Rules of Executive Clemency have been amended such that approval became automatic for those eligible between 2007 to 2011. Outside of this time period, however, clemency required an application, hearing, and a mandatory waiting period. It is unknown, a priori, if such policy changes influenced labor market outcomes, voting behavior, or educational attainment, any of which may affect incentives for convicted felons to re-offend. As an aggregate measure of these channels, I analyze the casual link between civil rights restoration and rates of recidivism. To establish causality, this paper uses changes in the Rules of Executive Clemency affecting ex-felons' ability to restore their civil rights in order to identify the impact of civil rights restoration on rates of recidivism.
 
-4-22-2021
-
-Marta Troya-Martinez
-
-[Mobbed Up: Control of Labor Unions as Cartel Enforcement](https://sites.google.com/site/mtroyamartinez/research)
-
-After select counties enforced Racketeer Influenced and Corrupt Organizations Act (RICO), they see a statistically significant rise in the number of new establishments and employment. The paper attributes it to the successful removal of mafia influence in these locations.
 
 4-29-2021
 
@@ -156,13 +149,8 @@ Brian Knight
 
 [Crime and Gender Segregation: Evidence from the Bogota Lockdown](https://sites.brown.edu/brianknight/files/2021/05/w28686.pdf)
 
-6-10-2021
 
-Emily Weisburst
-
-[Do Police Make Too Many Arrests?](https://drive.google.com/file/d/1ci-U6Y3Exjj7AtyEPPat_lcHdOAfaHT6/view)
-
-We ask whether reductions in arrests increase crime, a central question in the current debate about police reform in the United States. Identifying this causal effect is difficult, as changes in arrests are nonrandom and often reflect or coincide with changes in crime. We study changes in arrests after line-of-duty deaths of officers, events that are likely to impact peer police behavior through increased fear of job risk or emotional distress but are unlikely to directly affect civilian criminal activity or community trust. We document that officer deaths are not preceded by changes in crime within cities, indicating that their timing is plausibly exogenous. These deaths lead to short-term but significant reductions in arrests of all types, with the largest reductions in more discretionary arrests for lower level offenses. Despite this drop in arrest activity, we find no evidence of an increase in crime. Moreover, there does not appear to be a threshold level or duration of reduced arrest activity past which crime increases. Our findings suggest that police departments may be able to reduce marginal enforcement without incurring public safety costs.
+#### Education and Crime
 
 7-15-2021
 
@@ -171,3 +159,37 @@ Jason Baron
 [More School Funding, Less Crime?](https://sites.google.com/view/jasonbaron/home/research?authuser=0)
 
 Given the enormous annual costs of crime to society, a large literature has emerged that aims to identify effective crime prevention strategies. While researchers have long focused on enforcement and punishment as a crime prevention strategy, a growing literature emphasizes the potential efficiency gains of policy interventions that prevent the development of criminals in the first place. This debate is particularly salient today, as budget-constrained cities across the country face increasing calls to allocate the marginal dollar toward social programs and away from law enforcement. In this paper, we ask whether it is possible to reduce crime rates by increasing the amount of funding to a particularly important social program—public education. Despite its enormous policy implications, surprisingly little is known about the relationship between public school funding and criminal activity. Our empirical strategy examines whether public school children exposed to more funding during early grades are less likely to engage in criminal activity as adults. Specifically, we exploit plausibly exogenous variation in school funding driven by Michigan’s 1994 school ﬁnance reform, Proposal A, as well as a novel source of administrative records which link statewide data on the universe of individual public school records and adult arrests. We find that primary school students exposed to 10 per-cent ($1,000) more operational spending each year for four years experienced a 15% reduction in the probability of ever being arrested as adults. This effect was driven by reductions in the likelihood of ever being arrested for a violent, property, and drug crime, and was entirely concentrated in baseline low-income school districts. Additional funding during primary school also led to large reductions in the probability of ever being imprisoned. We show that the cost-effectiveness of public school funding as a crime-prevention strategy is similar to other early interventions such as Head Start and the Perry Preschool Project. Exploring mechanisms, we find that school districts targeted the marginal dollar toward instruction, support services for students, and the operation and maintenance of infrastructure. As a result, primary school students exposed to additional funding faced smaller class sizes and higher-paid teachers. These students had higher test scores in elementary school, higher attendance rates in middle school, were less likely to repeat a middle school grade and be placed in a juvenile detention center, and were more likely to graduate high school and college. However, improvements in all of these intermediate outcomes can explain only about 30% of the overall effect, which suggests that previous knowledge of how additional funding impacts educational attainment and test scores does not entirely predict how, or even whether, school funding will impact adult crime. Furthermore, these results suggest that additional funding might impact later-in-life crime through non-cognitive outcomes such as attendance and juvenile crime, which highlights the importance of not focusing exclusively on cognitive outcomes when evaluating the overall effects of funding.
+
+#### Policy and Crime
+
+4-22-2021
+
+Marta Troya-Martinez
+
+[Mobbed Up: Control of Labor Unions as Cartel Enforcement](https://sites.google.com/site/mtroyamartinez/research)
+
+After select counties enforced Racketeer Influenced and Corrupt Organizations Act (RICO), they see a statistically significant rise in the number of new establishments and employment. The paper attributes it to the successful removal of mafia influence in these locations.
+
+#### Policing and Crime
+
+6-10-2021
+
+Emily Weisburst
+
+[Do Police Make Too Many Arrests?](https://drive.google.com/file/d/1ci-U6Y3Exjj7AtyEPPat_lcHdOAfaHT6/view)
+
+We ask whether reductions in arrests increase crime, a central question in the current debate about police reform in the United States. Identifying this causal effect is difficult, as changes in arrests are nonrandom and often reflect or coincide with changes in crime. We study changes in arrests after line-of-duty deaths of officers, events that are likely to impact peer police behavior through increased fear of job risk or emotional distress but are unlikely to directly affect civilian criminal activity or community trust. We document that officer deaths are not preceded by changes in crime within cities, indicating that their timing is plausibly exogenous. These deaths lead to short-term but significant reductions in arrests of all types, with the largest reductions in more discretionary arrests for lower level offenses. Despite this drop in arrest activity, we find no evidence of an increase in crime. Moreover, there does not appear to be a threshold level or duration of reduced arrest activity past which crime increases. Our findings suggest that police departments may be able to reduce marginal enforcement without incurring public safety costs.
+
+7-21-2021
+
+Aaron Chalfin
+
+NBER SI Crime
+
+[The Professional Motivations of Police Officers](http://achalfin.weebly.com/research.html)
+
+How do public sector workers balance their pro-social motivations with private interests? In this study of police officers, we exploit two institutional features that change the implicit cost of making an arrest: arrests made near the end of an officer’s shift are more likely to require overtime work, and arrests made on days when an officer “moonlights” at an off-duty job after their shift have a higher opportunity cost. We document two consequences for officer behavior. First, contrary to popular wisdom, officers reduce arrests near the end of their shift, and the quality of arrests increases. We argue that these patterns are driven by officer preferences rather than departmental policy,
+fatigue, or incapacitation from earlier arrests. Second, officers further reduce late-shift arrests on days in which they moonlight after work, suggesting that they are, in fact, modestly responsive to financial incentives. Using these results, we estimate a dynamic model that identifies an officer’s implied trade-off between private and pro-social motivations. We find that police officers exhibit high pro-social motivation towards their work. In contrast to prior research showing that law enforcement outcomes are sensitive to financial incentives at an institutional level, the behavior of individual officers — the “street-level bureaucrats” who enforce the law — is not meaningfully distorted
+by monetary considerations.
+
+#### Others
