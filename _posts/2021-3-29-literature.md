@@ -55,6 +55,9 @@ Education and Crime:
 Employments and Crime:
 - [Kessler, Tahamont, Gelber & Isen (2021)](https://www.nber.org/papers/w28373): The Effects of Youth Employment on Crime: Evidence from New York City Lotteries
 
+- [Modestino (2019)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22138): How Do Summer Youth Employment Programs Improve Criminal Justice Outcomes, and for Whom?
+    - Benefit cost analysis of violent crime and property crime
+
 Inequality and Crime:
 - [Enamorado, Lopez-Calva, Rodriguez-Castelan & Winkler (2015)](https://www.sciencedirect.com/science/article/abs/pii/S0304387815001364): Income inequality and violent crime: Evidence from Mexico's drug war
     - Instruments for inequality through initial distribution and national income trends
