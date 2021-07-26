@@ -45,6 +45,9 @@ Methods:
 Benefit-Cost Analysis:
 - [Williams et al. (2021): Body-Worn Cameras in Policing: Benefits and Costs](https://www.nber.org/papers/w28622)
 
+- [Miller, Cohen & Wiersema (1996): Victim Costs and Consequences: A New Look](https://www.ojp.gov/ncjrs/virtual-library/abstracts/:victim-costs-and-consequences-new-look) 
+    - Estimates of the social cost of crime
+
 Shootings
 - [Deb & Gangaram (2021): Effects of School Shootings on Risky Behavior, Health and Human Capital](https://www.nber.org/papers/w28634)
 
@@ -55,8 +58,9 @@ Education and Crime:
 Employments and Crime:
 - [Kessler, Tahamont, Gelber & Isen (2021)](https://www.nber.org/papers/w28373): The Effects of Youth Employment on Crime: Evidence from New York City Lotteries
 
+- [Davis & Heller (2020)](https://drive.google.com/file/d/1lljgC054iFsVwMFQRq6I-NsCVB5nV_IL/view): Rethinking the Benefits of Youth Employment Programs: The Heterogeneous Effects of Summer Jobs
+
 - [Modestino (2019)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22138): How Do Summer Youth Employment Programs Improve Criminal Justice Outcomes, and for Whom?
-    - Benefit cost analysis of violent crime and property crime
 
 Inequality and Crime:
 - [Enamorado, Lopez-Calva, Rodriguez-Castelan & Winkler (2015)](https://www.sciencedirect.com/science/article/abs/pii/S0304387815001364): Income inequality and violent crime: Evidence from Mexico's drug war
