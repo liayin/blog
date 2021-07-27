@@ -81,6 +81,16 @@ Select rows with certain conditions
 df[df$unique_id=="157-00045552",]
 ```
 
+Reorder rows by Sepal.Length in ascending order and Petal.Length in descending order
+```r
+my_data %>% arrange(Sepal.Length, desc(Petal.Length))
+```
+
+Reorder rows by Sepal.Length in descending order. Use the function desc():
+```r
+my_data %>% arrange(desc(Sepal.Length))
+```
+
 ### Columns
 
 Change column type from character to numeric

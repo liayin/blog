@@ -11,5 +11,8 @@ ARIMA: Auto Regressive Integrated Moving Average. It explains a given time serie
 
 [Regression kink design](https://blogs.worldbank.org/impactevaluations/tools-trade-regression-kink-design)
 
+## DiD
+[Callaway & Sant'Anna (2020) R package](https://bcallaway11.github.io/did/)
+
 ## Post-estimation
 There are a lot of post estimation that can be carried out. For example, for `xtlogit` in stata, postestimation commands can be found [here](https://www.stata.com/manuals/xtxtlogitpostestimation.pdf).
