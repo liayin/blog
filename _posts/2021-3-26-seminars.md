@@ -170,6 +170,16 @@ Marta Troya-Martinez
 
 After select counties enforced Racketeer Influenced and Corrupt Organizations Act (RICO), they see a statistically significant rise in the number of new establishments and employment. The paper attributes it to the successful removal of mafia influence in these locations.
 
+8-5-2021
+
+Ashna Arora (University of Chicago)
+
+Econ of Crime seminar
+
+The Impact of Specialized Prosecution on the Safety of Domestic Violence Victims
+
+Little is known about how to effectively reduce re-victimization among those who experience domestic violence, despite decades of investment in specialized programs run by law enforcement, prosecutors, and court systems across the United States. We study the effects of increasing prosecutor capacity and victim-focused wraparound services on cases deemed to be at highest risk of re-victimization in Cook County, Illinois. Prosecutors vary in their tendency to include cases in the program, which we use as an instrumental variable to show that specialized prosecution lowers the likelihood of homicide for those on the margin of inclusion. We discuss several mechanisms that may be driving these results, including the impact of the program on the likelihood of incarceration and the receipt of victim-focused services such as advocacy and civil litigation.
+
 #### Policing and Crime
 
 6-10-2021
@@ -191,5 +201,7 @@ NBER SI Crime
 How do public sector workers balance their pro-social motivations with private interests? In this study of police officers, we exploit two institutional features that change the implicit cost of making an arrest: arrests made near the end of an officer’s shift are more likely to require overtime work, and arrests made on days when an officer “moonlights” at an off-duty job after their shift have a higher opportunity cost. We document two consequences for officer behavior. First, contrary to popular wisdom, officers reduce arrests near the end of their shift, and the quality of arrests increases. We argue that these patterns are driven by officer preferences rather than departmental policy,
 fatigue, or incapacitation from earlier arrests. Second, officers further reduce late-shift arrests on days in which they moonlight after work, suggesting that they are, in fact, modestly responsive to financial incentives. Using these results, we estimate a dynamic model that identifies an officer’s implied trade-off between private and pro-social motivations. We find that police officers exhibit high pro-social motivation towards their work. In contrast to prior research showing that law enforcement outcomes are sensitive to financial incentives at an institutional level, the behavior of individual officers — the “street-level bureaucrats” who enforce the law — is not meaningfully distorted
 by monetary considerations.
+
+
 
 #### Others

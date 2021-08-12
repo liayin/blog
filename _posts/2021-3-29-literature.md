@@ -6,11 +6,12 @@ permalink: /posts/literature/
 ---
 
 Works on the SYG Law:
-- [Yakubovich, et al. (2021): Effects of Laws Expanding Civilian Rights to Use Deadly Force in Self-Defense on Violence and Crime: A Systematic Review](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101)
+- [Yakubovich, et al. (2021): Effects of Laws Expanding Civilian Rights to Use Deadly Force in Self-Defense on Violence and Crime: A Systematic Review](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101)： The existing evidence contradicts claims that expanding self-defense laws deters violent crime across the United States.
 
 - [GVPedia University (2018)](https://www.gvpedia.org/fact-sheet-stand-your-ground-laws/): Fact Sheet - Stand Your Ground Laws (media synthesis of research articles)
 
 - [Chamlin & Krajewski (2016)](https://www.tandfonline.com/doi/abs/10.1080/01639625.2015.1012027): Use of Force and Home Safety: An Impact Assessment of Oklahoma's Stand Your Ground Law
+    - Toward this end, we employ interrupted time series modeling techniques to assess the impact of Oklahoma’s Stand Your Ground Law on the number of residential and non-residential burglaries. The findings indicate that while the legislative initiative achieved its manifest goal of reducing the number of residential burglaries, it simultaneously had the unintended consequence of increasing the number of non-residential burglaries.
 
 - [Ren, Zhang & Zhao (2012)](https://journals.sagepub.com/doi/full/10.1177/0011128712466886): The Deterrent Effect of the Castle Doctrine Law on Burglary in Texas: A Tale of Outcomes in Houston and Dallas
     - On the Joe Horn shooting
@@ -103,6 +104,8 @@ Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
 Policing:
+- [Abrams, Fang & Goonetilleke(2021)](https://conference.nber.org/conf_papers/f158125.pdf): The standard economic model of police stops implies that the contraband hit rate should rise when the number of stops falls, ceteris paribus. We provide empirical corroboration of such optimizing models of police behavior by examining changes in stops and frisks around two extraordinary events of 2020 - the pandemic onset and the nationwide protests following the killing of George Floyd. We find that hit rates from pedestrian and vehicle stops generally rose as stops and frisks fell dramatically. Using detailed data, we are able to rule out a number of alternative explanations, including changes in street population, crime, police allocation, and policing intensity. We find mixed evidence about the changes in racial disparities, and evidence that police stops do not decrease crime, at least in the short run. The results are robust to a number of different specifications. Our findings provide quantitative estimates that can contribute to the important goals of improving and reforming policing.
+
 - [Goncalves & Mello (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20181607): "A Few Bad Apples? Racial Bias in Policing". AER.  
     - Abstract: We estimate the degree to which individual police officers practice racial discrimination. Using a bunching estimation design and data from the Florida Highway Patrol, we show that minorities are less likely to receive a discount on their speeding tickets than White drivers. Disaggregating this difference to the individual police officer, we estimate that 42 percent of officers practice discrimination. We then apply our officer-level discrimination measures to various policy-relevant questions in the literature. In particular, reassigning officers across locations based on their lenience can effectively reduce the aggregate disparity in treatment.
 
@@ -145,3 +148,8 @@ Judge Leniency Method:
 - [Cespedes, Parra & Sialm (2021)](https://www.nber.org/papers/w28900)
 
 - [Bhuller, Dahl, Loken & Mogstad (2021)](https://econweb.ucsd.edu/~gdahl/papers/measuring-intergenerational-incarceration.pdf)
+
+Police Altering Offense Statistics:
+- [Gumbo (2012)](https://www.police1.com/patrol-issues/articles/fudge-factor-cooking-the-books-on-crime-stats-L42eQ4vDw6th7VOY/)
+
+- 

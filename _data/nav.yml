@@ -86,6 +86,9 @@ toc:
 
     - page: Latex Equations
       url: /posts/latex-equations/
+    
+    - page: Latex Citations
+      url: /posts/latex-citations/
 
 - title: Stata-related
   subfolderitems:

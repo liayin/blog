@@ -14,5 +14,10 @@ ARIMA: Auto Regressive Integrated Moving Average. It explains a given time serie
 ## DiD
 [Callaway & Sant'Anna (2020) R package](https://bcallaway11.github.io/did/)
 
+[de Chaisemartin & D'Haultfoeuille (2020)](https://arxiv.org/pdf/1803.08807.pdf): heterogeneous treatment effects
+[Stata package](https://www.openicpsr.org/openicpsr/project/118363/version/V2/view?flag=follow&pageSelected=0&pageSize=10&sortOrder=(?title)&sortAsc=true)
+[R package](https://cran.r-project.org/web/packages/TwoWayFEWeights/TwoWayFEWeights.pdf)
+
+
 ## Post-estimation
 There are a lot of post estimation that can be carried out. For example, for `xtlogit` in stata, postestimation commands can be found [here](https://www.stata.com/manuals/xtxtlogitpostestimation.pdf).

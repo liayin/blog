@@ -34,6 +34,11 @@ To set working directory
 setwd("/path/to/my/directory")
 ```
 ## Data Types
+Check data type
+```r
+str(my.data)
+```
+
 ### Convert character variable to numeric
 ```r
 dataset$prop_camp <- as.numeric(dataset$prop_camp)
