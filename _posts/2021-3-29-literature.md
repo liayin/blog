@@ -149,6 +149,8 @@ Judge Leniency Method:
 
 - [Bhuller, Dahl, Loken & Mogstad (2021)](https://econweb.ucsd.edu/~gdahl/papers/measuring-intergenerational-incarceration.pdf)
 
+- [Agan, Doleac & Harvey (2021)](https://www.nber.org/papers/w28600): prosecutor leniency
+
 Police Altering Offense Statistics:
 - [Gumbo (2012)](https://www.police1.com/patrol-issues/articles/fudge-factor-cooking-the-books-on-crime-stats-L42eQ4vDw6th7VOY/)
 
