@@ -84,6 +84,10 @@ Health and Crime:
 - [Moore & Schnepel (2021)](https://www.nber.org/papers/w28848): Opioid Use, Health and Crime: Insights from a Rapid Reduction in Heroin Supply
     - In 2001, a large and sustained supply shock halted a heroin epidemic in Australia. We use outpatient drug treatment records to identify individuals who accounted for nearly half of opioid overdoses prior to the shock, and examine how the reduced supply of heroin affected their health and criminal activity over the next eight years. Initially, the gains from fewer overdose deaths are offset by individuals substituting to other drugs and committing more violent crime, including homicides. Most adverse effects dissipate after one year, and are followed by further decreases in deaths and a large reduction in property crime. Our results demonstrate that reducing the supply of illicit opioids can lead to meaningful longer-term improvements, even when the short-term effects are ambiguous.
 
+Fostering and crime:
+- [Norris, Pecenco & Weaver (2021)](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20190415): The Effects of Parental and Sibling Incarceration: Evidence from Ohio
+    - Every year, millions of Americans experience the incarceration of a family member. Using 30 years of administrative data from Ohio and exploiting differing incarceration propensities of randomly assigned judges, this paper provides the first quasi-experimental estimates of the effects of parental and sibling incarceration in the United States. Parental incarceration has beneficial effects on some important outcomes for children, reducing their likelihood of incarceration by 4.9 percentage points and improving their adult neighborhood quality. While estimates on academic performance and teen parenthood are imprecise, we reject large positive or negative effects. Sibling incarceration leads to similar reductions in criminal activity.
+
 Gun and Self-defense: 
 - [Defilippis & Hughes (2015)](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262/): The Myth Behind Defensive Gun Ownership (newspaper article)
 

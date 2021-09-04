@@ -108,7 +108,8 @@ toc:
 
 - title: Linux-related
   subfolderitems:
-    -page: 
+    - page: Linux Basics
+      url: /posts/linux-basics/
 
 - title: Other
   subfolderitems:

@@ -24,6 +24,8 @@ Econ Journals:
 7. Journal of Human Resources, ISSN: 0022-166X (print), 1548-8004 (web)
 8. Journal of Economic Literature, ISSN: 0022-0515
 
+9. Journal of Econometrics, ISSN 0304-4076 (print), 1872-6895 (web)
+
 Finance Journals: 
 1.	Journal of Finance (ISSNs: 0022-1082)
 2.	Journal of Financial Economics (ISSNs: 0304-405X)
@@ -39,3 +41,6 @@ Criminology:
 3. Journal of Research in Crime and Delinquency
 4. Justice Quarterly
 5. In no specific order: Journal of Criminal Justice, Crime & Delinquency, Journal of Experimental Criminology, Journal of Criminal Law & Criminology, British Journal of Criminology, Criminology & Public Policy
+
+Statistics
+1. JASA (ISSN: 0162-1459 (print); 1537-274X (web))
