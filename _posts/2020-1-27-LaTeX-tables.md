@@ -2,6 +2,7 @@
 layout: post
 title: Tables in LaTeX
 date: 2020-01-27 17:05:00 --0000
+permalink: /posts/latex-tables/
 ---
 
 ### Basic Tables
@@ -49,6 +50,21 @@ The resulting table would look like:
 ![Table2](/images/table2.jpg "Table 2")
 
 Note that we should always put `\label` after `\caption` because counter would only be reset by `\refstepcounter` after a call to `\caption`.
+
+### Scaling tables
+```
+\usepackage{graphics}
+% ...
+
+\begin{table}
+\centering
+\resizebox{\columnwidth}{!}{ %
+\begin{tabular}{r|lll}
+% ...
+\end{tabular}%
+}
+\end{table}
+```
 
 ### Importing Tables from another File
 With tables generated from software, we can use ```\input{D:/Research/Data/NCVS/perc_def.tex}```. In order to add notes, we could use

@@ -89,9 +89,15 @@ toc:
     
     - page: Latex Citations
       url: /posts/latex-citations/
+    
+    - page: Latex Tables
+      url: /posts/latex-tables/
 
 - title: Stata-related
   subfolderitems:
+    - page: Making Tables in Stata
+      url: /posts/stata-tables/
+
     - page: Counting in Stata
       url: /posts/counting-stata/
     
