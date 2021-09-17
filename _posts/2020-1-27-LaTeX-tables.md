@@ -51,6 +51,10 @@ The resulting table would look like:
 
 Note that we should always put `\label` after `\caption` because counter would only be reset by `\refstepcounter` after a call to `\caption`.
 
+Alternatively, you could do:
+
+
+
 ### Scaling tables
 ```
 \usepackage{graphics}
