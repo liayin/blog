@@ -96,23 +96,24 @@ The resulting table would look like:
 ```
 \usepackage{multirow}
 
-\begin{table}[H]\centering
-	\caption{Comparison between States With Law and States Without Law (2000-2015)}
-	\vspace{1mm}
-	\label{sum2}
-	\begin{tabular}{c *{5}{c} *{2}{c}}
+\begin{table}[H]
+	\centering
+	\caption{Percent of Offenders and Victims with Previous Criminal Records}
+	\label{tab: records_comp}
+	\begin{tabular}{l *{6}{c}}
 		\hline\hline
-		State and Year & \multicolumn{5}{c}{Summary Statistics} & \multicolumn{2}{c}{Comparison} \\
-		 &  Count & Max & Min & Mean & SD & Degrees of Freedom & t \\
+		\multirow{2}{*}{Murder Type} & \multicolumn{3}{c}{Summary Statistics} 
+		    & \phantom{} 
+		    & \multicolumn{2}{c}{Comparison} \\ 
+		\cmidrule{2-4} \cmidrule{6-7}
+		& Count & Mean & SD && Degrees of Freedom & t \\
 		\hline
-		Without Law & 575 & 13.25 &        0.62 &        4.19&         2.29&    \multirow{2}{*}{775} & \multirow{2}{*}{-6.47***}    \\
-		With Law & 200 & 14.56 & .9 & 5.39 & 2.08 &      &      \\
+		Offenders & 1987 & 69\% & .46 && \multirow{2}{*}{2726} & \multirow{2}{*}{16.07***} \\
+		Victims & 741 & 37\% & .48 & & \\
 		\hline
-		\multicolumn{8}{l}{\footnotesize \textit{t} statistics in parentheses}\\
-		\multicolumn{8}{l}{\footnotesize * \(p<0.10\), ** \(p<0.05\), *** \(p<0.01\)}\\
+		\multicolumn{6}{l}{\footnotesize * \(p<0.10\), ** \(p<0.05\), *** \(p<0.01\)}
 	\end{tabular}
-	\vspace{-4mm}
-	\caption*{\footnotesize The average murder rates for state-years without law and with law are statistically significantly different. The average murder rate for state-years without the law is 4.22 and that for state-years with the law is 5.35.}
+	\caption*{\footnotesize Notes: 69\% of the murder offenders had previously committed an offense. 37\% of the murder victims had previously committed an offense. The difference is statistically significant at the 5\% level. Data come from the MC dataset.}
 \end{table}
 ```
 
