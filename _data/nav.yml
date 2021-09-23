@@ -73,6 +73,9 @@ toc:
     - page: R Basics
       url: /posts/r-basics/
 
+    - page: R Statistics Basics
+      url: /posts/r-stats/
+
     - page: RStudio Basics
       url: /posts/rstudio-basics/
 
