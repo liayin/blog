@@ -168,3 +168,6 @@ Police Altering Offense Statistics:
 
 Randomized Controlled Trials
 - [Athey, Bergstrom, Hadad, Jamison, Ozler, Parisotto, Sama (2021)](https://ideas.repec.org/p/exe/wpaper/2105.html): explored different methods of encouraging contraceptives take-up through random assignment.
+
+Random Coefficient Models
+- [Li (2021)](https://economics.yale.edu/sites/default/files/files/pub/grad/working-papers/ming_li_jmp.pdf): new random coefficient panel model where the regressors can depend on the time-varying random coefficients in each period. Three stage series estimator. Applied to estimating the production function.
