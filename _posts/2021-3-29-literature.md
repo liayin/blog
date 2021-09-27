@@ -171,3 +171,17 @@ Randomized Controlled Trials
 
 Random Coefficient Models
 - [Li (2021)](https://economics.yale.edu/sites/default/files/files/pub/grad/working-papers/ming_li_jmp.pdf): new random coefficient panel model where the regressors can depend on the time-varying random coefficients in each period. Three stage series estimator. Applied to estimating the production function.
+
+IV
+- Chen, Chen and Tamer (2021): Multi-layer ANN Efficient Estimation in Nonparametric Instrumental Variables (NPIV): A Case Study
+    - 3-layer ANN
+    - Spline performs better
+
+Environment and Crime
+- [Hernstadt, Heyes, Muehlegger and Saberian (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20190091): Air Pollution and Criminal Activity: Microgeographic Evidence from Chicago
+    - AEJ: applied
+    - Data: Chicago 2001-2012
+        - Crime: CPD - exact locations of each crime
+        - Weather: NCDC
+    - Highways
+    - Conclusion: air pollution increases violent crime on the downwind sides of interstates.
