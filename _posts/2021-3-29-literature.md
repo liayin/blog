@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Literature
+title: Crime Literature
 date: 2021-03-29 21:06:00 --0000
-permalink: /posts/literature/
+permalink: /posts/literature-crime/
 ---
 
 Works on the SYG Law:

@@ -38,6 +38,17 @@ If you are going with the AEA style, you can write:
 
 Of course, you would have downloaded the *aea.bst* file from the AEA website.
 
+Citation of webpages in natbib should be the following format ([ref](https://tex.stackexchange.com/questions/157291/natbib-and-website-citation)):
+```r
+@Misc{Tho98w,
+  Author = "Len Thomas",
+  Title  = "\emph{Statistical power analysis software}",
+  Note   = "\url{http://www.forestry.ubc.ca/conservation/power/}
+           [Accessed: Whenever]",
+  year = 1998,
+}
+```
+
 #### BibLaTeX
 
 ```

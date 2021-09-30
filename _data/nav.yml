@@ -16,8 +16,11 @@ toc:
     - page: Definitions of Murder
       url: /posts/murder-defn/
     
-    - page: Literature
-      url: /posts/literature/
+    - page: Crime Literature
+      url: /posts/literature-crime/
+
+    - page: Other Literature
+      url: /posts/literature-other/
 
     - page: Seminars
       url: /posts/seminars/
