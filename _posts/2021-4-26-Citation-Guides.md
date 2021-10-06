@@ -8,6 +8,8 @@ permalink: /posts/citation-guides/
 ### AER
 [Sample References](https://www.aeaweb.org/journals/policies/sample-references)
 
+### Citing newspaper articles
+
 
 ### Legal Citations
 [Chicago Manual of Style](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/legal_public_and_unpublished_materials.html)

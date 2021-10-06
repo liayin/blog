@@ -110,6 +110,11 @@ Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
 Policing:
+- [Kaplan & Chalfin (2019)](https://jacobdkaplan.com/documents/more-cops-fewer-prisoners.pdf): More cops, fewer prisoners?
+    - Data: state-level panel data & county-level data from California
+    - Method: lagged-dependent variable panel regression
+    - Conclusion: more police, fewer prisoners
+
 - [Abrams, Fang & Goonetilleke(2021)](https://conference.nber.org/conf_papers/f158125.pdf): The standard economic model of police stops implies that the contraband hit rate should rise when the number of stops falls, ceteris paribus. We provide empirical corroboration of such optimizing models of police behavior by examining changes in stops and frisks around two extraordinary events of 2020 - the pandemic onset and the nationwide protests following the killing of George Floyd. We find that hit rates from pedestrian and vehicle stops generally rose as stops and frisks fell dramatically. Using detailed data, we are able to rule out a number of alternative explanations, including changes in street population, crime, police allocation, and policing intensity. We find mixed evidence about the changes in racial disparities, and evidence that police stops do not decrease crime, at least in the short run. The results are robust to a number of different specifications. Our findings provide quantitative estimates that can contribute to the important goals of improving and reforming policing.
 
 - [Goncalves & Mello (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20181607): "A Few Bad Apples? Racial Bias in Policing". AER.  
@@ -166,6 +171,34 @@ Police Altering Offense Statistics:
 - [Sciortino, Vassar, Radetsky, Knudson (2005)](https://www.sciencedirect.com/science/article/pii/S0001457505001053), Accident Analysis & Prevention, *San Francisco pedestrian injury surveillance: Mapping, under-reporting, and injury severity in police and hospital records*. The authors obtained data from the following two sources:
     - Statewide Integrated Traffic Reporting System, *California Highway Patrol*. 
 
+- [Rayman (2012)](https://www.villagevoice.com/2010/05/04/the-nypd-tapes-inside-bed-stuys-81st-precinct/): The NYPD Tapes: Inside Bed-Stuy's 81st Precinct
+    - Published as: newspaper article on the Village Voice
+    - Summary:
+        - police officers under pressure to meet arrest and stop-and-frisk quota to prove that they are doing their job
+        - police officers under pressure to manipulate crime statistics
+        - "locker room" culture at the police station
+    - Relevance to the literature:
+        - unveils tapes documenting measures to manipulate crime statistics
+            - police officers instructed to refuse to take certain robbery reports
+            - police officers calling victims to intimidate them about their complaints
+
+- [O'Neill (2012)](https://www.amazon.com/Numbers-Advances-Police-Theory-Practice/dp/1439810311): NYPD: A Culture of Bullying
+    - Published as: Amazon book review
+    - Summary: the COMPSTAT program is creating tremendous pressure for police officers through:
+        - Crime stats must go down - downgrading crimes, undervaluing stolen property, discouraging victims
+        - Police activity must go up - stop and frisk
+    - 
+
+- [Sparrow (2015)](https://addletonacademicpublishers.com/contents-pihrm/317-volume-3-2-2015/2493-measuring-performance-in-a-modern-police-organization): Measuring Performance in a Modern Police Organization
+    - Published in: Psychosociological Issues in Human Resource Management
+    - Summary: Modern policing requires more than just achieving effective crime control. As a result, definition of success needs to be more nuanced. Ideally, prevention is the best way to go.
+    - Relation to literature: In subsection 5.2 (Corruption in Reporting Crime Statistics), under section 5 (A Closer Look at Crime Reduction as the Bottom Line of Policing), author points out that pursuing the goal of crime reduction could lead to altering statistics.
+        - Suppression of reports (failing to take reports of crime from victims)
+        - Misclassification of crime to lower categories in order to make the serious crime statistics look better
+
+
+
+
 Randomized Controlled Trials
 - [Athey, Bergstrom, Hadad, Jamison, Ozler, Parisotto, Sama (2021)](https://ideas.repec.org/p/exe/wpaper/2105.html): explored different methods of encouraging contraceptives take-up through random assignment.
 
@@ -185,3 +218,11 @@ Environment and Crime
         - Weather: NCDC
     - Highways
     - Conclusion: air pollution increases violent crime on the downwind sides of interstates.
+
+#### Judicial system
+- [Dobbie & Yang (2021)](https://www.nber.org/papers/w29332?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): The US Pretrial System: Balancing Individual Rights and Public Interests
+    - NBER Working Paper
+    - Summary: review of empirical literature on the effectiveness and fairness of the US pretrial system and discuss its policy implications
+    - Conclusions:
+        - Current pretrial system imposes substantial short- and long-term economic harms on detained defendants in terms of lost earnings and government assistance, while providing little in the way of decreased criminal activity for the public interest.
+        - Costs of cash bail and pretrial detention are disproportionately borne by Black and Hispanic individuals, giving rise to large and unfair racial differences in cash bail and detention that cannot be explained by underlying differences in pretrial misconduct risk.
