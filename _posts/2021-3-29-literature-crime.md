@@ -129,9 +129,22 @@ Policing:
 - [Ba, Bayer, Rim, Rivera & Sidibe (2021)](https://www.nber.org/papers/w29243?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): "Police Officer Assignment and Neighborhood Crime", NBER Working Paper
     - Abstract: We develop an empirical model of the mechanism used to assign police officers to Chicago districts and examine the efficiency and equity of alternative allocations. We document that the current bidding process, which grants priority based on seniority, results in the assignment of more experienced officers to less violent and high-income neighborhoods. Our empirical model combines estimates of heterogeneous officer preferences underlying the bidding process with causal estimates of the effects of officer experience on neighborhood crime. Equalizing officer seniority across districts would reduce violent crime rate by 4.6 percent and significantly decrease inequality in crime, discretionary arrests, and officer use of force across neighborhoods. Moreover, this assignment can be achieved in a revenue-neutral way while resulting in small welfare gains for police officers, implying that it is more equitable and efficient.
 
+- [Barbosa, Fetzer, Soto & Souza (2021)](https://www.pedroclsouza.com/about): De-escalation technology: the impact of body-worn cameras on citizen-police interactions
+    - Submitted
+    - Experiment in Brazil
+    - Different results than literature
+    - Arguing the difference is due to method of analysis
+
 Race & Criminal Justice System:
 - [Feigenberg & Miller (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20180688): "Racial Divisions and Criminal Justice: Evidence from Southern State Courts"
     - The US criminal justice system is exceptionally punitive. We test whether racial heterogeneity is one cause, exploiting cross-jurisdiction variation in punishment severity in four Southern states. We estimate the causal effect of jurisdiction on arrest outcomes using a fixed effects model that incorporates extensive charge and defendant controls. We validate our estimates using defendants charged in multiple jurisdictions. Consistent with a model of ingroup bias in electorate preferences, the relationship between local severity and Black population share follows an inverted U-shape. Within states, defendants are 27–54 percent more likely to be incarcerated in “peak” heterogeneous jurisdictions than in homogeneous jurisdictions. We estimate that confinement rates and race-based confinement rate gaps would fall by 15 percent if all jurisdictions adopted the severity of homogeneous jurisdictions within their state. (JEL H76, J15, K42)
+
+- [Alston & Owens (2021)](https://www.mackenziealston.com/research)
+    - Title: Does Black and Blue Matter?: An Experimental Investigation of Race and Perceptions of Police Bias
+    - Research question: will racially-diverse police departments lead to less racial bias
+    - Results: 
+        - no evidence that Black or White subjects change their speed based on the racial composition of the police department
+        - black subjects are more interested in learning about police officers' race than white subjects are.
 
 Prisons
 - [Mukherjee (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20170474): "Impacts of Private Prison Contracting on Inmate Time Served and Recidivism"

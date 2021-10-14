@@ -53,6 +53,9 @@ toc:
     
     - page: Event Study Plots
       url: /posts/event-study/
+    
+    - page: Metrics Literature
+      url: /posts/lit-metrics/
 
 - title: Python-related
   subfolderitems:
@@ -122,6 +125,14 @@ toc:
   subfolderitems:
     - page: Linux Basics
       url: /posts/linux-basics/
+  
+- title: Conda-related
+  subfolderitems:
+    - page: Conda Basics
+      url: /posts/conda-basics/
+
+    - page: Conda Environments
+      url: /posts/conda-environ/
 
 - title: Other
   subfolderitems:
@@ -136,9 +147,6 @@ toc:
 
     - page: Jupyter Notebook Shortcuts
       url: /posts/jupyter-notebook-shortcuts/
-
-    - page: Conda Environments
-      url: /posts/conda-environ/
     
     - page: Job Search Tips
       url: /posts/job-search/
