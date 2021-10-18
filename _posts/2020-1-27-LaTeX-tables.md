@@ -122,38 +122,28 @@ Resulting table:
 
 ### Multipage Table
 ```
+\documentclass{article}
 \usepackage{longtable}
-\usepackage{lipsum} % just for dummy text- not needed for a longtable
+\begin{document}      
 
-\begin{document}
-\lipsum[1]
-\lipsum[1]
-\lipsum[1]
-
-%\begin{table}[h] 
-%\centering
-\begin{longtable}{| p{.20\textwidth} | p{.80\textwidth} |} 
-\caption{SYG Law Status for All States\label{tbl: all_states}} \\
-\hline
-Header \\ \hline
+\begin{longtable}{ccc}
+\caption{My caption for this table\label{foo}}\\\hline
+Column 1 & Column 2 & Column 3\\\hline
+\endfirsthead
+\multicolumn{3}{@{}l}{\ldots continued}\\\hline
+Column 1 & Column 2 & Column 3\\\hline
 \endhead % all the lines above this will be repeated on every page
-foo & bar \\ \hline 
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-foo & bar \\ \hline
-\caption{Your caption here} % needs to go inside longtable environment
-\label{tab:myfirstlongtable}
+\hline
+\multicolumn{3}{r@{}}{continued \ldots}\\
+\endfoot
+\hline
+\endlastfoot
+A & B & C\\     A & B & C\\
+A & B & C\\     A & B & C\\
+A & B & C\\ \newpage
+A & B & C\\     A & B & C\\
+A & B & C\\     A & B & C\\
 \end{longtable}
-%\end{table} 
-
-Table \ref{tab:myfirstlongtable} shows my first longtable.
 \end{document}
 ```
 

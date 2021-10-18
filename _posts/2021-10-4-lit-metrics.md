@@ -21,3 +21,11 @@ permalink: /posts/lit-metrics/
 - [Montiel Olea, Ke, and Nesbit (2021)](http://www.joseluismontielolea.com/papers.html): Robust Machine Learning Algorithms for Text Analysis
     - Standard text analysis methods have flat regions
     - Use Bayesian methods to remove the problem
+
+#### Policy evaluation
+- [Arkhangelsky & Korovkin (2021)](https://arxiv.org/pdf/1905.13660.pdf): On Policy Evaluation with Aggregate Time-Series Shocks
+    - New algorithm for estimating treatment effects
+        - When exogenous variation comes from aggregate time-series shocks
+    - Estimator combines data-driven unit-level weights with a time-series model
+    - Use the unit weights to control for unobserved aggregate confounders
+    - Use the time-series model to extract the quasi-random variation from the observed shock

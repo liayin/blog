@@ -239,3 +239,12 @@ Environment and Crime
     - Conclusions:
         - Current pretrial system imposes substantial short- and long-term economic harms on detained defendants in terms of lost earnings and government assistance, while providing little in the way of decreased criminal activity for the public interest.
         - Costs of cash bail and pretrial detention are disproportionately borne by Black and Hispanic individuals, giving rise to large and unfair racial differences in cash bail and detention that cannot be explained by underlying differences in pretrial misconduct risk.
+
+### Methods
+#### Spatial methods
+- [Weber (2021)](https://drive.google.com/file/d/10QXUbdUuJXaRL7U4tmzdHcKbXYEQeyS8/view): The big house far from home: spatial distance and criminal recidivism
+    - Two-sample instrumental variables strategy
+        - Instrumented for an inmate's distance from home with the average or minimum distance to state facilities from their home county.
+    - Combine national data on prison admissions and releases with cross-sectional inmate facility assignment information from Florida and Oklahoma
+    - Doubling an inmate's distance from home decreases the rate of 1-year recidivism by 3.3 percentage points
+    - Deterioration of criminal ties appears to be an important driver of this result
