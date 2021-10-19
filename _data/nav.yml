@@ -87,6 +87,9 @@ toc:
 
     - page: R Graphics
       url: /posts/r-graphics/
+    
+    - page: R Programming
+      url: /posts/r-programming/
 
 - title: Latex-related
   subfolderitems:
