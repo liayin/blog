@@ -20,14 +20,30 @@ permalink: /posts/citation-guides/
 ```
 
 ### Citing data sets
+{% raw %}
 ```
 @article{assgfd,
 	author	= {{United States Census Bureau}},
 	year	= {2000-2014},
 	title	= {Annual Survey of State Government Finances Datasets},
-	note	= {\url{https://www.census.gov/programs-surveys/state/data/datasets.All.html} (accessed November 11, 2020}
+    
+	note	= {\url{https://www.census.gov/programs-surveys/state/data/datasets.All.html} (accessed November 11, 2020)}
 }
 ```
+{% endraw %}
+
+### Citing misc items
+{% raw %}
+```
+@Misc{ucrproperty,
+  Author = {{Federal Bureau of Investigation}},
+  Title  = "\emph{UCR Property Crime Definition}",
+  Note   = "\url{https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/property-crime}
+           (Accessed: September 28, 2021)",
+  year = {2018}
+}
+```
+{% endraw %}
 
 ### Legal Citations
 [Chicago Manual of Style](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/legal_public_and_unpublished_materials.html)

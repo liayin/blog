@@ -29,6 +29,13 @@ permalink: /posts/literature-other/
 - More efficient spatial allocation of labor
     - Increases aggregate output and welfare of natives
 
+#### Inequality
+[Fernandez, Parsa & Viarengo (2021)](http://applied-microecon.wp.st-andrews.ac.uk/files/2021/09/comingout_revision_september2021.pdf): Coming out in America: Thirty Years of Cultural Change
+- Data: GSS
+- Empirical strategy: DiD
+- Conclusion: Greater exposure to the gay population, rather than expanding liberalism and civil liberties, lead to the increased acceptance of same-sex relationships.
+
+
 #### Trade
 
 [Eaton & Kortum (2002)](http://www.lukasz-drozd.com/uploads/4/3/1/8/43183209/econ871notes_tex.pdf)
@@ -49,3 +56,14 @@ permalink: /posts/literature-other/
     - Allowing manufacturers' product offerings to be endogenously determined
 - Uniform price can increase hospital surplus by up to 3.4%
     - Purchases of ICDs equipped with a superior technology drops by up to 26.3%
+
+#### Blockchain
+
+[Makarov & Schoar (2021)](https://www.nber.org/papers/w29396?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Blockchain Analysis of the Bitcoin Market
+- Provides detailed analyses of the Bitcoin network and its main participants
+- Built a novel database using a large number of public and proprietary sources to link Bitcoin addresses to real entities
+- Develop an extensive suite of algorithms to extract information about the behavior of the main market participants
+- Three major pieces of analysis of the Bitcoin eco-system
+    - Analyze the transaction volume and network structure of the main participants on the blockchain
+    - Document the concentration and regional composition of the miners
+    - Analyze the ownership concentration of the largest holders of Bitcoin
