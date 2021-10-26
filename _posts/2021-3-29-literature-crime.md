@@ -240,6 +240,10 @@ Environment and Crime
         - Current pretrial system imposes substantial short- and long-term economic harms on detained defendants in terms of lost earnings and government assistance, while providing little in the way of decreased criminal activity for the public interest.
         - Costs of cash bail and pretrial detention are disproportionately borne by Black and Hispanic individuals, giving rise to large and unfair racial differences in cash bail and detention that cannot be explained by underlying differences in pretrial misconduct risk.
 
+- [Arbour & Marchand (2021)](https://sites.google.com/view/steevemarchand/research?authuser=0)：“Parole, Recidivism, and the Role of Supervised Transition"
+    - Estimates the causal effect of parole on recidivism by exploiting the random assignment of parole board members to hearings in Quebec prisons
+    - Found that parole is especially successful at reducing recidivism when paired with a stay in a halfway house. 
+
 ### Methods
 #### Spatial methods
 - [Weber (2021)](https://drive.google.com/file/d/10QXUbdUuJXaRL7U4tmzdHcKbXYEQeyS8/view): The big house far from home: spatial distance and criminal recidivism
