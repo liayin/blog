@@ -58,6 +58,12 @@ Education and Crime:
 - [Garcia, Heckman & Ziff (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344026/): Early Childhood Education and Crime
     - Small sample size.
 
+- [Bell, Costa & Machin (2021)](https://www.journals.uchicago.edu/doi/pdf/10.1086/717895): Why Does Education Reduce Crime?
+    - They provide a unifying empirical framework to study why crime reductions occurred due to a sequence of state-level dropout age reforms enacted between 1980 and 2010 in the United States
+    - Because they reforms changed the shape of crime-age profiles, they generate both a short-term incapacitation effect together with a more sustained crime reducing effect
+        - Decomposing short and long run effects, the observed longer run effect for the 1980 education reforms is primarily attributed to dynamic incapacitation
+    - In contrast to previous research looking at earlier US education reforms, the reform induced crime reduction does not arise primarily from education improvements
+
 Employments and Crime:
 - [Kessler, Tahamont, Gelber & Isen (2021)](https://www.nber.org/papers/w28373): The Effects of Youth Employment on Crime: Evidence from New York City Lotteries
 

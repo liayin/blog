@@ -29,6 +29,9 @@ permalink: /posts/literature-other/
 - More efficient spatial allocation of labor
     - Increases aggregate output and welfare of natives
 
+[Deming (2021)](https://static1.squarespace.com/static/60832ecef615231cedd30911/t/608ac748511a8406d2300b72/1619707720285/Deming_Decisions_April2021.pdf): The Growing Importance of Decision-Making on the Job
+- 
+
 #### Inequality
 [Fernandez, Parsa & Viarengo (2021)](http://applied-microecon.wp.st-andrews.ac.uk/files/2021/09/comingout_revision_september2021.pdf): Coming out in America: Thirty Years of Cultural Change
 - Data: GSS

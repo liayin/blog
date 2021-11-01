@@ -8,11 +8,17 @@ permalink: /posts/lit-metrics/
 #### Causal Inference
 [Pischke (2021)](https://voxeu.org/article/natural-experimenters-nobel-laureates-david-card-joshua-angrist-and-guido-imbens): Natural experiments in labour economics and beyond: The 2021 Nobel laureates David Card, Joshua Angrist, and Guido Imbens
 
+[Mogstad, Torgovitsky & Walters (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190221): The Causal Interpretation of Two-Stage Least Squares with Multiple Instrumental Variables
+- Empirical researchers often combine multiple instrumental variables (IVs) for a single treatment using two-stage least squares (2SLS). When treatment effects are heterogeneous, a common justification for including multiple IVs is that the 2SLS estimand can be given a causal interpretation as a positively weighted average of local average treatment effects (LATE). This justification requires the well-known monotonicity condition.
+- They show that with more than one instrument, this condition can only be satisfied if choice behavior is effectively homogeneous.
+- Based on this finding, they consider the use of multiple IVs under a weaker, partial monotonicity condition. They characterize empirically verifiable sufficient and necessary conditions for the 2SLS estimand to be a positively weighted average of LATEs under partial monotonicity.
+- They apply these results to an empirical analysis of the returns to college with multiple instruments. They show that the standard monotonicity condition is at odds with the data. Nevertheless, their empirical checks reveal that the 2SLS estimate retains a causal interpretation as a positively weighted average of the effects of college attendance among complier groups.
+
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 
 #### Peer Effects Model
-[Solvsten (2021)]: Estimation and Inference in a Peer Effects Model with Heteroskedasticity
+Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroskedasticity
 
 #### Clustering
 - [Abadie, Athey, Imbens & Wooldridge (2021)](https://economics.mit.edu/faculty/abadie/papers): Clustering Adjustments to Standard Errors
@@ -50,3 +56,12 @@ permalink: /posts/lit-metrics/
     - Estimator combines data-driven unit-level weights with a time-series model
     - Use the unit weights to control for unobserved aggregate confounders
     - Use the time-series model to extract the quasi-random variation from the observed shock
+
+#### Partial Identification
+[Cattaneo, Cheung, Ma & Masatlioglu (2021)](https://arxiv.org/pdf/2110.10650.pdf): Attention Overload
+- They introduce an Attention Overload Model that captures the idea that alternatives compete for the decision marker's attention, and hence the attention frequency each alternative receives decreases as the choice problem becomes larger.
+- Using this nonparametric restriction on the random attention formation, they show that a fruitful revealed preference theory can be developed, and provide testable implications on the observed choice behavior that can be used to partially identify the decision maker's preference.
+- They also provide novel partial identification results on the underlying attention frequency, thereby offering the first nonparametric identification result of (a feature of) the random attention formation mechanism in the literature.
+- Building on their partial identification results, for both preferences and attention frequency, they develop econometric methods for estimation and inference.
+    - The procedures remain valid even in settings with large number of alternatives and choice problems.
+- They also provide a software package in R implementing their empirical methods, and illustrate them in a simulation study.

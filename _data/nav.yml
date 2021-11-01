@@ -137,6 +137,11 @@ toc:
     - page: Conda Environments
       url: /posts/conda-environ/
 
+- title: Webscraping
+  subfolderitems:
+    - page: Web Scraping
+      url: /posts/web-scraping/
+
 - title: Other
   subfolderitems:
     - page: Miscellaneous Readings
