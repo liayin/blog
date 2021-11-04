@@ -14,6 +14,19 @@ permalink: /posts/lit-metrics/
 - Based on this finding, they consider the use of multiple IVs under a weaker, partial monotonicity condition. They characterize empirically verifiable sufficient and necessary conditions for the 2SLS estimand to be a positively weighted average of LATEs under partial monotonicity.
 - They apply these results to an empirical analysis of the returns to college with multiple instruments. They show that the standard monotonicity condition is at odds with the data. Nevertheless, their empirical checks reveal that the 2SLS estimate retains a causal interpretation as a positively weighted average of the effects of college attendance among complier groups.
 
+[Broderick, Giordano & Meager (2021)](https://arxiv.org/pdf/2011.14999.pdf): An Automatic Finite-Sample Robustness Metric: Can Dropping a Little Data Change Conclusions?
+- They found a way to assess the robustness of regression results by removing a small number of observations
+    - They invented a framework for selecting observations to remove such that they have the largest impact on the regression result
+        - This method is called Approximate Maximum Influence Perturbation
+- For the observations selected, the metric records the lower bound of the difference between the original estimator and the new estimator. Therefore, as long as the metric indicates a violation of robustness, the original estimator should be re-examined
+
+[Liu, Poirier & Shiu (2021)](https://arxiv.org/abs/2105.12891): Identification and Estimation of Average Partial Effects in Semiparametric Binary Response Panel Models
+- The paper point-identify APE in binary response panel models under an index sufficiency assumption on the unobserved heterogeneity
+- Three-step semiparametric estimator:
+    - Estimate the common parameters
+    - Estimate the conditional expectation of the outcomes given the indices and a generated regressor that depends on first-step estimates
+    - Avg derivatives of this conditional expectation to obtain a partial mean that estimates the APE
+
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 
