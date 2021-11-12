@@ -27,6 +27,11 @@ permalink: /posts/lit-metrics/
     - Estimate the conditional expectation of the outcomes given the indices and a generated regressor that depends on first-step estimates
     - Avg derivatives of this conditional expectation to obtain a partial mean that estimates the APE
 
+[Feng (2021)](https://drive.google.com/file/d/1Kddkh705vk-1uhq0y5xYXWNdTabmclcN/view): Causal Inference in Possibly Nonlinear Factor Models
+- Treatment effects models with noisily measured confounders
+    - Noisy measurements are associated with the underlying latent confounders through an unknown, possibily nonlinear factor structure
+        - The main building block is a local principal subspace approximation procedure that combines K-nearest neighbors matching and principal component analysis
+
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 

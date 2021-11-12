@@ -96,6 +96,9 @@ Health and Crime:
     - RCT on youth program, Choose to Change (C2C)
     - Impacts are on arrests where officers have little discretion
 
+- [Deza, Lu & Maclean (2021)](https://www.nber.org/papers/w29465?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Office-Based Mental Healthcare and Juvenile Arrests
+    - 10 additional office-based mental healthcare providers in a county leads to a decrease of 2.3% to 2.6% in the per capita costs to society of juvenile arrest
+
 Fostering and crime:
 - [Norris, Pecenco & Weaver (2021)](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20190415): The Effects of Parental and Sibling Incarceration: Evidence from Ohio
     - Every year, millions of Americans experience the incarceration of a family member. Using 30 years of administrative data from Ohio and exploiting differing incarceration propensities of randomly assigned judges, this paper provides the first quasi-experimental estimates of the effects of parental and sibling incarceration in the United States. Parental incarceration has beneficial effects on some important outcomes for children, reducing their likelihood of incarceration by 4.9 percentage points and improving their adult neighborhood quality. While estimates on academic performance and teen parenthood are imprecise, we reject large positive or negative effects. Sibling incarceration leads to similar reductions in criminal activity.
