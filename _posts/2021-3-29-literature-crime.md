@@ -257,6 +257,9 @@ Environment and Crime
     - Estimates the causal effect of parole on recidivism by exploiting the random assignment of parole board members to hearings in Quebec prisons
     - Found that parole is especially successful at reducing recidivism when paired with a stay in a halfway house. 
 
+- [Rose & Shem-Tov (2021)](https://www.journals.uchicago.edu/doi/abs/10.1086/716561): "How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function"
+    - Budget-neutral reductions in sentence length combined with increases in incarceration rates can decrease recidivism
+
 ### Methods
 #### Spatial methods
 - [Weber (2021)](https://drive.google.com/file/d/10QXUbdUuJXaRL7U4tmzdHcKbXYEQeyS8/view): The big house far from home: spatial distance and criminal recidivism

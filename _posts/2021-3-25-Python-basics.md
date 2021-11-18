@@ -17,3 +17,9 @@ for x in range(2, 6):
 ```python
 time.sleep(5)
 ```
+
+Missing float
+```python
+import numpy as np
+np.nan
+```

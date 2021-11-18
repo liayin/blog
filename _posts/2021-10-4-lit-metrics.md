@@ -32,6 +32,11 @@ permalink: /posts/lit-metrics/
     - Noisy measurements are associated with the underlying latent confounders through an unknown, possibily nonlinear factor structure
         - The main building block is a local principal subspace approximation procedure that combines K-nearest neighbors matching and principal component analysis
 
+[Kwon (2021)](https://soonwookwon.github.io/files/Soonwoo_Kwon_JMP.pdf): Optimal Shrinkage Estimation of Fixed Effects in Linear Panel Data Models
+- The set of shrinkage estimators in comparison includes conventional estimators
+- Compared to conventional estimators, the optimal estimator allows the fixed effect to vary with time and to be serially correlated. It also does not require distributional assumptions.
+- Optimized R package, FEShR
+
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 

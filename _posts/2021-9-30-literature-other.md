@@ -30,7 +30,6 @@ permalink: /posts/literature-other/
     - Increases aggregate output and welfare of natives
 
 [Deming (2021)](https://static1.squarespace.com/static/60832ecef615231cedd30911/t/608ac748511a8406d2300b72/1619707720285/Deming_Decisions_April2021.pdf): The Growing Importance of Decision-Making on the Job
-- 
 
 #### Inequality
 [Fernandez, Parsa & Viarengo (2021)](http://applied-microecon.wp.st-andrews.ac.uk/files/2021/09/comingout_revision_september2021.pdf): Coming out in America: Thirty Years of Cultural Change
@@ -38,6 +37,9 @@ permalink: /posts/literature-other/
 - Empirical strategy: DiD
 - Conclusion: Greater exposure to the gay population, rather than expanding liberalism and civil liberties, lead to the increased acceptance of same-sex relationships.
 
+[Athey, Ferguson, Gentzkow & Schmidt (2021)](https://www.pnas.org/content/pnas/118/46/e2026160118.full.pdf): Estimating experienced racial segregation in US cities using large-scale GPS data
+- PNAS
+- Experienced isolation: captures individuals' exposure to diverse others in the places they visit over the course of their days.
 
 #### Trade
 
