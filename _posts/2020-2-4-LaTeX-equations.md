@@ -7,6 +7,7 @@ permalink: /posts/latex-equations/
 
 ### Multiline Parentheses/Brackets
 ```
+\usepackage{amsmath}
 \begin{align}
     V^*_i = X_i \beta_i &+ \varepsilon_{1, i}, Victim_i = 1(V^*_i > 0) \\
     O^*_i = X_i \beta_i &+ \varepsilon_{2, i}, Offender_i = 1(O^*_i > 0) \\

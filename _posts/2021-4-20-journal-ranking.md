@@ -36,11 +36,17 @@ Finance Journals:
 7.	Review of Finance (ISSNs: 1572-3097)
 
 Criminology:
-1. Criminology
-2. Journal of Quantitative Criminology
-3. Journal of Research in Crime and Delinquency
-4. Justice Quarterly
-5. In no specific order: Journal of Criminal Justice, Crime & Delinquency, Journal of Experimental Criminology, Journal of Criminal Law & Criminology, British Journal of Criminology, Criminology & Public Policy
+1. Criminology, ISSNs: 0011-1384 (print); 1745-9125 (web)
+2. Journal of Quantitative Criminology, ISSNs: 0748-4518 (print), 1573-7799 (web)
+3. Journal of Research in Crime and Delinquency, ISSNs: 0022-4278 (print), 1552-731X (web)
+4. Justice Quarterly, ISSNs: 0741-8825 (print), 1745-9109 (web)
+5. In no specific order: 
+    - Journal of Criminal Justice, ISSNs: 0047-2352 (print), 0047-2352 (web), 
+    - Crime & Delinquency, 0011-1287 (print), 1552-387X (web)
+    - Journal of Experimental Criminology, 1573-3750 (print), 1572-8315 (web)
+    - Journal of Criminal Law & Criminology, 0091-4169
+    - British Journal of Criminology, 0007-0955 (print), 1464-3529 (web)
+    - Criminology & Public Policy, ISSN: 1538-6473 (print); 1745-9133 (web)
 
 Statistics
 1. JASA (ISSN: 0162-1459 (print); 1537-274X (web))

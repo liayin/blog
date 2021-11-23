@@ -37,6 +37,10 @@ permalink: /posts/lit-metrics/
 - Compared to conventional estimators, the optimal estimator allows the fixed effect to vary with time and to be serially correlated. It also does not require distributional assumptions.
 - Optimized R package, FEShR
 
+[Agarwal, Shah, Shen (2021)](https://arxiv.org/pdf/2006.07691.pdf): Synthetic Interventions
+- If there are M groups and N trials, how to reduce the number of trials per group and achieve similar estimation results
+- Uses synthetic control methods
+
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 
