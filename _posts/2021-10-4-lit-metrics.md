@@ -41,6 +41,13 @@ permalink: /posts/lit-metrics/
 - If there are M groups and N trials, how to reduce the number of trials per group and achieve similar estimation results
 - Uses synthetic control methods
 
+[Butcher, Moran & Watson (2021)](https://www.nber.org/system/files/working_papers/w29520/w29520.pdf?utm_campaign=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_source=PANTHEON_STRIPPED): IMMIGRANT LABOR AND THE INSTITUTIONALIZATION OF THE U.S.-BORN ELDERLY
+- Shift-share instrument
+
+[Arkhangelsky, Athey, Hirshberg, Imbens & Wager (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190159): Synthetic Difference-in-Differences
+- Applicable when treatment starts in the same time period for every unit
+- [R Package](https://github.com/synth-inference/synthdid)
+
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 

@@ -42,6 +42,11 @@ Append dataframes:
 df = df.append(df2, ignore_index=True)
 ```
 
+Include hyperlinks into dataframes ([Reference](https://datascientyst.com/create-clickable-link-pandas-dataframe-jupyterlab/)):
+```python
+HTML(df_legislations.to_html(render_links=True, escape=False))
+```
+
 ## Row Tricks
 
 Find rows that contain certain values:

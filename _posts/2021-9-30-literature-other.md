@@ -31,6 +31,9 @@ permalink: /posts/literature-other/
 
 [Deming (2021)](https://static1.squarespace.com/static/60832ecef615231cedd30911/t/608ac748511a8406d2300b72/1619707720285/Deming_Decisions_April2021.pdf): The Growing Importance of Decision-Making on the Job
 
+[Colas (2021)](https://drive.google.com/file/d/12RBQeGmUefbAWa8ZzM6vULi5ehIE3lNz/view): The Indirect Fiscal Benets of Low-Skilled Immigration
+- Low-skilled immigrants push locals to higher income brackets, thus increases tax revenue
+
 #### Inequality
 [Fernandez, Parsa & Viarengo (2021)](http://applied-microecon.wp.st-andrews.ac.uk/files/2021/09/comingout_revision_september2021.pdf): Coming out in America: Thirty Years of Cultural Change
 - Data: GSS
@@ -40,6 +43,11 @@ permalink: /posts/literature-other/
 [Athey, Ferguson, Gentzkow & Schmidt (2021)](https://www.pnas.org/content/pnas/118/46/e2026160118.full.pdf): Estimating experienced racial segregation in US cities using large-scale GPS data
 - PNAS
 - Experienced isolation: captures individuals' exposure to diverse others in the places they visit over the course of their days.
+
+##### Gender Inequality
+[Cabral & Dillender (2021)](https://www.nber.org/papers/w29541?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Gender Differences in Medical Evaluations: Evidence from Randomly Assigned Doctors
+- Compared to differences among their male patient counterparts, female patients randomly assigned a female doctor rather than a male doctor are 5.0% more likely to be evaluated as disabled and receive 8.5% more subsequent cash benefits on average.
+- The magnitude of these effects implies that having female doctors evaluate patients entirely offsets the observed gender gap in the likelihood of being evaluated as disabled when male doctors evaluate patients.
 
 #### Trade
 
