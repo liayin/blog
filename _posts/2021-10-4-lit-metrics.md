@@ -48,6 +48,9 @@ permalink: /posts/lit-metrics/
 - Applicable when treatment starts in the same time period for every unit
 - [R Package](https://github.com/synth-inference/synthdid)
 
+#### RCT
+[Nie, Imbens & Wager (2021)](https://arxiv.org/pdf/2112.04723.pdf): Covariate Balancing Sensitivity Analysis for Extrapolating Randomized Trials across Locations
+
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 

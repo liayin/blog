@@ -34,6 +34,14 @@ permalink: /posts/literature-other/
 [Colas (2021)](https://drive.google.com/file/d/12RBQeGmUefbAWa8ZzM6vULi5ehIE3lNz/view): The Indirect Fiscal Benets of Low-Skilled Immigration
 - Low-skilled immigrants push locals to higher income brackets, thus increases tax revenue
 
+[Heller & Kessler (2021)](https://www.nber.org/papers/w29579?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): The Effects of Letters of Recommendation in the Youth Labor Market
+
+[McDermott & Hansen (2021)](https://www.nber.org/system/files/working_papers/w29598/): Labor Reallocation and Remote Work During COVID-19: Real-Time Evidence from GitHub
+- GitHub Data
+
+[Rossi (2021)](https://www.aeaweb.org/atypon.php?return_path=/doi/pdfplus/10.1257/aer.20191852&etoc=1): The Relative Efficiency of Skilled Labor across Countries: Measurement and Interpretation
+- 
+
 #### Inequality
 [Fernandez, Parsa & Viarengo (2021)](http://applied-microecon.wp.st-andrews.ac.uk/files/2021/09/comingout_revision_september2021.pdf): Coming out in America: Thirty Years of Cultural Change
 - Data: GSS
@@ -80,3 +88,6 @@ permalink: /posts/literature-other/
     - Analyze the transaction volume and network structure of the main participants on the blockchain
     - Document the concentration and regional composition of the miners
     - Analyze the ownership concentration of the largest holders of Bitcoin
+
+#### Experiments
+[Hussam, Rabbani, Reggiani & Rigol (2021)](https://www.aeaweb.org/articles/pdf/doi/10.1257/): Rational Habit Formation: Experimental Evidence from Handwashing in India

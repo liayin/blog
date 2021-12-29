@@ -260,7 +260,25 @@ Environment and Crime
 - [Rose & Shem-Tov (2021)](https://www.journals.uchicago.edu/doi/abs/10.1086/716561): "How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function"
     - Budget-neutral reductions in sentence length combined with increases in incarceration rates can decrease recidivism
 
+#### Plea bargains
+- [Baer & Chambliss (1997)](https://link-springer-com.proxy.bc.edu/content/pdf/10.1023/A%3A1008239702811.pdf): Generating fear: The politics of crime reporting
+    - Difference between crime reported and plea reached
+
 ### Methods
+#### Data cleaning
+- [Jacob, Lefgren & Moretti (2004)](https://www.nber.org/system/files/working_papers/w10739/w10739.pdf): THE DYNAMICS OF CRIMINAL BEHAVIOR:
+EVIDENCE FROM WEATHER SHOCKS
+    - Clean UCR data
+
+- [Prescott & Rockoff (2011)](https://www.journals.uchicago.edu/doi/full/10.1086/658485): Do Sex Offender Registration and Notification Laws Affect Criminal Behavior?
+    - Clean NIBRS data
+
+-[d'Este (2020)](https://www.journals.uchicago.edu/doi/pdf/10.1086/707785): The Effects of Stolen-Goods Markets on Crime: Pawnshops, Property Theft, and the Gold Rush of the 2000s
+    - Clean UCR data
+
+-[Burkhardt et al (2020)](https://pierce.atmos.colostate.edu/Monthly_Pollution_and_Crime.pdf): The Relationship Between Monthly Air Pollution and Violent Crime Across the United States
+    - Clean UCR data
+
 #### Spatial methods
 - [Weber (2021)](https://drive.google.com/file/d/10QXUbdUuJXaRL7U4tmzdHcKbXYEQeyS8/view): The big house far from home: spatial distance and criminal recidivism
     - Two-sample instrumental variables strategy
