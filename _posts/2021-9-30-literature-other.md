@@ -43,6 +43,10 @@ permalink: /posts/literature-other/
 - 
 
 #### Inequality
+[Stantcheva (2022)](https://www.nber.org/system/files/working_papers/w29657/w29657.pdf): Inequalities in the times of a pandemic
+
+[Angrist, Hull, Pathak & Walters (2021)](http://www.nber.org/papers/w29608): Race and the Mismeasure of School Quality
+
 [Fernandez, Parsa & Viarengo (2021)](http://applied-microecon.wp.st-andrews.ac.uk/files/2021/09/comingout_revision_september2021.pdf): Coming out in America: Thirty Years of Cultural Change
 - Data: GSS
 - Empirical strategy: DiD

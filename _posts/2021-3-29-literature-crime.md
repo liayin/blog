@@ -103,6 +103,10 @@ Fostering and crime:
 - [Norris, Pecenco & Weaver (2021)](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20190415): The Effects of Parental and Sibling Incarceration: Evidence from Ohio
     - Every year, millions of Americans experience the incarceration of a family member. Using 30 years of administrative data from Ohio and exploiting differing incarceration propensities of randomly assigned judges, this paper provides the first quasi-experimental estimates of the effects of parental and sibling incarceration in the United States. Parental incarceration has beneficial effects on some important outcomes for children, reducing their likelihood of incarceration by 4.9 percentage points and improving their adult neighborhood quality. While estimates on academic performance and teen parenthood are imprecise, we reject large positive or negative effects. Sibling incarceration leads to similar reductions in criminal activity.
 
+Gun ownership:
+- [Chalak, Kim, Miller & Pepper (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694050): Reexamining the Evidence on Gun Ownership and Homicide Using Proxy Measures of Ownership
+    - Using firearm homicide rate to proxy for gun ownership
+
 Gun and Self-defense: 
 - [Defilippis & Hughes (2015)](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262/): The Myth Behind Defensive Gun Ownership (newspaper article)
 
@@ -147,6 +151,9 @@ Policing:
     - Experiment in Brazil
     - Different results than literature
     - Arguing the difference is due to method of analysis
+
+-[Cheng & Long (2022)](https://www.sciencedirect.com/science/article/pii/S0047272721001936): The effect of highly publicized police killings on policing: Evidence from large U.S. cities
+    - Examining police self-initiated activities provides direct evidence of de-policing.
 
 Race & Criminal Justice System:
 - [Feigenberg & Miller (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20180688): "Racial Divisions and Criminal Justice: Evidence from Southern State Courts"

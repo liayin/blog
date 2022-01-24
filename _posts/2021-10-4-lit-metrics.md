@@ -102,3 +102,6 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
 - Building on their partial identification results, for both preferences and attention frequency, they develop econometric methods for estimation and inference.
     - The procedures remain valid even in settings with large number of alternatives and choice problems.
 - They also provide a software package in R implementing their empirical methods, and illustrate them in a simulation study.
+
+#### Kernel Density Estimation
+[Cattaneo, Feng & Underwood (2022)](https://arxiv.org/pdf/2201.05967.pdf): Uniform Inference for Kernel Density Estimators with Dyadic Data
