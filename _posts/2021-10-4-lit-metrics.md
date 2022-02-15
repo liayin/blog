@@ -5,7 +5,11 @@ date: 2021-10-4 9:00:00 --0000
 permalink: /posts/lit-metrics/
 ---
 
-#### Causal Inference
+### Causal Inference
+[Angrist (2021)](https://www.nber.org/papers/w29726): Empirical Strategies in Economics: Illuminating the Path from Cause to Effect
+- Nobel lecture
+- LATE/IV
+
 [Pischke (2021)](https://voxeu.org/article/natural-experimenters-nobel-laureates-david-card-joshua-angrist-and-guido-imbens): Natural experiments in labour economics and beyond: The 2021 Nobel laureates David Card, Joshua Angrist, and Guido Imbens
 
 [Mogstad, Torgovitsky & Walters (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190221): The Causal Interpretation of Two-Stage Least Squares with Multiple Instrumental Variables
@@ -47,6 +51,10 @@ permalink: /posts/lit-metrics/
 [Arkhangelsky, Athey, Hirshberg, Imbens & Wager (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190159): Synthetic Difference-in-Differences
 - Applicable when treatment starts in the same time period for every unit
 - [R Package](https://github.com/synth-inference/synthdid)
+
+#### IV
+[Mikusheva & Shapiro (2022)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.36.1.177): Isaiah Andrews, 2021 John Bates Clark Medalist
+- Weak instruments
 
 #### RCT
 [Nie, Imbens & Wager (2021)](https://arxiv.org/pdf/2112.04723.pdf): Covariate Balancing Sensitivity Analysis for Extrapolating Randomized Trials across Locations

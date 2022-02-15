@@ -253,6 +253,10 @@ Environment and Crime
     - Conclusion: air pollution increases violent crime on the downwind sides of interstates.
 
 #### Judicial system
+- [Macdonald (2022)](https://www.dropbox.com/s/zey3357ejwgp1bz/DavidMacdonald_JMP_latest.pdf?dl=0): Truth in Sentencing, Incentives and Recidivism
+    - Methodology: Regression discontinuity and generalized random forest
+    - Results: rule infractions increased by 50%, while education program enrollment fell by 20%. Increase in violent infractions was largest for serious offenders, who saw an increase of 150% to 200% in infractions
+
 - [Dobbie & Yang (2021)](https://www.nber.org/papers/w29332?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): The US Pretrial System: Balancing Individual Rights and Public Interests
     - NBER Working Paper
     - Summary: review of empirical literature on the effectiveness and fairness of the US pretrial system and discuss its policy implications
