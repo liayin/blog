@@ -10,3 +10,4 @@ permalink: /posts/event-study/
 [Event study in various software](https://lost-stats.github.io/Model_Estimation/Research_Design/event_study.html)
 
 [Callaway & Sant'Anna (2020)](https://bcallaway11.github.io/did/)
+- When estimating two effects consecutively, make sure to remove the dataframes "out" and "es"

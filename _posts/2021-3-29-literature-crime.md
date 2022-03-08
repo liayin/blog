@@ -127,6 +127,9 @@ Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
 Policing:
+- [Hoekstra & Sloan (2022)](https://www.aeaweb.org/atypon.php?return_path=/doi/pdfplus/10.1257/aer.20201292&etoc=1): Does Race Matter for Police Use of Force? Evidence from 911 Calls
+    - AER
+
 - [Kaplan & Chalfin (2019)](https://jacobdkaplan.com/documents/more-cops-fewer-prisoners.pdf): More cops, fewer prisoners?
     - Data: state-level panel data & county-level data from California
     - Method: lagged-dependent variable panel regression
@@ -274,6 +277,10 @@ Environment and Crime
 #### Plea bargains
 - [Baer & Chambliss (1997)](https://link-springer-com.proxy.bc.edu/content/pdf/10.1023/A%3A1008239702811.pdf): Generating fear: The politics of crime reporting
     - Difference between crime reported and plea reached
+
+#### Social policies
+- [Deshpande & Mueller-Smith (2022)](https://www.nber.org/papers/w29800): Does Welfare Prevent Crime? The Criminal Justice Outcomes of Youth Removed From SSI
+    - NBER working paper
 
 ### Methods
 #### Data cleaning

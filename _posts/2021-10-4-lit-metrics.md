@@ -62,7 +62,14 @@ permalink: /posts/lit-metrics/
 #### Regression Discontinuity
 [Cattaneo, Keele & Titiunik (2021)](https://arxiv.org/pdf/2110.08410.pdf): Covariate Adjustment in Regression Discontinuity Designs
 
+#### Synthetic control
+[Cattaneo, Feng, Palomba & Titiunik (2022)](https://arxiv.org/pdf/2202.05984.pdf): scpi: Uncertainty Quantification for Synthetic Control Estimators
+- package for Python, R, and Stata
+
 #### Peer Effects Model
+[Li & Wager (2022)](https://arxiv.org/pdf/2202.05356.pdf): Network Interference in Micro-Randomized Trials
+- When an individual's outcome could depend on other individuals' treatments and outcomes
+
 Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroskedasticity
 
 #### Clustering
@@ -103,6 +110,10 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
     - Use the time-series model to extract the quasi-random variation from the observed shock
 
 #### Partial Identification
+[Manski (2022)](https://faculty.wcas.northwestern.edu/~cfm754/identification_statistical_decision_theory.pdf): IDENTIFICATION AND STATISTICAL DECISION THEORY
+- Uses sampling to randomize choice when partial identification in statistical decision theory requires criteria such as minimax regret.
+
+
 [Cattaneo, Cheung, Ma & Masatlioglu (2021)](https://arxiv.org/pdf/2110.10650.pdf): Attention Overload
 - They introduce an Attention Overload Model that captures the idea that alternatives compete for the decision marker's attention, and hence the attention frequency each alternative receives decreases as the choice problem becomes larger.
 - Using this nonparametric restriction on the random attention formation, they show that a fruitful revealed preference theory can be developed, and provide testable implications on the observed choice behavior that can be used to partially identify the decision maker's preference.
@@ -113,3 +124,7 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
 
 #### Kernel Density Estimation
 [Cattaneo, Feng & Underwood (2022)](https://arxiv.org/pdf/2201.05967.pdf): Uniform Inference for Kernel Density Estimators with Dyadic Data
+
+#### Short-term vs long-term estimation
+[Imbens, Kallus, Mao & Wang (2022)](https://arxiv.org/pdf/2202.07234.pdf): Long-term Causal Inference Under Persistent Confounding via
+Data Combination
