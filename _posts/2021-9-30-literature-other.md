@@ -5,7 +5,9 @@ date: 2021-09-30 9:00:00 --0000
 permalink: /posts/literature-other/
 ---
 
-#### Labor
+### Labor
+[Zhou, Heckman, Liu & Lu (2022)](https://ideas.repec.org/p/iza/izadps/dp15132.html)
+- childhood home visiting program
 
 [Anelli & Koenig (2021)](https://www.andrew.cmu.edu/user/fkoenig/The_willingness_to_pay21jul26.pdf)
 - Model: WTP for health risk.
@@ -40,9 +42,25 @@ permalink: /posts/literature-other/
 - GitHub Data
 
 [Rossi (2021)](https://www.aeaweb.org/atypon.php?return_path=/doi/pdfplus/10.1257/aer.20191852&etoc=1): The Relative Efficiency of Skilled Labor across Countries: Measurement and Interpretation
-- 
 
-#### Inequality
+#### Poverty
+[Kaur, Mullainathan, Oh & Schilbach (2021)](https://www.nber.org/papers/w28338): Do Financial Concerns Make Workers Less Productive?
+
+[Carvalho, Meier, & Wang (2016)](https://dx.doi.org/10.1257%2Faer.20140481): Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday
+- AER
+
+[Banerjee & Mullainathan (2008)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.98.2.489): Limited Attention and Income Distribution
+
+#### 401(K)
+[Poterba, Venti & Wise (2000)](https://www.aeaweb.org/articles?id=10.1257/aer.90.2.297): Saver Behavior and 401(k) Retirement Wealth
+- AER
+
+#### Social Benefits
+[Bhargava & Manoli (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20121493): Psychological Frictions and the Incomplete Take-Up of Social Benefits: Evidence from an IRS Field Experiment
+- AER
+- receipt of the mailing, simplification, and the heightened salience of benefits led to substantial additional claiming
+
+### Inequality
 [Stantcheva (2022)](https://www.nber.org/system/files/working_papers/w29657/w29657.pdf): Inequalities in the times of a pandemic
 
 [Angrist, Hull, Pathak & Walters (2021)](http://www.nber.org/papers/w29608): Race and the Mismeasure of School Quality
@@ -56,12 +74,12 @@ permalink: /posts/literature-other/
 - PNAS
 - Experienced isolation: captures individuals' exposure to diverse others in the places they visit over the course of their days.
 
-##### Gender Inequality
+### Gender Inequality
 [Cabral & Dillender (2021)](https://www.nber.org/papers/w29541?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Gender Differences in Medical Evaluations: Evidence from Randomly Assigned Doctors
 - Compared to differences among their male patient counterparts, female patients randomly assigned a female doctor rather than a male doctor are 5.0% more likely to be evaluated as disabled and receive 8.5% more subsequent cash benefits on average.
 - The magnitude of these effects implies that having female doctors evaluate patients entirely offsets the observed gender gap in the likelihood of being evaluated as disabled when male doctors evaluate patients.
 
-#### Trade
+### Trade
 
 [Eaton & Kortum (2002)](http://www.lukasz-drozd.com/uploads/4/3/1/8/43183209/econ871notes_tex.pdf)
 - Built on Ricardian model
@@ -69,7 +87,7 @@ permalink: /posts/literature-other/
 - Multicountry
 - Tractable - good for making policy recommendations
 
-#### IO
+### IO
 
 [Ciliberto, Murry & Tamer (2021)](https://www.journals.uchicago.edu/doi/abs/10.1086/715848)
 - Model for estimating a game of simultaneous entry and pricing decisions while allowing for correlations between unobserved cost and demand shocks
@@ -82,7 +100,7 @@ permalink: /posts/literature-other/
 - Uniform price can increase hospital surplus by up to 3.4%
     - Purchases of ICDs equipped with a superior technology drops by up to 26.3%
 
-#### Blockchain
+### Blockchain
 
 [Makarov & Schoar (2021)](https://www.nber.org/papers/w29396?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Blockchain Analysis of the Bitcoin Market
 - Provides detailed analyses of the Bitcoin network and its main participants
@@ -93,5 +111,5 @@ permalink: /posts/literature-other/
     - Document the concentration and regional composition of the miners
     - Analyze the ownership concentration of the largest holders of Bitcoin
 
-#### Experiments
+### Experiments
 [Hussam, Rabbani, Reggiani & Rigol (2021)](https://www.aeaweb.org/articles/pdf/doi/10.1257/): Rational Habit Formation: Experimental Evidence from Handwashing in India

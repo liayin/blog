@@ -128,6 +128,11 @@ Drop columns
 df = subset(mydata, select = -c(x,z) )
 ```
 
+Select unique values from column
+```r
+unique(df$column)
+```
+
 ### Data frames
 [Examine a Data Frame in R with 7 Basic Functions](https://rveryday.wordpress.com/2016/11/29/examine-a-data-frame-in-r-with-7-basic-functions/):
 1. `dim()`: shows the dimensions of the data frame by row and column

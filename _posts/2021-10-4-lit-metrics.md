@@ -57,6 +57,8 @@ permalink: /posts/lit-metrics/
 - Weak instruments
 
 #### RCT
+[Xiong, Chin, Taylor, Athey (2022)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lg_0u-0AAAAJ&citation_for_view=lg_0u-0AAAAJ:9ZlFYXVOiuMC): small sample size
+
 [Nie, Imbens & Wager (2021)](https://arxiv.org/pdf/2112.04723.pdf): Covariate Balancing Sensitivity Analysis for Extrapolating Randomized Trials across Locations
 
 #### Regression Discontinuity
