@@ -50,3 +50,13 @@ Criminology:
 
 Statistics
 1. JASA (ISSN: 0162-1459 (print); 1537-274X (web))
+
+Psychometrics:
+- Psychometrika
+- Applied Psychological Measurement
+- British Journal of Mathematical and Statistical Psychology
+- Educational and Psychological Measurement
+- Psychological Methods
+- Psychological Bulletin
+- Journal of Mathematical Psychology
+- Assessment

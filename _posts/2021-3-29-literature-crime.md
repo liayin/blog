@@ -65,6 +65,14 @@ Education and Crime:
     - In contrast to previous research looking at earlier US education reforms, the reform induced crime reduction does not arise primarily from education improvements
 
 #### Employments and Crime:
+- [Cullen, Dobbie & Hoffman (2022)](https://www.doi.org/10.3386/w29947): Increasing the Demand for Workers with a Criminal Record
+    - Method: field experiment
+    - Results: 
+        - 39% of businesses are willing to work with individuals with a criminal record
+        - over 50% when offered crime and safety insurance, a single performance review, or a limited background check covering just the past year
+        - Wage subsidies can achieve similar increases but at substantially higher cost
+    - Policy implication: staffing platform relaxed the criminal background check requirement and offered crime and safety insurance to interested businesses
+
 - [Kessler, Tahamont, Gelber & Isen (2021)](https://www.nber.org/papers/w28373): The Effects of Youth Employment on Crime: Evidence from New York City Lotteries
 
 - [Davis & Heller (2020)](https://drive.google.com/file/d/1lljgC054iFsVwMFQRq6I-NsCVB5nV_IL/view): Rethinking the Benefits of Youth Employment Programs: The Heterogeneous Effects of Summer Jobs
@@ -102,15 +110,20 @@ Education and Crime:
 - [Deza, Lu & Maclean (2021)](https://www.nber.org/papers/w29465?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Office-Based Mental Healthcare and Juvenile Arrests
     - 10 additional office-based mental healthcare providers in a county leads to a decrease of 2.3% to 2.6% in the per capita costs to society of juvenile arrest
 
-###### Fostering and crime:
+#### Fostering and crime:
 - [Norris, Pecenco & Weaver (2021)](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20190415): The Effects of Parental and Sibling Incarceration: Evidence from Ohio
     - Every year, millions of Americans experience the incarceration of a family member. Using 30 years of administrative data from Ohio and exploiting differing incarceration propensities of randomly assigned judges, this paper provides the first quasi-experimental estimates of the effects of parental and sibling incarceration in the United States. Parental incarceration has beneficial effects on some important outcomes for children, reducing their likelihood of incarceration by 4.9 percentage points and improving their adult neighborhood quality. While estimates on academic performance and teen parenthood are imprecise, we reject large positive or negative effects. Sibling incarceration leads to similar reductions in criminal activity.
 
-###### Gun ownership:
+#### Gun ownership:
+- [Acquisti & Tucker (2022)](https://www.doi.org/10.3386/w29940): Guns, Privacy, and Crime
+    - Research question: publication of names and addresses of holders of handgun carry permits on criminals' propensity to commit burglaries
+    - Method: natural experiment
+    - Results: burglary increased in zip codes with fewer gun permits, and decreased in those with more gun permits, after the database was publicized
+
 - [Chalak, Kim, Miller & Pepper (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694050): Reexamining the Evidence on Gun Ownership and Homicide Using Proxy Measures of Ownership
     - Using firearm homicide rate to proxy for gun ownership
 
-###### Gun and Self-defense: 
+#### Gun and Self-defense: 
 - [Defilippis & Hughes (2015)](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262/): The Myth Behind Defensive Gun Ownership (newspaper article)
 
 - [Zimring (2017)](https://law.asu.edu/sites/default/files/pdf/academy_for_justice/9_Reforming-Criminal-Justice_Vol_1_Firearms-and-Violence.pdf): Firearms and Violence (book chapter). Zimring pointed out that the higher rate of civilians killed by police may be associated with the higher rate of police death. He suspects that both may be related with the use of firearms.
@@ -129,7 +142,7 @@ Education and Crime:
 Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
-###### Policing:
+#### Policing:
 - [Hoekstra & Sloan (2022)](https://www.aeaweb.org/atypon.php?return_path=/doi/pdfplus/10.1257/aer.20201292&etoc=1): Does Race Matter for Police Use of Force? Evidence from 911 Calls
     - AER
 
@@ -141,7 +154,7 @@ Law's unintended consequences:
 - [Abrams, Fang & Goonetilleke(2021)](https://conference.nber.org/conf_papers/f158125.pdf): The standard economic model of police stops implies that the contraband hit rate should rise when the number of stops falls, ceteris paribus. We provide empirical corroboration of such optimizing models of police behavior by examining changes in stops and frisks around two extraordinary events of 2020 - the pandemic onset and the nationwide protests following the killing of George Floyd. We find that hit rates from pedestrian and vehicle stops generally rose as stops and frisks fell dramatically. Using detailed data, we are able to rule out a number of alternative explanations, including changes in street population, crime, police allocation, and policing intensity. We find mixed evidence about the changes in racial disparities, and evidence that police stops do not decrease crime, at least in the short run. The results are robust to a number of different specifications. Our findings provide quantitative estimates that can contribute to the important goals of improving and reforming policing.
 
 - [Goncalves & Mello (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20181607): "A Few Bad Apples? Racial Bias in Policing". AER.  
-    - Abstract: We estimate the degree to which individual police officers practice racial discrimination. Using a bunching estimation design and data from the Florida Highway Patrol, we show that minorities are less likely to receive a discount on their speeding tickets than White drivers. Disaggregating this difference to the individual police officer, we estimate that 42 percent of officers practice discrimination. We then apply our officer-level discrimination measures to various policy-relevant questions in the literature. In particular, reassigning officers across locations based on their lenience can effectively reduce the aggregate disparity in treatment.
+    - Abstract: We estimate the degree to which individual police officers practice racial discrimination. Using a bunching estimation design and data from the Florida Highway Patrol, we show that minorities are less likely to receive a discount on their speeding tickets than White drivers. Disaggregating this difference to the individual police officer, we estimate that 42 percent of officers practice discrimination. We then apply our officer-level discrimination measures to various policy-relevant questions in the literature. In particular, reassigning officers across locations based on their lenience can effectively reduce the aggregate disparity in treatment.
 
 - [Ang (2020)](https://academic.oup.com/qje/article-abstract/136/1/115/5903299): "The Effects of Police Violence on Inner-City Students", QJE.
     - Abstract: Nearly 1,000 officer-involved killings occur each year in the United States. This article documents the large, racially disparate effects of these events on the educational and psychological well-being of Los Angeles public high school students. Exploiting hyperlocal variation in how close students live to a killing, I find that exposure to police violence leads to persistent decreases in GPA, increased incidence of emotional disturbance, and lower rates of high school completion and college enrollment. These effects are driven entirely by black and Hispanic students in response to police killings of other minorities and are largest for incidents involving unarmed individuals.
@@ -163,7 +176,7 @@ Law's unintended consequences:
 
 ###### Race & Criminal Justice System:
 - [Feigenberg & Miller (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20180688): "Racial Divisions and Criminal Justice: Evidence from Southern State Courts"
-    - The US criminal justice system is exceptionally punitive. We test whether racial heterogeneity is one cause, exploiting cross-jurisdiction variation in punishment severity in four Southern states. We estimate the causal effect of jurisdiction on arrest outcomes using a fixed effects model that incorporates extensive charge and defendant controls. We validate our estimates using defendants charged in multiple jurisdictions. Consistent with a model of ingroup bias in electorate preferences, the relationship between local severity and Black population share follows an inverted U-shape. Within states, defendants are 27–54 percent more likely to be incarcerated in “peak” heterogeneous jurisdictions than in homogeneous jurisdictions. We estimate that confinement rates and race-based confinement rate gaps would fall by 15 percent if all jurisdictions adopted the severity of homogeneous jurisdictions within their state. (JEL H76, J15, K42)
+    - The US criminal justice system is exceptionally punitive. We test whether racial heterogeneity is one cause, exploiting cross-jurisdiction variation in punishment severity in four Southern states. We estimate the causal effect of jurisdiction on arrest outcomes using a fixed effects model that incorporates extensive charge and defendant controls. We validate our estimates using defendants charged in multiple jurisdictions. Consistent with a model of ingroup bias in electorate preferences, the relationship between local severity and Black population share follows an inverted U-shape. Within states, defendants are 27–54 percent more likely to be incarcerated in “peak” heterogeneous jurisdictions than in homogeneous jurisdictions. We estimate that confinement rates and race-based confinement rate gaps would fall by 15 percent if all jurisdictions adopted the severity of homogeneous jurisdictions within their state. (JEL H76, J15, K42)
 
 - [Alston & Owens (2021)](https://www.mackenziealston.com/research)
     - Title: Does Black and Blue Matter?: An Experimental Investigation of Race and Perceptions of Police Bias
@@ -174,7 +187,7 @@ Law's unintended consequences:
 
 Prisons
 - [Mukherjee (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20170474): "Impacts of Private Prison Contracting on Inmate Time Served and Recidivism"
-    - This paper examines the impact of private prison contracting by exploiting staggered prison capacity shocks in Mississippi. Motivated by a model based on the typical private prison contract that pays a per diem for each occupied bed, the empirical analysis shows that private prison inmates serve 90 additional days. This is alternatively estimated as 4.8 percent of the average sentence. The delayed release erodes half of the cost savings offered by private contracting and is linked to the greater likelihood of conduct violations in private prisons. The additional days served do not lead to apparent changes in inmate recidivism. (JEL H76, K42)
+    - This paper examines the impact of private prison contracting by exploiting staggered prison capacity shocks in Mississippi. Motivated by a model based on the typical private prison contract that pays a per diem for each occupied bed, the empirical analysis shows that private prison inmates serve 90 additional days. This is alternatively estimated as 4.8 percent of the average sentence. The delayed release erodes half of the cost savings offered by private contracting and is linked to the greater likelihood of conduct violations in private prisons. The additional days served do not lead to apparent changes in inmate recidivism. (JEL H76, K42)
 
 
 #### Crime Underreporting (not all crimes are reported to the police)

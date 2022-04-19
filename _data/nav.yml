@@ -142,6 +142,11 @@ toc:
     - page: Web Scraping
       url: /posts/web-scraping/
 
+- title: Interview Prep
+  subfolderitems:
+    - page: Interview Prep
+      url: /posts/interview-prep/
+
 - title: Other
   subfolderitems:
     - page: Miscellaneous Readings
