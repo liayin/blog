@@ -5,7 +5,14 @@ date: 2021-03-29 21:06:00 --0000
 permalink: /posts/literature-crime/
 ---
 
-###### Works on the SYG Law:
+This blog post serves as a repository of (mainly) academic papers on different topics within the economics of crime literature. It has mostly new papers, and it has been updated as of April 25, 2022. Since I am continually updating it, I have not bothered to change the date of the blog post to save myself the pain of having to update the date each time.
+
+The sections of the blog post are in the table of contents below. Please contact me if you find that an important paper is missing from the lists!
+
+* TOC
+{:toc}
+
+#### Works on the SYG Law:
 - [Yakubovich, et al. (2021): Effects of Laws Expanding Civilian Rights to Use Deadly Force in Self-Defense on Violence and Crime: A Systematic Review](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101)： The existing evidence contradicts claims that expanding self-defense laws deters violent crime across the United States.
 
 - [GVPedia University (2018)](https://www.gvpedia.org/fact-sheet-stand-your-ground-laws/): Fact Sheet - Stand Your Ground Laws (media synthesis of research articles)
@@ -115,6 +122,14 @@ Education and Crime:
     - Every year, millions of Americans experience the incarceration of a family member. Using 30 years of administrative data from Ohio and exploiting differing incarceration propensities of randomly assigned judges, this paper provides the first quasi-experimental estimates of the effects of parental and sibling incarceration in the United States. Parental incarceration has beneficial effects on some important outcomes for children, reducing their likelihood of incarceration by 4.9 percentage points and improving their adult neighborhood quality. While estimates on academic performance and teen parenthood are imprecise, we reject large positive or negative effects. Sibling incarceration leads to similar reductions in criminal activity.
 
 #### Gun ownership:
+- [Evans & Kotowski (2022)](https://www.doi.org/10.3386/w29969): The Demand For Protection and the Persistently High Rates of Gun Violence Among Young Black Males
+    - Source: NBER working paper
+    - Method: theoretical model
+    - Model philosophy: a person may carry a gun for instrumental (i.e., criminal) reasons or for its perceived protective benefit
+    - Model predictions: a shock to the instrumental benefit can move the equilibrium to one with a high gun prevalence
+    - Model implications: there are larger returns to reducing the value of guns for crime than trying to reduce their protective benefit
+    - Policy suggestion: different policy paths to combat the problem of gun violence
+
 - [Acquisti & Tucker (2022)](https://www.doi.org/10.3386/w29940): Guns, Privacy, and Crime
     - Research question: publication of names and addresses of holders of handgun carry permits on criminals' propensity to commit burglaries
     - Method: natural experiment
@@ -174,7 +189,7 @@ Law's unintended consequences:
 -[Cheng & Long (2022)](https://www.sciencedirect.com/science/article/pii/S0047272721001936): The effect of highly publicized police killings on policing: Evidence from large U.S. cities
     - Examining police self-initiated activities provides direct evidence of de-policing.
 
-###### Race & Criminal Justice System:
+#### Race & Criminal Justice System:
 - [Feigenberg & Miller (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20180688): "Racial Divisions and Criminal Justice: Evidence from Southern State Courts"
     - The US criminal justice system is exceptionally punitive. We test whether racial heterogeneity is one cause, exploiting cross-jurisdiction variation in punishment severity in four Southern states. We estimate the causal effect of jurisdiction on arrest outcomes using a fixed effects model that incorporates extensive charge and defendant controls. We validate our estimates using defendants charged in multiple jurisdictions. Consistent with a model of ingroup bias in electorate preferences, the relationship between local severity and Black population share follows an inverted U-shape. Within states, defendants are 27–54 percent more likely to be incarcerated in “peak” heterogeneous jurisdictions than in homogeneous jurisdictions. We estimate that confinement rates and race-based confinement rate gaps would fall by 15 percent if all jurisdictions adopted the severity of homogeneous jurisdictions within their state. (JEL H76, J15, K42)
 
