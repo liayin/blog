@@ -5,6 +5,11 @@ date: 2021-10-4 9:00:00 --0000
 permalink: /posts/lit-metrics/
 ---
 
+This blog post continuously updates papers in econometrics. Please let me know if you have any questions by clicking on the "About" button and emailing me.
+
+* TOC
+{:toc}
+
 ### Causal Inference
 [Angrist (2021)](https://www.nber.org/papers/w29726): Empirical Strategies in Economics: Illuminating the Path from Cause to Effect
 - Nobel lecture
@@ -98,10 +103,13 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
         - Establish non-asymptotic results which provide finite sample performance guarantees for their estimators
     - Monte Carlo study which shows that their estimator performs well for samples of moderate size
 
-#### Machine Learning
-- [Montiel Olea, Ke, and Nesbit (2021)](http://www.joseluismontielolea.com/papers.html): Robust Machine Learning Algorithms for Text Analysis
-    - Standard text analysis methods have flat regions
-    - Use Bayesian methods to remove the problem
+#### Kernel Density Estimation
+[Cattaneo, Chandak, Jansson & Ma (2022)](https://arxiv.org/pdf/2204.10375.pdf): lpcde: Local Polynomial Conditional Density Estimation and Inference
+- Published in the R Journal and ArXiv
+- This paper discusses the R package lpcde, which stands for local polynomial conditional density estimation
+- It implements the kernel-based local polynomial smoothing methods introduced in [Cattaneo, Chandak, Jansson, and Ma (2022)]()
+
+[Cattaneo, Feng & Underwood (2022)](https://arxiv.org/pdf/2201.05967.pdf): Uniform Inference for Kernel Density Estimators with Dyadic Data
 
 #### Policy evaluation
 - [Arkhangelsky & Korovkin (2021)](https://arxiv.org/pdf/1905.13660.pdf): On Policy Evaluation with Aggregate Time-Series Shocks
@@ -111,7 +119,13 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
     - Use the unit weights to control for unobserved aggregate confounders
     - Use the time-series model to extract the quasi-random variation from the observed shock
 
-#### Partial Identification
+### Machine Learning
+- [Montiel Olea, Ke, and Nesbit (2021)](http://www.joseluismontielolea.com/papers.html): Robust Machine Learning Algorithms for Text Analysis
+    - Standard text analysis methods have flat regions
+    - Use Bayesian methods to remove the problem
+
+
+### Partial Identification
 [Manski (2022)](https://faculty.wcas.northwestern.edu/~cfm754/identification_statistical_decision_theory.pdf): IDENTIFICATION AND STATISTICAL DECISION THEORY
 - Uses sampling to randomize choice when partial identification in statistical decision theory requires criteria such as minimax regret.
 
@@ -124,9 +138,14 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
     - The procedures remain valid even in settings with large number of alternatives and choice problems.
 - They also provide a software package in R implementing their empirical methods, and illustrate them in a simulation study.
 
-#### Kernel Density Estimation
-[Cattaneo, Feng & Underwood (2022)](https://arxiv.org/pdf/2201.05967.pdf): Uniform Inference for Kernel Density Estimators with Dyadic Data
 
-#### Short-term vs long-term estimation
+### Short-term vs long-term estimation
 [Imbens, Kallus, Mao & Wang (2022)](https://arxiv.org/pdf/2202.07234.pdf): Long-term Causal Inference Under Persistent Confounding via
 Data Combination
+
+### Discrete choice estimation
+[Christensen, Moon, and Schorfheide (2022)](https://arxiv.org/pdf/2204.11748.pdf): Optimal Discrete Decisions when Payoffs are Partially Identified
+- Published in ArXiv
+- This paper derives optimal statistical decision rules for discrete choice problems when the decision maker is unable to discriminate among a set of payoff distributions.
+- The decision maker must confront both model uncertainty (about the identity of the true payoff distribution) and statistical uncertainty (the set of payoff distributions must be estimated)
+- Efficient-robust decision rules, which minimize maximum risk or regret over the set of payoff distributions and which use the data to learn efficiently about features of the set of payoff distributions germane to the choice problem, are optimal and can dominate seemingly natural alternatives.

@@ -104,7 +104,14 @@ Education and Crime:
 - [Kang (2015)](https://link.springer.com/article/10.1007/s00148-015-0579-3): Inequality and crime revisited: effects of local inequality and economic segregation on crime
     - Data is at the census tract level
 
-#### Health and Crime:
+#### Health and Crime
+- [Maclean, Mallatt, Ruhm, and Simon (2022)](https://www.doi.org/10.3386/w29983): The Opioid Crisis, Health, Healthcare, and Crime: A Review of Economic Studies
+    - Opioids has negatively impacted health outcomes
+        - The healthcare system played a role in the emergence of the epidemic and its continuation
+    - Opioids increase crime
+        - Link is not as strong as has been observed in previous drug epidemics
+        - Finding is consistent with the pharmacological difference between opioids and stimulant substances (e.g., cocaine)
+
 - [Arenberg, Neller & Stripling (2020)](https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf): The Impact of Youth Medicaid Eligibility on Adult Incarceration
 
 - [Moore & Schnepel (2021)](https://www.nber.org/papers/w28848): Opioid Use, Health and Crime: Insights from a Rapid Reduction in Heroin Supply
@@ -158,6 +165,10 @@ Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
 #### Policing:
+- [Amaral, Borker, Fiala, Prakash & Sviatschi (2022)](https://girijaborker.wordpress.com/research/): "Street Police Patrols and Violence Against Women in Public Spaces: Experimental Evidence from India"
+    - Work in progress
+    - Spoken at the [ViCE seminars](http://jenniferdoleac.com/vice-seminar/)
+
 - [Hoekstra & Sloan (2022)](https://www.aeaweb.org/atypon.php?return_path=/doi/pdfplus/10.1257/aer.20201292&etoc=1): Does Race Matter for Police Use of Force? Evidence from 911 Calls
     - AER
 

@@ -5,6 +5,11 @@ date: 2021-09-30 9:00:00 --0000
 permalink: /posts/literature-other/
 ---
 
+In this blog article, I have compiled a list of papers in different economic disciplines. Please let me know if you have any comments by emailing me through the About page. Thanks!
+
+* TOC
+{:toc}
+
 ### Labor
 [Zhou, Heckman, Liu & Lu (2022)](https://ideas.repec.org/p/iza/izadps/dp15132.html)
 - childhood home visiting program
@@ -60,6 +65,12 @@ permalink: /posts/literature-other/
 - AER
 - receipt of the mailing, simplification, and the heightened salience of benefits led to substantial additional claiming
 
+#### Technology
+[Acemoglu, Autor, Hazell, and Restrepo (2022)](https://economics.mit.edu/files/22553): Artificial Intelligence and Jobs: Evidence from Online Vacancies
+- JLE
+- AI has substituted for humans in a subset of tasks
+- No discernible relationship between AI exposure and employment or wage growth at the occupation or industry level
+
 ### Inequality
 [Stantcheva (2022)](https://www.nber.org/system/files/working_papers/w29657/w29657.pdf): Inequalities in the times of a pandemic
 
@@ -113,3 +124,8 @@ permalink: /posts/literature-other/
 
 ### Experiments
 [Hussam, Rabbani, Reggiani & Rigol (2021)](https://www.aeaweb.org/articles/pdf/doi/10.1257/): Rational Habit Formation: Experimental Evidence from Handwashing in India
+
+### Education
+[Heckman & Zhou (2022)](https://docs.iza.org/dp15252.pdf): Measuring Knowledge
+- Published as an IZA working paper
+- Psychometrically validated test scores are not comparable over time and people

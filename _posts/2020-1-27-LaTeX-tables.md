@@ -4,6 +4,12 @@ title: Tables in LaTeX
 date: 2020-01-27 17:05:00 --0000
 permalink: /posts/latex-tables/
 ---
+This is the very first post of this blog, as LaTeX is very important to an academic, and tables are very important to an economist! The content go from the most basic tables to very complex ones. Let me know if there is anything else I should cover in this blog post!
+
+Table of content
+
+* TOC
+{:toc}
 
 ### Basic Tables
 In order to create a table, the most common way is to use ```\begin{table}```. And then ```\begin{tabular}{}``` where we can specify how many columns there are and what their alignments are. The common ones used are ```{l c c}``` if there are three columns or ```{l *{5}{c} m{4cm}}``` if there are seven. In order to add notes to the table, ```\multicolumn``` is helpful. Below is an example:
@@ -148,3 +154,5 @@ A & B & C\\     A & B & C\\
 ```
 
 Reference [here](https://tex.stackexchange.com/questions/26462/make-a-table-span-multiple-pages), [here](https://tex.stackexchange.com/questions/11380/how-to-repeat-top-rows-column-headings-on-every-page), and [here](https://tex.stackexchange.com/questions/219138/how-to-have-a-caption-on-top-of-longtable/219145).
+
+### Tables in Appendix
