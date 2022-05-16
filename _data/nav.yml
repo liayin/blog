@@ -56,6 +56,9 @@ toc:
     
     - page: Metrics Literature
       url: /posts/lit-metrics/
+    
+    - page: Machine Learning
+      url: /posts/machine-learning/
 
 - title: Python-related
   subfolderitems:

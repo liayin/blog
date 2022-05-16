@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crime Literature
-date: 2021-03-29 21:06:00 --0000
+date: 2022-05-16 11:06:00 --0000
 permalink: /posts/literature-crime/
 ---
 
@@ -105,6 +105,10 @@ Education and Crime:
     - Data is at the census tract level
 
 #### Health and Crime
+- [Blattman, Chaskel, Jamison, and Sheridan (2022)](https://www.doi.org/10.3386/w30049): Cognitive Behavior Therapy Reduces Crime and Violence over 10 Years: Experimental Evidence
+    - NBER working paper
+    - CBT & small cash transfer is most effective in reducing crime
+
 - [Maclean, Mallatt, Ruhm, and Simon (2022)](https://www.doi.org/10.3386/w29983): The Opioid Crisis, Health, Healthcare, and Crime: A Review of Economic Studies
     - Opioids has negatively impacted health outcomes
         - The healthcare system played a role in the emergence of the epidemic and its continuation
