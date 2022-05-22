@@ -1,11 +1,39 @@
 ---
 layout: post
 title: Econometric Models
-date: 2020-02-04 17:03:00 --0000
+date: 2022-05-17 17:03:00 --0000
 permalink: /posts/metrics-models
 ---
 
-#### IV
+This post lists common econometric models. It is currently work-in-progress. Please let me know if you have models in mind that I should include.
+
+Table of Contents
+* TOC
+{:toc}
+
+# Two-sample t test
+[Two-sample t test](https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/two-sample-t-test.html)
+
+# Logistics regression
+In statistics, the logistic model is a statistical model that models the probability of one event taking place by having the log-odds for the event be a linear combination of one or more independent variables. 
+
+In regression analysis, logistic regression is estimating the parameters of a logistic model.
+
+Formally, in binary logistic regression there is a single binary dependent variable, coded by an indicator variable, where the two values are labeled "0" and "1", while the independent variables can each be a binary variable or a continuous variable. The corresponding probability of the value labeled "1" can vary between 0 and 1. The function that converts log-odds to probability is the logistic function.
+
+## Logistic function
+The logit model takes input log-odds and outputs probability. 
+
+
+# Experiments
+
+## How to reduce the size of an experiment?
+1. Increase practical significance, alpha, or beta
+2. Change unit of diversion to a smaller unit
+3. Target experiment to specific traffic
+Reference: Udacity A/B testing course, Lesson 4
+
+# IV
 - [IV overview](http://web.uvic.ca/~hschuetz/econ499/iv.pdf)
 
 - IV vs OLS (Reference [here](https://donskerclass.github.io/EconometricsII/MoreIV.html))
@@ -13,18 +41,18 @@ permalink: /posts/metrics-models
 
 
 
-#### ARIMA
+# ARIMA
 ARIMA: Auto Regressive Integrated Moving Average. It explains a given time series based on its own past values (its own lags and the lagged forecast errors), so that equation can be used to forecast future values.
 
 [Regression kink design](https://blogs.worldbank.org/impactevaluations/tools-trade-regression-kink-design)
 
-## DiD
+# DiD
 
 [de Chaisemartin & D'Haultfoeuille (2020)](https://arxiv.org/pdf/1803.08807.pdf): heterogeneous treatment effects
 [Stata package](https://www.openicpsr.org/openicpsr/project/118363/version/V2/view?flag=follow&pageSelected=0&pageSize=10&sortOrder=(?title)&sortAsc=true)
 [R package](https://cran.r-project.org/web/packages/TwoWayFEWeights/TwoWayFEWeights.pdf)
 
-#### Group-time treatment effect
+## Group-time treatment effect
 
 Reference: [Callaway & Sant'Anna (2020)](https://arxiv.org/abs/1803.09015)
 
@@ -49,5 +77,5 @@ It first averages across all time periods for each group, and then averages acro
 [Callaway & Sant'Anna (2020) R package](https://bcallaway11.github.io/did/)
 
 
-## Post-estimation
+# Post-estimation
 There are a lot of post estimation that can be carried out. For example, for `xtlogit` in stata, postestimation commands can be found [here](https://www.stata.com/manuals/xtxtlogitpostestimation.pdf).

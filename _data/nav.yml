@@ -126,6 +126,9 @@ toc:
 
     - page: Github Pages Jekyll Blog
       url: /posts/github-pages-jekyll-blog/
+    
+    - page: GitHub Markdown
+      url: /posts/github-markdown/
 
 - title: Linux-related
   subfolderitems:
