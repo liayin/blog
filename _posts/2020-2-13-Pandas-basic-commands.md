@@ -4,6 +4,12 @@ title: Pandas Basic Commands
 date: 2020-02-13 17:05:00 --0000
 permalink: /posts/pandas-basic-commands/
 ---
+This post serves as a cheat sheet for the basic commands in Pandas.
+
+Table of Contents
+* TOC
+{:toc}
+
 [Click here for other basics](https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8)
 
 ## Dataframe Tricks

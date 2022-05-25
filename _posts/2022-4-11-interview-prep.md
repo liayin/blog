@@ -5,10 +5,13 @@ date: 2022-4-11 9:00:01 --0000
 permalink: /posts/interview-prep/
 ---
 
-### <ins>Causal Inference</ins>
+* TOC
+{:toc}
+
+## Causal Inference
 
 
-#### <ins>RD</ins>
+### RD
 Assumptions:
 - Continuity: probability of treatment is constant
 
@@ -25,7 +28,7 @@ Procedure:
 - Fuzzy RD
     - Two-stage least squares regression
 
-#### <ins>AB Testing</ins>
+### AB Testing
 Comparing two samples
 <!-- $$
 \hat{p}_{pool} = \frac{X_{cont} + X_{exp}}{N_{cont} + N_{exp}} \\
@@ -74,12 +77,21 @@ $$ -->
 
 reject null.
 
-### <ins>Other</ins>
-#### <ins>Chi-squared test:</ins>
+## Other
+### Chi-squared test
 - Usage:
     - Test for correlation between categorical variables
     - Test for variance
 
-#### <ins>Binomial</ins>
+### Binomial
 - Assumptions:
     - iid
+
+## Product sense
+Step 1: ask questions to understand the problem \
+Step 2: provide a structure \
+Step 3: identify the users and customers \
+Step 4: What are the use cases? Why are they using this product? What are their goals? \
+Step 5: How well is the current product doing for their use cases? Are there obvious weak spots? \
+Step 6: What features or changes would improve those weak spots? \
+Step 7: Wrap things up

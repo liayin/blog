@@ -12,7 +12,7 @@ The sections of the blog post are in the table of contents below. Please contact
 * TOC
 {:toc}
 
-#### Works on the SYG Law:
+### Works on the SYG Law
 - [Yakubovich, et al. (2021): Effects of Laws Expanding Civilian Rights to Use Deadly Force in Self-Defense on Violence and Crime: A Systematic Review](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101)： The existing evidence contradicts claims that expanding self-defense laws deters violent crime across the United States.
 
 - [GVPedia University (2018)](https://www.gvpedia.org/fact-sheet-stand-your-ground-laws/): Fact Sheet - Stand Your Ground Laws (media synthesis of research articles)
@@ -71,7 +71,7 @@ Education and Crime:
         - Decomposing short and long run effects, the observed longer run effect for the 1980 education reforms is primarily attributed to dynamic incapacitation
     - In contrast to previous research looking at earlier US education reforms, the reform induced crime reduction does not arise primarily from education improvements
 
-#### Employments and Crime:
+### Employments and Crime
 - [Cullen, Dobbie & Hoffman (2022)](https://www.doi.org/10.3386/w29947): Increasing the Demand for Workers with a Criminal Record
     - Method: field experiment
     - Results: 
@@ -89,7 +89,7 @@ Education and Crime:
     - Property crime decreases by 29%
     - Suggestive evidence that the beneficial impacts are largely driven by improved conflict resolution skills versus other factors that would increase the opportunity cost of crime
 
-#### Inequality and Crime:
+### Inequality and Crime
 - [Enamorado, Lopez-Calva, Rodriguez-Castelan & Winkler (2015)](https://www.sciencedirect.com/science/article/abs/pii/S0304387815001364): Income inequality and violent crime: Evidence from Mexico's drug war
     - Instruments for inequality through initial distribution and national income trends
     - Data is at the municipality level
@@ -104,7 +104,7 @@ Education and Crime:
 - [Kang (2015)](https://link.springer.com/article/10.1007/s00148-015-0579-3): Inequality and crime revisited: effects of local inequality and economic segregation on crime
     - Data is at the census tract level
 
-#### Health and Crime
+### Health and Crime
 - [Blattman, Chaskel, Jamison, and Sheridan (2022)](https://www.doi.org/10.3386/w30049): Cognitive Behavior Therapy Reduces Crime and Violence over 10 Years: Experimental Evidence
     - NBER working paper
     - CBT & small cash transfer is most effective in reducing crime
@@ -128,11 +128,11 @@ Education and Crime:
 - [Deza, Lu & Maclean (2021)](https://www.nber.org/papers/w29465?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Office-Based Mental Healthcare and Juvenile Arrests
     - 10 additional office-based mental healthcare providers in a county leads to a decrease of 2.3% to 2.6% in the per capita costs to society of juvenile arrest
 
-#### Fostering and crime:
+### Fostering and crime
 - [Norris, Pecenco & Weaver (2021)](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20190415): The Effects of Parental and Sibling Incarceration: Evidence from Ohio
     - Every year, millions of Americans experience the incarceration of a family member. Using 30 years of administrative data from Ohio and exploiting differing incarceration propensities of randomly assigned judges, this paper provides the first quasi-experimental estimates of the effects of parental and sibling incarceration in the United States. Parental incarceration has beneficial effects on some important outcomes for children, reducing their likelihood of incarceration by 4.9 percentage points and improving their adult neighborhood quality. While estimates on academic performance and teen parenthood are imprecise, we reject large positive or negative effects. Sibling incarceration leads to similar reductions in criminal activity.
 
-#### Gun ownership:
+### Gun ownership
 - [Evans & Kotowski (2022)](https://www.doi.org/10.3386/w29969): The Demand For Protection and the Persistently High Rates of Gun Violence Among Young Black Males
     - Source: NBER working paper
     - Method: theoretical model
@@ -149,7 +149,7 @@ Education and Crime:
 - [Chalak, Kim, Miller & Pepper (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694050): Reexamining the Evidence on Gun Ownership and Homicide Using Proxy Measures of Ownership
     - Using firearm homicide rate to proxy for gun ownership
 
-#### Gun and Self-defense: 
+### Gun and Self-defense: 
 - [Defilippis & Hughes (2015)](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262/): The Myth Behind Defensive Gun Ownership (newspaper article)
 
 - [Zimring (2017)](https://law.asu.edu/sites/default/files/pdf/academy_for_justice/9_Reforming-Criminal-Justice_Vol_1_Firearms-and-Violence.pdf): Firearms and Violence (book chapter). Zimring pointed out that the higher rate of civilians killed by police may be associated with the higher rate of police death. He suspects that both may be related with the use of firearms.
@@ -168,7 +168,7 @@ Education and Crime:
 Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
-#### Policing:
+### Policing:
 - [Amaral, Borker, Fiala, Prakash & Sviatschi (2022)](https://girijaborker.wordpress.com/research/): "Street Police Patrols and Violence Against Women in Public Spaces: Experimental Evidence from India"
     - Work in progress
     - Spoken at the [ViCE seminars](http://jenniferdoleac.com/vice-seminar/)
@@ -204,7 +204,7 @@ Law's unintended consequences:
 -[Cheng & Long (2022)](https://www.sciencedirect.com/science/article/pii/S0047272721001936): The effect of highly publicized police killings on policing: Evidence from large U.S. cities
     - Examining police self-initiated activities provides direct evidence of de-policing.
 
-#### Race & Criminal Justice System:
+### Race & Criminal Justice System:
 - [Feigenberg & Miller (2021)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20180688): "Racial Divisions and Criminal Justice: Evidence from Southern State Courts"
     - The US criminal justice system is exceptionally punitive. We test whether racial heterogeneity is one cause, exploiting cross-jurisdiction variation in punishment severity in four Southern states. We estimate the causal effect of jurisdiction on arrest outcomes using a fixed effects model that incorporates extensive charge and defendant controls. We validate our estimates using defendants charged in multiple jurisdictions. Consistent with a model of ingroup bias in electorate preferences, the relationship between local severity and Black population share follows an inverted U-shape. Within states, defendants are 27–54 percent more likely to be incarcerated in “peak” heterogeneous jurisdictions than in homogeneous jurisdictions. We estimate that confinement rates and race-based confinement rate gaps would fall by 15 percent if all jurisdictions adopted the severity of homogeneous jurisdictions within their state. (JEL H76, J15, K42)
 
@@ -220,7 +220,7 @@ Prisons
     - This paper examines the impact of private prison contracting by exploiting staggered prison capacity shocks in Mississippi. Motivated by a model based on the typical private prison contract that pays a per diem for each occupied bed, the empirical analysis shows that private prison inmates serve 90 additional days. This is alternatively estimated as 4.8 percent of the average sentence. The delayed release erodes half of the cost savings offered by private contracting and is linked to the greater likelihood of conduct violations in private prisons. The additional days served do not lead to apparent changes in inmate recidivism. (JEL H76, K42)
 
 
-#### Crime Underreporting (not all crimes are reported to the police)
+### Crime Underreporting (not all crimes are reported to the police)
 - [Chalfin (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.p20151043): The Long-Run Effect of Mexican Immigration on Crime in US Cities: Evidence from Variation in Mexican Fertility Rates
     - AER
 
@@ -251,7 +251,7 @@ Prisons
 - [Skogan (1975)](https://www.sciencedirect.com/science/article/abs/pii/0047235275900963): Measurement problems in official and survey crime rates
     - Journal of Criminal Justice
 
-#### Use of Google Trends Data:
+### Use of Google Trends Data:
 - [Brodeur et al (2021)](https://www.sciencedirect.com/science/article/pii/S0047272720302103): COVID-19, lockdowns and well-being: Evidence from Google Trends
   - We look at the effect of COVID-19 and associated lockdowns on population well-being.
   - We use Google Trends data to measure changes in well-being related topic search-terms.
@@ -271,14 +271,14 @@ that would lead to changes in rates of teen childbearing in the absence of suffi
 - [Jetter & Molina (2020)](https://www.dropbox.com/s/wxvoex9m7mv7sxj/philspeech.pdf): Persuasive agenda-setting: Rodrigo Duterte's inauguration speech and drugs in the Philippines
     - Exploring the elusive agenda-setting hypothesis pertaining to democratically-elected leaders, we hypothesize that Duterte’s 2016 inauguration speech systematically shifted Filipinos’ policy agenda to prioritizing illegal drugs. In a country that tops internet usage worldwide, we study daily Google searches on the national and regional level, identifying a strong and persistent increase in drug-related searches right after the speech, both in absolute terms and relative to other prominent policy topics. Further estimations rule out alternative explanations, including Duterte’s election campaign, potentially confounding topics (i.e., pharmaceutical drugs, Duterte’s ‘War on Drugs’), and common international time trends. Complementing Google search data, individual-level surveys also reveal more respondents considered crime reduction the top national priority right after the speech. To better identify causality, we exploit the historical timing of local festivals, leaving some provinces less exposed to the speech. Results show less-exposed provinces exhibit smaller increases in drug-related Google searches and survey-elicited crime prioritization.
 
-#### Judge Leniency Method:
+### Judge Leniency Method:
 - [Cespedes, Parra & Sialm (2021)](https://www.nber.org/papers/w28900)
 
 - [Bhuller, Dahl, Loken & Mogstad (2021)](https://econweb.ucsd.edu/~gdahl/papers/measuring-intergenerational-incarceration.pdf)
 
 - [Agan, Doleac & Harvey (2021)](https://www.nber.org/papers/w28600): prosecutor leniency
 
-#### Police Altering Offense Statistics:
+### Police Altering Offense Statistics:
 - [Gumbo (2012)](https://www.police1.com/patrol-issues/articles/fudge-factor-cooking-the-books-on-crime-stats-L42eQ4vDw6th7VOY/): newspaper report
 
 - [Sciortino, Vassar, Radetsky, Knudson (2005)](https://www.sciencedirect.com/science/article/pii/S0001457505001053), Accident Analysis & Prevention, *San Francisco pedestrian injury surveillance: Mapping, under-reporting, and injury severity in police and hospital records*. The authors obtained data from the following two sources:
@@ -314,10 +314,10 @@ that would lead to changes in rates of teen childbearing in the absence of suffi
 
 
 
-###### Randomized Controlled Trials
+##### Randomized Controlled Trials
 - [Athey, Bergstrom, Hadad, Jamison, Ozler, Parisotto, Sama (2021)](https://ideas.repec.org/p/exe/wpaper/2105.html): explored different methods of encouraging contraceptives take-up through random assignment.
 
-###### Random Coefficient Models
+##### Random Coefficient Models
 - [Li (2021)](https://economics.yale.edu/sites/default/files/files/pub/grad/working-papers/ming_li_jmp.pdf): new random coefficient panel model where the regressors can depend on the time-varying random coefficients in each period. Three stage series estimator. Applied to estimating the production function.
 
 IV
@@ -334,7 +334,7 @@ Environment and Crime
     - Highways
     - Conclusion: air pollution increases violent crime on the downwind sides of interstates.
 
-#### Judicial system
+### Judicial system
 - [Macdonald (2022)](https://www.dropbox.com/s/zey3357ejwgp1bz/DavidMacdonald_JMP_latest.pdf?dl=0): Truth in Sentencing, Incentives and Recidivism
     - Methodology: Regression discontinuity and generalized random forest
     - Results: rule infractions increased by 50%, while education program enrollment fell by 20%. Increase in violent infractions was largest for serious offenders, who saw an increase of 150% to 200% in infractions
@@ -353,16 +353,16 @@ Environment and Crime
 - [Rose & Shem-Tov (2021)](https://www.journals.uchicago.edu/doi/abs/10.1086/716561): "How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function"
     - Budget-neutral reductions in sentence length combined with increases in incarceration rates can decrease recidivism
 
-#### Plea bargains
+### Plea bargains
 - [Baer & Chambliss (1997)](https://link-springer-com.proxy.bc.edu/content/pdf/10.1023/A%3A1008239702811.pdf): Generating fear: The politics of crime reporting
     - Difference between crime reported and plea reached
 
-#### Social policies
+### Social policies
 - [Deshpande & Mueller-Smith (2022)](https://www.nber.org/papers/w29800): Does Welfare Prevent Crime? The Criminal Justice Outcomes of Youth Removed From SSI
     - NBER working paper
 
-### Methods
-#### Data cleaning
+## Methods
+### Data cleaning
 - [Jacob, Lefgren & Moretti (2004)](https://www.nber.org/system/files/working_papers/w10739/w10739.pdf): THE DYNAMICS OF CRIMINAL BEHAVIOR:
 EVIDENCE FROM WEATHER SHOCKS
     - Clean UCR data
@@ -376,10 +376,14 @@ EVIDENCE FROM WEATHER SHOCKS
 -[Burkhardt et al (2020)](https://pierce.atmos.colostate.edu/Monthly_Pollution_and_Crime.pdf): The Relationship Between Monthly Air Pollution and Violent Crime Across the United States
     - Clean UCR data
 
-#### Spatial methods
+### Spatial methods
 - [Weber (2021)](https://drive.google.com/file/d/10QXUbdUuJXaRL7U4tmzdHcKbXYEQeyS8/view): The big house far from home: spatial distance and criminal recidivism
     - Two-sample instrumental variables strategy
         - Instrumented for an inmate's distance from home with the average or minimum distance to state facilities from their home county.
     - Combine national data on prison admissions and releases with cross-sectional inmate facility assignment information from Florida and Oklahoma
     - Doubling an inmate's distance from home decreases the rate of 1-year recidivism by 3.3 percentage points
     - Deterioration of criminal ties appears to be an important driver of this result
+
+### Twitter scraping
+- [Kim (2022)](https://doi.org/10.1257/pandp.20221101): Measuring Police Performance: Public Attitudes Expressed in Twitter
+    - Twitter scraping for sentiment analysis
