@@ -2,7 +2,7 @@
 layout: post
 title: Econometric Models
 date: 2022-05-17 17:03:00 --0000
-permalink: /posts/metrics-models
+permalink: /posts/metrics-models/
 ---
 
 This post lists common econometric models. It is currently work-in-progress. Please let me know if you have models in mind that I should include.
