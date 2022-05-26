@@ -23,7 +23,7 @@ Formally, in binary logistic regression there is a single binary dependent varia
 
 ### Logistic function
 The logit model takes input log-odds and outputs probability. 
-
+$p(x) = \frac{a}{b}$
 
 ## Experiments
 

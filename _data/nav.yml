@@ -119,6 +119,11 @@ toc:
     - page: Edit Stata .do-files in Atom
       url: /posts/stata-atom/
 
+- title: SQL
+  subfolderitems:
+    - page: SQL
+      url: /posts/sql/
+
 - title: Github
   subfolderitems:
     - page: Some Tips on Using Github
