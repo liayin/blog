@@ -23,7 +23,10 @@ Formally, in binary logistic regression there is a single binary dependent varia
 
 ### Logistic function
 The logit model takes input log-odds and outputs probability. 
-$p(x) = \frac{a}{b}$
+
+$$p(x) = \frac{a}{b}$$
+
+> <img src="https://render.githubusercontent.com/render/math?math=ATT(g,t) = \mathbf{EE}_{g}[Y_t(g) - Y_t(0)|G_g=1]">
 
 ## Experiments
 
