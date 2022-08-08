@@ -40,6 +40,11 @@ toc:
     - page: Datasets
       url: /posts/datasets/
 
+- title: Writing
+  subfolderitems:
+    - page: Paper structure
+      url: /posts/paper-structure/
+
 - title: Methods
   subfolderitems:
     - page: Econometrics Models

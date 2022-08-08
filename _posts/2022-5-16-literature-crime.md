@@ -357,9 +357,15 @@ Environment and Crime
 - [Baer & Chambliss (1997)](https://link-springer-com.proxy.bc.edu/content/pdf/10.1023/A%3A1008239702811.pdf): Generating fear: The politics of crime reporting
     - Difference between crime reported and plea reached
 
-### Social policies
+### Social policies and programs
+- [Algan, Beasley, Cote, Park, Tremblay and Vitaro](https://doi.org/10.1257/aer.20200224): The Impact of Childhood Social Skills and Self-Control Training on Economic and Noneconomic Outcomes: Evidence from a Randomized Experiment Using Administrative Data
+    - Childhood intervention to improve social skills and self-control of at-risk kindergarten boys in the 1980s had positive impacts over the life course, including reduced criminality as young adults.
+
 - [Deshpande & Mueller-Smith (2022)](https://www.nber.org/papers/w29800): Does Welfare Prevent Crime? The Criminal Justice Outcomes of Youth Removed From SSI
     - NBER working paper
+
+## Transition of SRS to NIBRS
+- [Criminal Justice Coordinating Council, The Georgia Bureau of Investigations](https://www.jrsa.org/events/conference/2021/presentations/wednesday-ga.pdf)
 
 ## Methods
 ### Data cleaning
