@@ -253,6 +253,11 @@ ar_year = df_law.groupby('State.1').cumcount()+2000
 df_law.insert(1, 'Year', ar_year)
 ```
 
+Groupby single column in pandas ([Reference](https://www.datasciencemadesimple.com/group-by-mean-in-pandas-dataframe-python-2/))
+```python
+df1.groupby(['State'])['Sales'].mean()
+```
+
 ## Datetime
 ### Series
 ```python
