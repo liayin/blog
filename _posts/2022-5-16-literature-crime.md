@@ -365,7 +365,9 @@ Environment and Crime
     - NBER working paper
 
 ## Transition of SRS to NIBRS
-- [Criminal Justice Coordinating Council, The Georgia Bureau of Investigations](https://www.jrsa.org/events/conference/2021/presentations/wednesday-ga.pdf)
+- [Criminal Justice Coordinating Council, The Georgia Bureau of Investigations - converting NIBRS to SRS](https://www.jrsa.org/events/conference/2021/presentations/wednesday-ga.pdf) - presentation from 2021
+- [Converting NIBRS to SRS](https://www.asucrp.net/wp-content/uploads/2016/02/Conversion-of-NIBRS-Data-to-SRS.pdf) - FBI document, 2012
+- [Effects of NIBRS on Crime Statistics](https://ucr.fbi.gov/nibrs/2014/resource-pages/effects_of_nibrs_on_crime_statistics_final.pdf): FBI
 
 ## Methods
 ### Data cleaning

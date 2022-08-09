@@ -10,13 +10,17 @@ permalink: /posts/python-plotting/
 ### Bar charts
 Official documentation: [here](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html)
 
-Example:
+Example 1:
 ```python
 plt.rcdefaults()
 fig, ax = plt.subplots(figsize=(8, 6))
 ax.barh(states, amount) # if horizontal bar
 ax.invert_yaxis() # labels read top-to-bottom
 plt.show();
+```
+Example 2:
+```python
+df.plot
 ```
 
 ## Seaborn

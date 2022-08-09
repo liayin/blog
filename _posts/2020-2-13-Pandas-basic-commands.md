@@ -48,6 +48,11 @@ Append dataframes:
 df = df.append(df2, ignore_index=True)
 ```
 
+Save dataframe as LaTeX table ([Reference](https://blog.finxter.com/pandas-dataframe-to_latex-method/)):
+```python
+df.to_latex('finxters.tex', index=False, caption='User Details')
+```
+
 Include hyperlinks into dataframes ([Reference](https://datascientyst.com/create-clickable-link-pandas-dataframe-jupyterlab/)):
 ```python
 HTML(df_legislations.to_html(render_links=True, escape=False))
