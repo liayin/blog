@@ -49,10 +49,21 @@ df = pd.read_csv('file_location\filename.txt', delimiter = '\t')
 df = pd.read_clipboard()
 ```
 
+### R
+```python
+# read in the R file
+file = pyreadr.read_r("nibrs_1991_2020_offense_segment_rds/nibrs_offense_segment_1998.rds")
+```
+
 ## Export
 ### Stata
 Official documentation [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_stata.html). One example is:
 
 ```python
 df.to_stata('state_expenditures.dta', write_index=False)
+```
+
+### LaTeX
+```python
+df.style.hide(axis='index').to_latex('../../mean_crime.tex')
 ```

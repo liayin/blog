@@ -7,7 +7,7 @@ permalink: /posts/paper-structure/
 
 In economics, there are broadly two types of papers, empirical papers and theoretical papers. This article covers the structure of empirical papers.
 
-Empirical papers in economics usually contain the following sections ([References](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/econ.original.pdf, https://www.csus.edu/indiv/v/vangaasbeckk/resources/writing/comp.htm)):
+Empirical papers in economics usually contain the following sections ([Reference 1](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/econ.original.pdf), [Reference 2](https://www.csus.edu/indiv/v/vangaasbeckk/resources/writing/comp.htm)):
 - Title
 - Abstract
     - Research question
