@@ -53,6 +53,8 @@ df = pd.read_clipboard()
 ```python
 # read in the R file
 file = pyreadr.read_r("nibrs_1991_2020_offense_segment_rds/nibrs_offense_segment_1998.rds")
+dfv98 = file[None]
+dfv98
 ```
 
 ## Export

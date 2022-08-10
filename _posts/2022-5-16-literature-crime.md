@@ -367,7 +367,27 @@ Environment and Crime
 ## Transition of SRS to NIBRS
 - [Criminal Justice Coordinating Council, The Georgia Bureau of Investigations - converting NIBRS to SRS](https://www.jrsa.org/events/conference/2021/presentations/wednesday-ga.pdf) - presentation from 2021
 - [Converting NIBRS to SRS](https://www.asucrp.net/wp-content/uploads/2016/02/Conversion-of-NIBRS-Data-to-SRS.pdf) - FBI document, 2012
-- [Effects of NIBRS on Crime Statistics](https://ucr.fbi.gov/nibrs/2014/resource-pages/effects_of_nibrs_on_crime_statistics_final.pdf): FBI
+- [Effects of NIBRS on Crime Statistics](https://ucr.fbi.gov/nibrs/2014/resource-pages/effects_of_nibrs_on_crime_statistics_final.pdf): FBI 2000 (Rantala)
+
+### NIBRS
+- [Lantz (2021)](https://doi.org/10.1007/s12103-020-09606-5): Why More Agencies and Researchers Should Embrace the Upcoming NIBRS Transition: Contributions and Promise of the NIBRS Data
+- [Strom & Smith (2017)](https://doi.org/10.1111/1745-9133.12336): The Future of Crime Data
+    - NIBRS has edit checks for reviewing the completeness and accuracy of the data reported
+- [Pattavina, Carkin, and Tracy (2017)](https://doi.org/10.1177/0011128717724298): Assessing the Representativeness of NIBRS Arrest Data
+    - NIBRS arrest data are a close match to UCR data overall
+- [McCormack, Pattavina, and Tracy (2017)](https://doi.org/10.1177/0011128717694595): Assessing the Coverage and Representativeness of the National Incident-Based Reporting System
+    - NIBRS until 2013 was not a good representation of the crime rate in the United States
+
+### Economics papers using the NIBRS
+- [Moreno-Melina (2021)](https://doi.org/10.1162/rest_a_01024): Sinning in the Rain: Weather Shocks, Church Attendance and Crime
+    - REStat
+    - SRS supplemented by the NIBRS
+- [Lindo (2018)](https://doi.org/10.1257/app.20160031): College Party Culture and Sexual Assault
+    - NIBRS data only
+- [Foley (2011)](https://doi.org/10.1162/REST_a_00068): Welfare Payments and Crime
+    - SRS and NIBRS data from 12 different cities
+- [Card and Dahl (2011)](https://doi.org/10.1093/qje/qjr001): Family Violence and Football: The Effect of Unexpected Emotional Cues on Violent Behavior
+    - NIBRS only
 
 ## Methods
 ### Data cleaning
