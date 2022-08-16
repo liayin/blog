@@ -67,5 +67,5 @@ df.to_stata('state_expenditures.dta', write_index=False)
 
 ### LaTeX
 ```python
-df.style.hide(axis='index').to_latex('../../mean_crime.tex')
+df.style.hide(axis='index').to_latex('../../mean_crime.tex',position="h!",position_float="centering",hrules=True,label="tbl:crimedate",caption="Month When Maximum is Reached")
 ```

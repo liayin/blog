@@ -24,9 +24,14 @@ Formally, in binary logistic regression there is a single binary dependent varia
 ### Logistic function
 The logit model takes input log-odds and outputs probability. 
 
-$$p(x) = \frac{a}{b}$$
+$$p(x) = \frac{1}{1+e^{-(\beta_0+\beta_1x)}}$$
 
-> <img src="https://render.githubusercontent.com/render/math?math=ATT(g,t) = \mathbf{EE}_{g}[Y_t(g) - Y_t(0)|G_g=1]">
+#### The odds ratio
+For a continuous independent variable the odds ratio can be defined as:
+
+$$OR = e^{\beta_1}$$
+
+This exponential relationship provides an interpretation for $$\beta_1$$: the odds multiply by $$e^{\beta_1}$$ for every 1-unit increase in x.
 
 ## Experiments
 
