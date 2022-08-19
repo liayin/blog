@@ -47,6 +47,29 @@ Reference: Udacity A/B testing course, Lesson 4
 - IV vs OLS (Reference [here](https://donskerclass.github.io/EconometricsII/MoreIV.html))
 ![measurement-error bias](/images/measurement-error bias.png "Measurement error bias")
 
+- Two-stage least squares (2SLS) ([Mostly Harmless](https://www.mostlyharmlesseconometrics.com/) 4.6.4)
+    - Formula
+
+        Causal model of interest: $$y = \beta x + \eta$$
+
+        First stage equation: $$x = Z\pi + \varepsilon$$
+
+    - Bias
+
+        $$E[\hat{\beta}_{2SLS} - \beta] \approx \frac{\sigma_{\eta \varepsilon}}{\sigma^2_\varepsilon}\frac{1}{F+1}$$
+
+        where $$F = \frac{E(\pi'Z'Z\pi)/Q}{\sigma^2_\varepsilon}$$ and $$Q = E(P_z)$$ where $$P_z = Z(Z'Z)^{-1}Z'$$.
+
+        - Bias is small when F-stat is large, i.e. if the joint significance of all regressors in the first stage regression is large.
+
+        - Adding weak instruments increases bias by increasing $$Q$$ but not $$E(\pi'Z'Z\pi)$$ or $$\sigma^2_\varepsilon$$.
+
+    - Practical recommendations
+        - Report first stage and make sure the magnitude and sign are what I expect.
+        - Report F-stats on excluded instruments. Rule of thumb: 10.
+        - Report just-identified estimates using single best IV because just-identified IV is median-unbiased.
+        - Check overidentified 2SLS estimates with LIML. LIML is less precise than 2SLS but also less biased.
+        - Look at coefficients, t-stats, F-stats for excluded instruments in the reduced-form regression of dependent variables on instruments. If you can't see the causal relation of interest in the reduced form, it's probably not there.
 
 ## Linear regression
 

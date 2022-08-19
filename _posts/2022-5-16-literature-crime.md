@@ -372,11 +372,14 @@ Environment and Crime
 ### NIBRS
 - [Lantz (2021)](https://doi.org/10.1007/s12103-020-09606-5): Why More Agencies and Researchers Should Embrace the Upcoming NIBRS Transition: Contributions and Promise of the NIBRS Data
 - [Strom & Smith (2017)](https://doi.org/10.1111/1745-9133.12336): The Future of Crime Data
+    - Criminology & Public Policy
     - NIBRS has edit checks for reviewing the completeness and accuracy of the data reported
 - [Pattavina, Carkin, and Tracy (2017)](https://doi.org/10.1177/0011128717724298): Assessing the Representativeness of NIBRS Arrest Data
     - NIBRS arrest data are a close match to UCR data overall
 - [McCormack, Pattavina, and Tracy (2017)](https://doi.org/10.1177/0011128717694595): Assessing the Coverage and Representativeness of the National Incident-Based Reporting System
     - NIBRS until 2013 was not a good representation of the crime rate in the United States
+- [SEARCH (1997)](https://bjs.ojp.gov/content/pub/pdf/INIBRS.PDF): Implementing the National Incident-Based Reporting System: A Project Status Report (NCJ 165581)
+- [Poggio, Kennedy, Chaiken, and Carlson (1985)](https://www.ojp.gov/pdffiles1/bjs/98348.pdf): Blueprint for the Future of the Uniform Crime Reporting System
 
 ### Economics papers using the NIBRS
 - [Moreno-Melina (2021)](https://doi.org/10.1162/rest_a_01024): Sinning in the Rain: Weather Shocks, Church Attendance and Crime

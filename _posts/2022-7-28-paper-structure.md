@@ -46,3 +46,6 @@ Empirical papers in economics usually contain the following sections ([Reference
     - Present results
     - Explain why these results are interesting
 - Conclusion
+    - Restate the research question, describe what we know about this research question from the literature, and briefly describe the theoretical answer to the question
+    - Answer the research question based on empirical analysis, compare findings to the consensus in the literature, pointing out possible reasons for differences and similarities. 
+    - Policy implications and point toward directions for future research

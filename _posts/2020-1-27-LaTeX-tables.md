@@ -63,15 +63,12 @@ Alternatively, you could do:
 
 ### Scaling tables
 ```
-\usepackage{graphics}
-% ...
-
 \begin{table}
 \centering
-\resizebox{\columnwidth}{!}{ %
+\resizebox{\textwidth}{!}{
 \begin{tabular}{r|lll}
-% ...
-\end{tabular}%
+ ...
+\end{tabular}
 }
 \end{table}
 ```
