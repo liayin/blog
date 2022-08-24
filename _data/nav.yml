@@ -47,6 +47,9 @@ toc:
 
 - title: Methods
   subfolderitems:
+    - page: BLP
+      url: /posts/blp/
+
     - page: Econometrics Models
       url: /posts/metrics-models/
 

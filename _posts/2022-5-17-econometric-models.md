@@ -53,6 +53,9 @@ Reference: Udacity A/B testing course, Lesson 4
         Causal model of interest: $$y = \beta x + \eta$$
 
         First stage equation: $$x = Z\pi + \varepsilon$$
+    
+    - Implementation in Python
+        https://bashtage.github.io/linearmodels/iv/examples/basic-examples.html
 
     - Bias
 
