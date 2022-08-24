@@ -28,3 +28,6 @@ If the stylesheets are in the format .css, there needs to be some modifications 
 The style sheet used by the `minima` theme is called [sass](https://sass-lang.com/), and the file extension is .scss. In scss, the [way](https://rivet.iu.edu/add-ons/rivet-shell/) to add the sidebar is to add it under the `main` element.
 
 There are some other changes to the blog that I would like to implement, such as adding comment boxes to the bottom of the postings, and changing the theme to be a dark theme. Please look forward to the changes.
+
+# LaTeX
+[Reference](https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/)

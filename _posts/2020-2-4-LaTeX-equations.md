@@ -5,7 +5,11 @@ date: 2020-02-04 17:05:00 --0000
 permalink: /posts/latex-equations/
 ---
 
-### Multiline Parentheses/Brackets
+Table of Contents
+* TOC
+{:toc}
+
+# Multiline Parentheses/Brackets
 ```
 \usepackage{amsmath}
 \begin{align}
@@ -27,7 +31,7 @@ permalink: /posts/latex-equations/
 Output is below:
 ![Multiline Parentheses](/images/multiline_parentheses.jpg/)
 
-### Labeling Equations
+# Labeling Equations
 The format for creating LaTeX equations is usually ```\begin{equation}\end{equation}```. In order to label the equation, the common method is to write ```\label{eq:1}``` and then later refer to it as ```ref{eq:1}```. See code below for an example:
 
 ```
@@ -49,5 +53,12 @@ Based on discussions after Equation \ref{eq:1}, $a_{\delta} < 0$.
 The text will display as:
 ![reference](/images/reference.jpg "reference")
 
-### Bold Font in Math Mode
-The `\mathbf` command can only be used for non-italic math content, but the `\bm` command from the package `bm` provides a good alternative. See details [here](https://tex.stackexchange.com/questions/22643/how-to-write-letters-in-bold-in-the-math-mode).
+# Bold Font in Math Mode
+The `\mathbf` command can only be used for non-italic math content, but the `\bm` command from the package `bm` provides a good alternative. It also helps with applying bold font to Greek letters. `\boldsymbol{\beta}` gives us $$\boldsymbol{\beta}$$. See details [here](https://tex.stackexchange.com/questions/22643/how-to-write-letters-in-bold-in-the-math-mode).
+
+# Large bracket
+```
+begin{cases}
+\\
+end{cases}
+```
