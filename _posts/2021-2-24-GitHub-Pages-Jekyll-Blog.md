@@ -31,3 +31,6 @@ There are some other changes to the blog that I would like to implement, such as
 
 # LaTeX
 [Reference](https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/)
+
+# DataTables
+[Reference](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_tables.html)
