@@ -34,3 +34,4 @@ There are some other changes to the blog that I would like to implement, such as
 
 # DataTables
 [Reference](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_tables.html)
+[Example](https://datatables.net/forums/discussion/73237/datatable-on-just-the-docs-github-page)

@@ -9,6 +9,7 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
+  <!--The script regulates how LaTeX is rendered in Markdown-->
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -23,5 +24,19 @@
       }
     });
   </script>
+
+  <!--The following line is for MathJax, which allows Markdown files to include LaTeX equations-->
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+ 
+  <!--The lines below help include JQuery DataTables into Markdown files-->
+  {%- if page.datatable == true -%}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  <!--Add JQuery-->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css"> <!--add style sheet-->
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script> <!--add JQuery-->
+  <script>
+    $(document).ready( function () {
+      $('table.datatable').DataTable();
+    } );
+  </script>
+  {% endif %}
 </head>
