@@ -5,12 +5,18 @@ date: 2021-10-4 9:00:00 --0000
 permalink: /posts/lit-metrics/
 ---
 
-This blog post continuously updates papers in econometrics. Please let me know if you have any questions by clicking on the "About" button and emailing me.
+This blog post continuously updates with papers in econometrics. Please let me know if you have any questions. You can get in touch with me by email. My email can be obtained through the "About" section of the blog.
 
 * TOC
 {:toc}
 
 ### Causal Inference
+[Roth (2022)](https://doi.org/10.1257/aeri.20210236): Pretest with Caution: Event-Study Estimates after Testing for Parallel Trends
+- AERI
+- This paper points out two limitations to the test for parallel trends
+    - Conventional pretests may have low power, meaning that preexisting trends that produce meaningful bias in the treatment effects estimates may not be detected with substantial probability
+    - Conditioning the analysis on the result of a pre-trends test induces distortions to estimation and inference from pretesting. In other words, the draws of the data that survive a pretest are a selected sample from the true data-generationg process (DGP)
+
 [Angrist (2021)](https://www.nber.org/papers/w29726): Empirical Strategies in Economics: Illuminating the Path from Cause to Effect
 - Nobel lecture
 - LATE/IV

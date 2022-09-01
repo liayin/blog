@@ -279,6 +279,21 @@ that would lead to changes in rates of teen childbearing in the absence of suffi
     - Exploring the elusive agenda-setting hypothesis pertaining to democratically-elected leaders, we hypothesize that Duterte’s 2016 inauguration speech systematically shifted Filipinos’ policy agenda to prioritizing illegal drugs. In a country that tops internet usage worldwide, we study daily Google searches on the national and regional level, identifying a strong and persistent increase in drug-related searches right after the speech, both in absolute terms and relative to other prominent policy topics. Further estimations rule out alternative explanations, including Duterte’s election campaign, potentially confounding topics (i.e., pharmaceutical drugs, Duterte’s ‘War on Drugs’), and common international time trends. Complementing Google search data, individual-level surveys also reveal more respondents considered crime reduction the top national priority right after the speech. To better identify causality, we exploit the historical timing of local festivals, leaving some provinces less exposed to the speech. Results show less-exposed provinces exhibit smaller increases in drug-related Google searches and survey-elicited crime prioritization.
 
 ### Judge Leniency Method:
+- [Arnold, Dobbie, and Hull (2022)](https://doi.org/10.1257/aer.20201653)
+    - AER
+    - Measure disparate impact in the context of bail decisions
+    - Disparate impact is a broad and legally based definition of discrimination encompassing both racial bias and statistical discrimination
+    - Measuring disparate impact
+        - Adjust for race-specific misconduct risk by rescaling observational release rate comparisons in such a way that makes released White and Black defendants comparable in terms of misconduct potential within each judge's defendant pool
+        - Misconduct potential is calculated as the misconduct risk of the defendants who were released by very lenient judges
+        - Estimates for NYC data show that 2/3 of the average release rate disparity between White and Black defendants is due to the disparate impact of release decisions, with the remaining 1/3 attributable to OVB
+    - Disentangling racial bias and statistical discrimination
+        - Hierarchical marginal treatment effect (MTE) model
+        - Evidence of both
+        - Counterfactuals
+            - Race-specific release rate quotas
+            - Quota based on observational release rate disparities
+
 - [Cespedes, Parra & Sialm (2021)](https://www.nber.org/papers/w28900)
 
 - [Bhuller, Dahl, Loken & Mogstad (2021)](https://econweb.ucsd.edu/~gdahl/papers/measuring-intergenerational-incarceration.pdf)
