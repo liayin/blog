@@ -155,3 +155,9 @@ Data Combination
 - This paper derives optimal statistical decision rules for discrete choice problems when the decision maker is unable to discriminate among a set of payoff distributions.
 - The decision maker must confront both model uncertainty (about the identity of the true payoff distribution) and statistical uncertainty (the set of payoff distributions must be estimated)
 - Efficient-robust decision rules, which minimize maximum risk or regret over the set of payoff distributions and which use the data to learn efficiently about features of the set of payoff distributions germane to the choice problem, are optimal and can dominate seemingly natural alternatives.
+
+### Social network modeling
+[Lewbel, Qu, and Tang (2022)](https://doi.org/10.1086/722090): Social Networks with Unobserved Links
+- JPE just accepted
+- Point identify and estimate linear social network models without observing any network links
+- Required data consist of many small networks of individuals, such as classrooms or villgaes, with individuals that are each only observed once

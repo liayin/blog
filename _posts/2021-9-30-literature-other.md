@@ -112,6 +112,9 @@ In this blog article, I have compiled a list of papers in different economic dis
     - Purchases of ICDs equipped with a superior technology drops by up to 26.3%
 
 ### Blockchain
+[Halaburda, Haeringer, Gans, and Gandal (2022)](https://doi.org/10.1257/jel.20201593): The Microeconomics of Cryptocurrencies
+- JEL
+- Article covers supply, demand, price, and competition in cryptocurrencies
 
 [Makarov & Schoar (2021)](https://www.nber.org/papers/w29396?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg17): Blockchain Analysis of the Bitcoin Market
 - Provides detailed analyses of the Bitcoin network and its main participants
@@ -126,6 +129,12 @@ In this blog article, I have compiled a list of papers in different economic dis
 [Hussam, Rabbani, Reggiani & Rigol (2021)](https://www.aeaweb.org/articles/pdf/doi/10.1257/): Rational Habit Formation: Experimental Evidence from Handwashing in India
 
 ### Education
+[Angrist, Gray-Lobe, Idoux, and Pathak (2022)](https://doi.org/10.3386/w30308): Still Worth the Trip? School Busing Effects in Boston and New York
+- NBER working paper
+- Busing increases integration but not achievement (SAT scores)
+- Counterfactual shows cost saving from not busing
+- LY: this may be discussed in the paper, but integration itself may build social capital, which is not measured by achievement. Perhaps if they could link the data to tax records, they can see the effect of busing on earnings. If they link it to the Census data, they can see the effect on family structure. Though the linking can be time-consuming, if not infeasible.
+
 [Heckman & Zhou (2022)](https://docs.iza.org/dp15252.pdf): Measuring Knowledge
 - Published as an IZA working paper
 - Psychometrically validated test scores are not comparable over time and people
