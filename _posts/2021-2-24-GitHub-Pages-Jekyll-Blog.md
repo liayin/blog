@@ -33,5 +33,26 @@ There are some other changes to the blog that I would like to implement, such as
 [Reference](https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/)
 
 # DataTables
-[Reference](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_tables.html)
-[Example](https://datatables.net/forums/discussion/73237/datatable-on-just-the-docs-github-page)
+[Reference](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_tables.html) \
+[Example](https://datatables.net/forums/discussion/73237/datatable-on-just-the-docs-github-page) \
+DataTables is a plug-in for the jQuery Javascript library. It adds advanced features to HTML tables. The way to include it into Jekyll blogs is to include the following lines into the default layout. In my case, the default head is included in the head.html file in the folder _includes. 
+
+<!-- {% raw %} -->
+```html
+<head>
+    <!--The lines below help include JQuery DataTables into Markdown files-->
+    {%- if page.datatable == true -%}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  <!--Add JQuery-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css"> <!--add style sheet-->
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script> <!--add dataTables-->
+    <script>
+        $(document).ready( function () {
+        $('table.datatable').DataTable();
+        } );
+    </script>
+    {% endif %}
+</head>
+```
+<!-- {% endraw %}) -->
+
+The last step is to include `datatable: true` in a page's frontmatter. The third step is to add `{: .datatable }` below the tables.

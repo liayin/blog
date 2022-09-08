@@ -3,6 +3,7 @@ layout: post
 title: Crime Literature
 date: 2022-05-16 11:06:00 --0000
 permalink: /posts/literature-crime/
+datatable: true
 ---
 
 This blog post serves as a repository of (mainly) academic papers on different topics within the economics of crime literature. It has mostly new papers, and it has been updated as of April 25, 2022. Since I am continually updating it, I have not bothered to change the date of the blog post to save myself the pain of having to update the date each time.
@@ -390,6 +391,37 @@ Environment and Crime
 - [Criminal Justice Coordinating Council, The Georgia Bureau of Investigations - converting NIBRS to SRS](https://www.jrsa.org/events/conference/2021/presentations/wednesday-ga.pdf) - presentation from 2021
 - [Converting NIBRS to SRS](https://www.asucrp.net/wp-content/uploads/2016/02/Conversion-of-NIBRS-Data-to-SRS.pdf) - FBI document, 2012
 - [Effects of NIBRS on Crime Statistics](https://ucr.fbi.gov/nibrs/2014/resource-pages/effects_of_nibrs_on_crime_statistics_final.pdf): FBI 2000 (Rantala)
+
+| Authors | Year | Journal | Title | Level of Analysis | Datasets Used | Data Available? | Types of Crime | * |
+| ------- | ---- | ------- | ----- | ----------------- | ------------- | --------------- | -------------- | - |
+| Luallen | 2006 | JUE | [School's out… forever: A study of juvenile crime, at-risk youths and teacher strikes](https://doi.org/10.1016/j.jue.2005.09.002) | 
+| Heaton | 2006 | JLE | [Does Religion Really Reduce Crime?](https://doi.org/10.1086/501087) | county | UCR (2000) | | |
+| Iyengar | 2009 | JPubE | [Does the certainty of arrest reduce domestic violence? Evidence from mandatory and recommended arrest laws](https://doi.org/10.1016/j.jpubeco.2008.09.006) | state-year | SHR (1976-2003) | |  | |
+| Dahl and DellaVigna | 2009 | QJE | [Does Movie Violence Increase Violent Crime?](https://doi.org/10.1162/qjec.2009.124.2.677) | | NIBRS | |  |
+| Rees and Schnepel | 2009 | JSE | [College Football Games and Crime](https://doi.org/10.1177/1527002508327389) | | NIBRS | | index and more | |
+| Prescott and Rockoff | 2011 | JLE | [Do Sex Offender Registration and Notification Laws Affect Criminal Behavior? ](https://doi.org/10.1086/658485) | ori-month | NIBRS | | sex offenses | |
+| Cheng, Long | 2022 | JPubE | The effect of highly publicized police killings on policing: Evidence from large U.S. cities | Large U.S. Cities | SLMPD & UCR (2010-2016) | NA | Total crime | 
+| Miller, Segal, and Spencer (AP) | 2022 | JUE | Effects of COVID‐19 shutdowns on domestic violence in US cities | ORI | ORI (2019 and 2020) | N/A | Domestic violence | * |
+| Lindo, Swensen, and Waddell | 2022 | JHE | Effects of violent media content: Evidence from the rise of the UFC | ORI | UCR (2001 - 2016) | NA | Index crime |
+| Abrams | 2021 | JPubE | COVID and crime: An early empirical look | Large US cities | Open Data portals at the city level | NA | Wide variety |
+| Moreno-Melina | 2021 | REStat | Sinning in the Rain: Weather Shocks, Church Attendance and Crime | County | UCR | [link](https://doi.org/10.7910/DVN/3DTLQX) |
+| Cook and Taylor | 2019 | EL | [The impact of mandatory arrest laws on domestic violence in times of economic stress](https://doi.org/10.1016/j.econlet.2019.02.013) | state | NIBRS (2000-2015) | NA | Domestic violence |
+| Chalfin, Danagoulian, and Deza | 2019 | JHE | [More sneezing, less crime? Health shocks and the market for offenses](https://doi.org/10.1016/j.jhealeco.2019.102230) | city | NIBRS and city data | NA | violent, property |
+| Pyun and Hall | 2019 | AE | [Does the presence of professional football cause crime in a city? Evidence from Pontiac, Michigan](https://doi.org/10.1080/00036846.2019.1588942) | city | NIBRS |  | Larceny, vandalism, assault, and auto theft | * |
+| Lindo, Siminski, and Swensen | 2018 | AEJ: Applied | [College Party Culture and Sexual Assault](https://doi.org/10.1257/app.20160031) | university police | NIBRS | [Link](https://doi.org/10.3886/E100462V3) | Sexual assault |
+| Doleac | 2017 | AEJ: Applied | [The Effects of DNA Databases on Crime](https://doi.org/10.1257/app.20150043) | Individual and | DOC |  | |
+| Depew and Eren | 2016 | JUE | [Born on the wrong day? School entry age and juvenile crime](https://doi.org/10.1016/j.jue.2016.09.002) | Individual | Juvenile Corrections | NA | | |
+| Doleac and Sanders | 2015 | REStat | [Under the Cover of Darkness: How Ambient Light Influences Criminal Activity](https://doi.org/10.1162/REST_a_00547) | jurisdictions | NIBRS (2005-2008) | NA | felony robbery | | 
+| Anderson and Rees | 2015 | JLE | [Deployments, Combat Exposure, and Crime](https://doi.org/10.1086/682907) | agency and month | NIBRS (2001-2009) |  | Assaults, murder, rapes, and robberies | |
+| Ranson | 2014 | JEEM | [Crime, weather, and climate change](https://doi.org/10.1016/j.jeem.2013.11.008) | county-month | UCR (1980-2019) |  | Index crime | |
+| Yoruk | 2014 | JHE | [Can technology help to reduce underage drinking? Evidence from the false ID laws with scanner provision](https://doi.org/10.1016/j.jhealeco.2014.03.004) | individual | NLSY97 | | | |
+| Heaton | 2012 | JPE | [Sunday liquor laws and crime](https://doi.org/10.1016/j.jpubeco.2011.08.002) | jurisdiction | NIBRS (2001-2008) |  |  |  |
+| Cunningham and Kendall | 2011 | JUE | [Prostitution 2.0: The changing face of sex work](https://doi.org/10.1016/j.jue.2010.12.001) | | SASP (2008-2009) | 
+| Card and Dahl | 2011 | QJE | [Family Violence and Football: The Effect of Unexpected Emotional Cues on Violent Behavior](https://doi.org/10.1093/qje/qjr001) | | NIBRS |
+| Foley | 2011 | REStat | [Welfare Payments and Crime](https://doi.org/10.1162/REST_a_00068)
+| Agan | 2011 | JLE | [Sex Offender Registries: Fearwithout Function?](https://doi.org/10.1086/658483) | state-year | UCR (1985-2003) |  | index crime | |
+{: .datatable}
+
 
 ### NIBRS
 - [Lantz (2021)](https://doi.org/10.1007/s12103-020-09606-5): Why More Agencies and Researchers Should Embrace the Upcoming NIBRS Transition: Contributions and Promise of the NIBRS Data
