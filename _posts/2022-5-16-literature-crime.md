@@ -400,7 +400,7 @@ Environment and Crime
 | Dahl and DellaVigna | 2009 | QJE | [Does Movie Violence Increase Violent Crime?](https://doi.org/10.1162/qjec.2009.124.2.677) | | NIBRS | |  |
 | Rees and Schnepel | 2009 | JSE | [College Football Games and Crime](https://doi.org/10.1177/1527002508327389) | | NIBRS | | index and more | |
 | Prescott and Rockoff | 2011 | JLE | [Do Sex Offender Registration and Notification Laws Affect Criminal Behavior? ](https://doi.org/10.1086/658485) | ori-month | NIBRS | | sex offenses | |
-| Cheng, Long | 2022 | JPubE | The effect of highly publicized police killings on policing: Evidence from large U.S. cities | Large U.S. Cities | SLMPD & UCR (2010-2016) | NA | Total crime | 
+| Cheng, Long | 2022 | JPubE | The effect of highly publicized police killings on policing: Evidence from large U.S. cities | Large U.S. Cities | SLMPD & UCR (2010-2016) arrest data | NA | Total crime | 
 | Miller, Segal, and Spencer (AP) | 2022 | JUE | Effects of COVID‐19 shutdowns on domestic violence in US cities | ORI | ORI (2019 and 2020) | N/A | Domestic violence | * |
 | Lindo, Swensen, and Waddell | 2022 | JHE | Effects of violent media content: Evidence from the rise of the UFC | ORI | UCR (2001 - 2016) | NA | Index crime |
 | Abrams | 2021 | JPubE | COVID and crime: An early empirical look | Large US cities | Open Data portals at the city level | NA | Wide variety |

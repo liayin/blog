@@ -58,6 +58,11 @@ Include hyperlinks into dataframes ([Reference](https://datascientyst.com/create
 HTML(df_legislations.to_html(render_links=True, escape=False))
 ```
 
+Make a dataframe that is identical to an existing dataframe ([Reference](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.copy.html)):
+```python
+deep = s.copy()
+```
+
 ## Row Tricks
 
 Find rows that contain certain values:
@@ -256,6 +261,19 @@ df_law.insert(1, 'Year', ar_year)
 Groupby single column in pandas ([Reference](https://www.datasciencemadesimple.com/group-by-mean-in-pandas-dataframe-python-2/))
 ```python
 df1.groupby(['State'])['Sales'].mean()
+```
+
+Group by and aggregate different columns based on different rules([Reference](https://stackoverflow.com/questions/14529838/apply-multiple-functions-to-multiple-groupby-columns))
+```python
+df.groupby('group').agg({'a':['sum', 'max'], 
+                         'b':'mean', 
+                         'c':'sum', 
+                         'd': lambda x: x.max() - x.min()})
+```
+
+Group by and counting the number of rows([Ref](https://www.geeksforgeeks.org/pandas-groupby-count-occurrences-in-column/))
+```python
+occur = data.groupby(['Section']).size()
 ```
 
 ## Datetime
