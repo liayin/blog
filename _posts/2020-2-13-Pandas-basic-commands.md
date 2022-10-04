@@ -63,6 +63,13 @@ Make a dataframe that is identical to an existing dataframe ([Reference](https:/
 deep = s.copy()
 ```
 
+Display all rows or all columns([Reference](https://towardsdatascience.com/how-to-show-all-columns-rows-of-a-pandas-dataframe-c49d4507fcf)):
+```python
+pd.set_option('max_columns', None)
+movies.head()
+pd.set_option('max_columns', 20)
+```
+
 ## Row Tricks
 
 Find rows that contain certain values:

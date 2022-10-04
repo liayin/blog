@@ -12,3 +12,10 @@ permalink: /posts/event-study/
 [Callaway & Sant'Anna (2020)](https://bcallaway11.github.io/did/)
 - When estimating two effects consecutively, make sure to remove the dataframes "out" and "es"
 - There is a Stata package now called csdid. [Slides](https://www.stata.com/meeting/us21/slides/US21_SantAnna.pdf) are available on the Stata Corp website.
+
+[de Chaisemartin and D'Haultfoeuille (2020)](https://cran.r-project.org/web/packages/DIDmultiplegt/index.html)
+- Staggered adoption ok
+- Stata
+- R
+    - TwoWayFEWeights: check if there are many negative weights that may bias results
+    - DIDmultiplegt

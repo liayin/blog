@@ -387,6 +387,14 @@ Environment and Crime
 - [Deshpande & Mueller-Smith (2022)](https://www.nber.org/papers/w29800): Does Welfare Prevent Crime? The Criminal Justice Outcomes of Youth Removed From SSI
     - NBER working paper
 
+## Gentrification and crime
+- [Kreager, Lyons, and Hays (2011)](https://doi.org/10.1525/sp.2011.58.4.615): Urban Revitalization and Seattle Crime, 1982–2000
+
+## Weather and crime
+- [Spencer (2016)](https://doi.org/10.1080/0735648X.2016.1168749): Look what the hurricanes just blew in: analyzing the impact of the storm on criminal activities
+    - Directly-hit counties experience an increase in crime
+    - Nearby counties experience a decrease
+
 ## Transition of SRS to NIBRS
 - [Criminal Justice Coordinating Council, The Georgia Bureau of Investigations - converting NIBRS to SRS](https://www.jrsa.org/events/conference/2021/presentations/wednesday-ga.pdf) - presentation from 2021
 - [Converting NIBRS to SRS](https://www.asucrp.net/wp-content/uploads/2016/02/Conversion-of-NIBRS-Data-to-SRS.pdf) - FBI document, 2012
