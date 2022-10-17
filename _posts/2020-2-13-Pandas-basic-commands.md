@@ -72,9 +72,10 @@ pd.set_option('max_columns', 20)
 
 ## Row Tricks
 
-Find rows that contain certain values:
+Find rows that contain certain values ([Reference](https://datatofish.com/substring-pandas-dataframe/)):
 ```Python
 df[df.values == 'banana']
+contain_values = df[df['month'].str.contains('Ju')]
 ```
 
 Repeat rows multiple times:
