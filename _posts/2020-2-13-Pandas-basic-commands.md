@@ -27,6 +27,21 @@ for df_name in list_dfs:
     i += 1
 ```
 
+Dataframe row and column count
+```python
+df.shape
+```
+
+Check if there are missing values
+```python
+df.isnull().values.any()
+```
+
+Check for duplicates
+```python
+df.duplicated().values.any()
+```
+
 Merge two dataframes by a certain column:
 ```Python
 pd.merge(df1, df2, on='company')

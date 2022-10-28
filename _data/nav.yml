@@ -84,6 +84,9 @@ toc:
 
     - page: Two Sample t Test in Python
       url: /posts/t-test/
+    
+    - page: Modeling in Python
+      url: /posts/modeling-python/
 
 
 - title: R-related
