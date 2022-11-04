@@ -70,6 +70,9 @@ toc:
 
 - title: Python-related
   subfolderitems:
+    - page: Python Basic Commands
+      url: /posts/python-basic-commands/
+      
     - page: Pandas Imports and Exports
       url: /posts/pandas-imports-exports/
     
