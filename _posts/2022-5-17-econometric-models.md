@@ -15,18 +15,33 @@ Table of Contents
 [Two-sample t test](https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/two-sample-t-test.html)
 
 ## Logistics regression
-In statistics, the logistic model is a statistical model that models the probability of one event taking place by having the log-odds for the event be a linear combination of one or more independent variables. 
+In statistics, the logistic model is a statistical model that models the probability of one event taking place by having the log-odds for the event be a linear combination of one or more independent variables ([Reference](https://en.wikipedia.org/wiki/Logistic_regression#Many_explanatory_variables,_two_categories)). 
 
 In regression analysis, logistic regression is estimating the parameters of a logistic model.
 
 Formally, in binary logistic regression there is a single binary dependent variable, coded by an indicator variable, where the two values are labeled "0" and "1", while the independent variables can each be a binary variable or a continuous variable. The corresponding probability of the value labeled "1" can vary between 0 and 1. The function that converts log-odds to probability is the logistic function.
 
+### Log-odds
+$$ln(\frac{p(x)}{1 - p(x)}) = \beta_0 + \beta_1 x$$
+
+When $$x$$ increases by 1, the odds of success increases by $$\beta_1$$ percent multiplicatively ([Reference](https://stats.oarc.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic-regression/)).
+
 ### Logistic function
-The logit model takes input log-odds and outputs probability. 
+The function that converts log-odds to probability is the logistic function. 
 
-$$p(x) = \frac{1}{1+e^{-(\beta_0+\beta_1x)}}$$
+Let $$t$$ be a linear combination of parameters and independent variable
 
-#### The odds ratio
+$$t = \beta_0 + \beta_1 x$$
+
+The logistic function is
+
+$$p(x) = \delta(t) = \frac{1}{1+e^{-(\beta_0+\beta_1x)}}$$
+
+$$p(x)$$ is interpreted as the probability of the dependent variable $$Y$$ equaling a success rather than a failure. 
+
+![The logistic function](/images/1024px-Logistic-curve.svg.png)
+
+### The odds ratio
 For a continuous independent variable the odds ratio can be defined as:
 
 $$OR = e^{\beta_1}$$

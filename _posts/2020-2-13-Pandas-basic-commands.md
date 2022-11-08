@@ -80,9 +80,9 @@ deep = s.copy()
 
 Display all rows or all columns([Reference](https://towardsdatascience.com/how-to-show-all-columns-rows-of-a-pandas-dataframe-c49d4507fcf)):
 ```python
-pd.set_option('max_columns', None)
+pd.set_option('display.max_columns', None)
 movies.head()
-pd.set_option('max_columns', 20)
+pd.set_option('display.max_columns', 20)
 ```
 
 ## Row Tricks
