@@ -454,6 +454,15 @@ Environment and Crime
 - [Card and Dahl (2011)](https://doi.org/10.1093/qje/qjr001): Family Violence and Football: The Effect of Unexpected Emotional Cues on Violent Behavior
     - NIBRS only
 
+## Cannibas
+- [Strumpf (2022)]: What Happens When Prohibitions Are Repealed
+    - Scraping through API once per day
+    - Using discrete choice model to find consumer preferences
+
+## Cryptocurrency
+- [Cong, Landsman, Maydew, and Rabetti (2022)](https://www.nber.org/papers/w30716): Tax-Loss Harvesting with Cryptocurrencies
+    - Increased government tax scrutiny have led to changes in trading behavior by crypto traders
+
 ## Methods
 ### Data cleaning
 - [Jacob, Lefgren & Moretti (2004)](https://www.nber.org/system/files/working_papers/w10739/w10739.pdf): THE DYNAMICS OF CRIMINAL BEHAVIOR:

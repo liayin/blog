@@ -9,7 +9,11 @@ There are multiple ways to incorporate citation information in LaTeX. One of the
 
 First, store bibliography items in .bib file. Google Scholars will generate BibTeX style citations.
 
-#### BibTeX
+* TOC
+{:toc}
+
+
+## BibTeX
 
 In the header of the file, add
 ```
@@ -30,6 +34,7 @@ My own setup is:
 \bibliographystyle{plain}
 ```
 
+### AEA style
 If you are going with the AEA style, you can write:
 
 ```
@@ -38,6 +43,7 @@ If you are going with the AEA style, you can write:
 
 Of course, you would have downloaded the *aea.bst* file from the AEA website.
 
+### Cite webpages
 Citation of webpages in natbib should be the following format ([ref](https://tex.stackexchange.com/questions/157291/natbib-and-website-citation)):
 ```r
 @Misc{Tho98w,
@@ -49,7 +55,16 @@ Citation of webpages in natbib should be the following format ([ref](https://tex
 }
 ```
 
-#### BibLaTeX
+### Abbreviations for author names
+```LaTeX
+% use abbreviation for author name
+\newcommand\mycitep[1]{\citepalias[\citeyear{#1}]{#1}}
+\newcommand\mycitet[1]{\citetalias{#1} (\citeyear{#1})}  
+\defcitealias{aurora1994summary}{Aurora PD}
+\defcitealias{fbi2012convert}{FBI}
+```
+
+## BibLaTeX
 
 ```
 \usepackage{biblatex}
@@ -75,7 +90,7 @@ My own setup is as follows:
 \addbibresource{D:/Dropbox/StandYourGroundLawWriteup/references.bib}
 ```
 
-#### Law Citations
+# Law Citations
 
 Citing statutes:
 ```

@@ -56,6 +56,14 @@ The text will display as:
 # Bold Font in Math Mode
 The `\mathbf` command can only be used for non-italic math content, but the `\bm` command from the package `bm` provides a good alternative. It also helps with applying bold font to Greek letters. `\boldsymbol{\beta}` gives us $$\boldsymbol{\beta}$$. See details [here](https://tex.stackexchange.com/questions/22643/how-to-write-letters-in-bold-in-the-math-mode).
 
+# Blackboard Bold Typeface
+```LaTeX
+{% raw %}
+\usepackage{amsfonts}
+\newcommand{\e}[1]{{\mathbb E} \left[ #1 \right]} % hollow E for expected value. ex. \e{something}
+{% endraw %}
+```
+
 # Large bracket
 ```
 begin{cases}
