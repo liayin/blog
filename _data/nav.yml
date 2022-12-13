@@ -122,6 +122,9 @@ toc:
     
     - page: Latex Tables
       url: /posts/latex-tables/
+    
+    - page: LaTeX Beamer
+      url: /posts/latex-beamer/
 
 - title: Stata-related
   subfolderitems:

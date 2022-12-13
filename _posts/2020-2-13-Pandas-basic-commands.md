@@ -13,11 +13,12 @@ Table of Contents
 [Click here for other basics](https://medium.com/@kasiarachuta/exploring-your-pandas-dataframe-ee09e9a63ea8)
 
 ## Dataframe Commands
-[Make new dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html):
+Make new dataframe where the lists in the `np.array` function are rows [(reference)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html):
 ```python
 df2 = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
                    columns=['a', 'b', 'c'])
 ```
+
 
 Make a list of dataframes from names in a list:
 ```python
