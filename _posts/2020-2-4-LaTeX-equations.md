@@ -9,7 +9,7 @@ Table of Contents
 * TOC
 {:toc}
 
-# Multiline Parentheses/Brackets
+## Multiline Parentheses/Brackets
 ```
 \usepackage{amsmath}
 \begin{align}
@@ -31,7 +31,17 @@ Table of Contents
 Output is below:
 ![Multiline Parentheses](/images/multiline_parentheses.jpg/)
 
-# Labeling Equations
+## Parentheses that fit the line height
+Replace "(" with "\left(" and ")" with "\right)"
+```LaTeX
+\begin{align}
+    (L-\alpha)x &= (x+\frac{L-\alpha}{B+D}x)^2 \\
+    (L-\alpha)x &= x^2\left(\frac{B+D+L-\alpha}{B+D}\right)^2
+\end{align}
+```
+![Parentheses that fit the line height](/images/parentheses_line_height.png)
+
+## Labeling Equations
 The format for creating LaTeX equations is usually ```\begin{equation}\end{equation}```. In order to label the equation, the common method is to write ```\label{eq:1}``` and then later refer to it as ```ref{eq:1}```. See code below for an example:
 
 ```
@@ -53,10 +63,10 @@ Based on discussions after Equation \ref{eq:1}, $a_{\delta} < 0$.
 The text will display as:
 ![reference](/images/reference.jpg "reference")
 
-# Bold Font in Math Mode
+## Bold Font in Math Mode
 The `\mathbf` command can only be used for non-italic math content, but the `\bm` command from the package `bm` provides a good alternative. It also helps with applying bold font to Greek letters. `\boldsymbol{\beta}` gives us $$\boldsymbol{\beta}$$. See details [here](https://tex.stackexchange.com/questions/22643/how-to-write-letters-in-bold-in-the-math-mode).
 
-# Blackboard Bold Typeface
+## Blackboard Bold Typeface
 ```LaTeX
 {% raw %}
 \usepackage{amsfonts}
@@ -64,7 +74,7 @@ The `\mathbf` command can only be used for non-italic math content, but the `\bm
 {% endraw %}
 ```
 
-# Large bracket
+## Large bracket
 ```
 begin{cases}
 \\

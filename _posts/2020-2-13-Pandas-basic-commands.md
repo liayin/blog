@@ -35,7 +35,7 @@ df.shape
 
 Get basic information about dataframe
 ```python
-df.info()
+df.info(verbose=True, show_counts=True)
 ```
 
 Check if there are missing values

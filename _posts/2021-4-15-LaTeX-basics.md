@@ -21,3 +21,10 @@ Changing the numbering of tables and figures to correspond to sections: [here](h
 ```
 \PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
 ```
+
+## Appendix
+```LaTeX
+\appendix
+
+\section{Appendix}
+```
