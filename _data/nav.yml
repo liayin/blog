@@ -42,6 +42,9 @@ toc:
 
 - title: Writing
   subfolderitems:
+    - page: Proposal writing
+      url: /posts/proposal-writing/
+
     - page: Paper structure
       url: /posts/paper-structure/
 

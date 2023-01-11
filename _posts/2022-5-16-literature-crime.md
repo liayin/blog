@@ -463,6 +463,12 @@ Environment and Crime
 - [Cong, Landsman, Maydew, and Rabetti (2022)](https://www.nber.org/papers/w30716): Tax-Loss Harvesting with Cryptocurrencies
     - Increased government tax scrutiny have led to changes in trading behavior by crypto traders
 
+- [Cong, Harvey, Rabetti, and Wu (2023)](http://www.nber.org/papers/w30834): An Anatomy of Crypto-Enabled Cybercrimes
+    - Data: public, proprietary, and hand-collected data including dark web conversations in Russian
+    - Method: Figures and tables
+    - Results: a few organized ransomware gangs dominate the crypto-enabled cybercrime space
+    - Policy implications: blanket restrictions on cryptocurrency usage may prove ineffective in tackling crypto-enabled cybercrime and hinder innovations. Instead, blockchain transparency and digital footprints enable effective forensics for tracking, monitoring, and shutting down dominant cybercriminal organizations.
+
 ## Methods
 ### Data cleaning
 - [Jacob, Lefgren & Moretti (2004)](https://www.nber.org/system/files/working_papers/w10739/w10739.pdf): THE DYNAMICS OF CRIMINAL BEHAVIOR:

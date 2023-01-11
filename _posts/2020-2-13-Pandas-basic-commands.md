@@ -48,6 +48,11 @@ Check for duplicates
 df.duplicated().values.any()
 ```
 
+Drop duplicates
+```python
+df.drop_duplicates()
+```
+
 Merge two dataframes by a certain column:
 ```Python
 pd.merge(df1, df2, on='company')
