@@ -48,5 +48,9 @@ permalink: /posts/citation-guides/
 ### Legal Citations
 [Chicago Manual of Style](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/legal_public_and_unpublished_materials.html)
 
+[Florida statute](https://www.floridabar.org/the-florida-bar-journal/citation-form-keeping-up-with-the-times/#:~:text=Statutes%20%E2%80%94%20It%20is%20common%20to,(2005).)
+
+[Arizona statute](https://phoenix.municipal.codes/CC/SC)
+
 ### Quoting
 [When to quote](https://info.legalsolutions.thomsonreuters.com/pdf/perspec/2005-fall/2005-fall-5.pdf)

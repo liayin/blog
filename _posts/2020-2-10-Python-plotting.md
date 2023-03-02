@@ -5,6 +5,10 @@ date: 2020-02-10 17:03:00 --0000
 permalink: /posts/python-plotting/
 ---
 
+Table of Contents
+* TOC
+{:toc}
+
 ## Matplotlib
 
 ### Bar charts
@@ -16,6 +20,9 @@ plt.rcdefaults()
 fig, ax = plt.subplots(figsize=(8, 6))
 ax.barh(states, amount) # if horizontal bar
 ax.invert_yaxis() # labels read top-to-bottom
+ax.yaxis.set_ticks(np.arange(min(state), max(state)+1, 1))
+plt.ylabel('State')
+plt.xlabel('Amount')
 plt.show();
 ```
 Example 2:

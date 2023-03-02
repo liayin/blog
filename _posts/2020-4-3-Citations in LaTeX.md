@@ -94,5 +94,5 @@ My own setup is as follows:
 
 Citing statutes:
 ```
-\footnote{}
+\footnote{\href{http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0776/Sections/0776.012.html}{\textsection 776.012, Fla. Stat. (2005)}.}
 ```
