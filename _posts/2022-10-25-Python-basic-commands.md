@@ -50,3 +50,14 @@ for i, element in enumerate(array):
     print("working with index", i)
     do_something(element)
 ```
+
+## Dictionary operations
+
+How to declare a dictionary ([Reference](https://www.w3schools.com/python/python_dictionaries.asp))
+```python
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+```

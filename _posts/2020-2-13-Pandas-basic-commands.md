@@ -19,6 +19,11 @@ df2 = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
                    columns=['a', 'b', 'c'])
 ```
 
+Make new dataframe from multiple lists, each of which will be a column in the dataframe:
+```python
+d = {'col1': [1,2], 'col2': [3,4]}
+df = pd.DataFrame(data=d)
+```
 
 Make a list of dataframes from names in a list:
 ```python

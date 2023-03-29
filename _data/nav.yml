@@ -48,6 +48,9 @@ toc:
     - page: Paper structure
       url: /posts/paper-structure/
 
+    - page: Presentation
+      url: /posts/presentation/
+
 - title: Methods
   subfolderitems:
     - page: BLP
