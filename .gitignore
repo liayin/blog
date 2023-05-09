@@ -6,3 +6,6 @@ _site
 .sass-cache
 node_modules
 package.json
+
+# ignore the notes.docx file
+notes.docx
