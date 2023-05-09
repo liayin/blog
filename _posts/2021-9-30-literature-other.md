@@ -90,6 +90,11 @@ In this blog article, I have compiled a list of papers in different economic dis
 - Compared to differences among their male patient counterparts, female patients randomly assigned a female doctor rather than a male doctor are 5.0% more likely to be evaluated as disabled and receive 8.5% more subsequent cash benefits on average.
 - The magnitude of these effects implies that having female doctors evaluate patients entirely offsets the observed gender gap in the likelihood of being evaluated as disabled when male doctors evaluate patients.
 
+### Law
+[Lane, Nosenzo, and Sonderegger (2023)](doi.org/10.1257/aer.20210970): Law and Norms: Empirical Evidence
+- Abstract: A large theoretical literature argues laws exert a causal effect on norms, but empirical evidence remains scant. Using a novel identification strategy, we provide a compelling empirical test of this proposition. We use incentivized vignette experiments to directly measure social norms relating to actions subject to legal thresholds. Our large-scale experiments (n = 7,000) run in the United Kingdom, United States, and China show that laws can causally influence social norms. Results are robust across different samples and methods of measuring norms, and are consistent with a model of social image concerns where individuals care about the inferences others make about their underlying prosociality.
+
+
 ### Trade
 
 [Eaton & Kortum (2002)](http://www.lukasz-drozd.com/uploads/4/3/1/8/43183209/econ871notes_tex.pdf)

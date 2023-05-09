@@ -43,6 +43,11 @@ Get basic information about dataframe
 df.info(verbose=True, show_counts=True)
 ```
 
+Get summary statistics of the numeric variables
+```python
+df.describe()
+```
+
 Check if there are missing values
 ```python
 df.isnull().values.any()

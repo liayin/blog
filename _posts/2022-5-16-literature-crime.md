@@ -177,6 +177,9 @@ Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
 ### Policing:
+- [Holz, Rivera, and Ba (2023)](doi.org/10.1257/pol.20200227): "Peer Effects in Police Use of Force."
+    - Abstract: We study the link between police officers' on-duty injuries and their peers' force use using a network of officers who attended the police academy together through a random lottery. On-duty injuries increase the probability of officers using force by 7 percent in the subsequent week. Officers are also more likely to injure suspects and receive complaints about neglecting victims and violating constitutional rights. The effect is concentrated in a narrow time window following the event and is not associated with significantly lower injury risk to the officer. Together, these findings suggest that emotional responses drive the effects rather than social learning.
+
 - [Amaral, Borker, Fiala, Prakash & Sviatschi (2022)](https://girijaborker.wordpress.com/research/): "Street Police Patrols and Violence Against Women in Public Spaces: Experimental Evidence from India"
     - Work in progress
     - Spoken at the [ViCE seminars](http://jenniferdoleac.com/vice-seminar/)

@@ -6,3 +6,4 @@ permalink: /posts/presentation/
 ---
 
 Guideline for presentations: usually two minutes per slide, so if you would like to prepare for a 30-minute presentation, then produce 15 slides.
+
