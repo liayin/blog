@@ -129,6 +129,9 @@ toc:
     - page: Latex Tables
       url: /posts/latex-tables/
     
+    - page: LaTeX Figures
+      url: /posts/latex-figures/
+    
     - page: LaTeX Beamer
       url: /posts/latex-beamer/
 
@@ -171,6 +174,11 @@ toc:
 
     - page: Conda Environments
       url: /posts/conda-environ/
+
+- title: AWS-related
+  subfolderitems:
+    - page: AWS Basics
+      url: /posts/aws-basics/
 
 - title: Webscraping
   subfolderitems:
