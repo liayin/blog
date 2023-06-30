@@ -54,3 +54,11 @@ Part of the results are as below:
 ![Plotting](/images/plotting.jpg "Plotting by the Group")
 
 Note that the hue='law_year, ' section can introduce a different color for the data points that we would like to highlight - this is not shown above.
+
+## Saving figures
+
+To insert the figures into an academic paper, we need them to not have a lot of white space around the figures. For this, `bbox_inches='tight'` is helpful.
+
+```python
+g.savefig("perc_suicide_gun.jpg", bbox_inches='tight') # save the results as a figure
+```

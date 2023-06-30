@@ -176,7 +176,10 @@ Education and Crime:
 Law's unintended consequences:
 - [Podkopacz & Feld](https://www.jstor.org/stable/pdf/1144155.pdf): "Extended Jurisdiction Juvenile Prosecution" written into law in Minnesota in 1995 attempts to create a buffer zone before sending juvenile offenders to adult corrections facilities. However, many juvenile offenders were still sent to adult prison due to technical parole violations ("back-door" route to prison).
 
-### Policing:
+### Policing
+- [Cho, Goncalves, and Weisburst (2023)](https://www.nber.org/papers/w31392): "The Impact of Fear on Police Behavior and Public Safety"
+    - Abstract: We examine how changes in the salience of workplace risk affect police behavior and public safety. Specifically, we investigate cases of police officer deaths while on duty. Officers respond to a peer death by decreasing arrest activity for one to two months, consistent with heightened fear. Reductions are largest for low-level arrests and are more pronounced in smaller cities. Crime does not increase on average during this period, nor do we observe crime spikes in cities with larger or longer arrest declines. While shocks in fatality risk generate substantial enforcement responses, officer fear is unlikely to harm public safety.
+
 - [Holz, Rivera, and Ba (2023)](doi.org/10.1257/pol.20200227): "Peer Effects in Police Use of Force."
     - Abstract: We study the link between police officers' on-duty injuries and their peers' force use using a network of officers who attended the police academy together through a random lottery. On-duty injuries increase the probability of officers using force by 7 percent in the subsequent week. Officers are also more likely to injure suspects and receive complaints about neglecting victims and violating constitutional rights. The effect is concentrated in a narrow time window following the event and is not associated with significantly lower injury risk to the officer. Together, these findings suggest that emotional responses drive the effects rather than social learning.
 
@@ -361,6 +364,10 @@ Environment and Crime
     - Conclusion: air pollution increases violent crime on the downwind sides of interstates.
 
 ### Judicial system
+- [Ouss and Stevenson (2023)](https://doi.org/10.1257/app.20210349): Does Cash Bail Deter Misconduct?
+    - Abstract: Courts routinely use low cash bail as a financial incentive to ensure released defendants appear in court and abstain from crime. This can create burdens for defendants with little empirical evidence on its efficacy. We exploit a prosecutor-driven reform that led to a sharp reduction in low cash bail and pretrial supervision, with no effect on pretrial detention, to test whether such incentive mechanisms succeed at their intended purpose. We find no evidence that financial collateral has a deterrent effect on failure to appear or pretrial 
+crime. This paper also contributes to the literature on legal actor discretion, showing that nonbinding reforms may have limited impact on jail populations.
+
 - [Macdonald (2022)](https://www.dropbox.com/s/zey3357ejwgp1bz/DavidMacdonald_JMP_latest.pdf?dl=0): Truth in Sentencing, Incentives and Recidivism
     - Methodology: Regression discontinuity and generalized random forest
     - Results: rule infractions increased by 50%, while education program enrollment fell by 20%. Increase in violent infractions was largest for serious offenders, who saw an increase of 150% to 200% in infractions

@@ -280,6 +280,11 @@ Change to integer:
 df[list("ABCD")] = df[list("ABCD")].astype(int)
 ```
 
+Change from string to categorical
+```python
+df['zipcode'] = df.zipcode.astype('category')
+```
+
 ## Data Tricks
 Frequency table for a column:
 ```python

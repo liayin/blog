@@ -105,6 +105,11 @@ In this blog article, I have compiled a list of papers in different economic dis
 
 ### IO
 
+Wang (2023)
+- Title: Subsidizing industry growth in a market with lemons: Evidence from the electric market in China
+- Abstract:The growth of a new infant industry is a combined result of firm competition and support from government policies. Three forces shape the dynamics of a nascent industry. First, firms continue to enter the industry, which leads to market structure changes determined by the underlying sunk cost of entry. Second, technology growth and upstream spillovers improve the industry’s cost structure. Third, for a consumer goods industry, consumer learning and the associated reputation-building dynamics are crucial for the industry’s development. Consumers could accept a product and gradually increase adoption if the industry builds a reputation for good quality. This paper examines the interaction of these three forces in the Chinese electric vehicle market and identifies how subsidies and other policy instruments affect industry growth through the three forces, with a focus on reputational concerns.
+
+
 [Ciliberto, Murry & Tamer (2021)](https://www.journals.uchicago.edu/doi/abs/10.1086/715848)
 - Model for estimating a game of simultaneous entry and pricing decisions while allowing for correlations between unobserved cost and demand shocks
 - Account for selection in the pricing stage.
