@@ -4,6 +4,9 @@ title: Pandas Basic Commands
 date: 2020-02-13 17:05:00 --0000
 permalink: /posts/pandas-basic-commands/
 ---
+
+(Updated on 7-17-2023.)
+
 This post serves as a cheat sheet for the basic commands in Pandas.
 
 Table of Contents
@@ -81,7 +84,7 @@ unique_values =  pd.unique(column_values)
 
 Append dataframes:
 ```python
-df = df.append(df2, ignore_index=True)
+df = pd.concat([df1, df2], ignore_index=True)
 ```
 
 Save dataframe as LaTeX table ([Reference](https://blog.finxter.com/pandas-dataframe-to_latex-method/)):
@@ -107,6 +110,11 @@ pd.set_option('display.max_columns', 20)
 ```
 
 ## Row Tricks
+
+[Drop NA](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)
+```Python
+df.dropna(subset=['name', 'toy'])
+```
 
 Find rows that contain certain values ([Reference](https://datatofish.com/substring-pandas-dataframe/)):
 ```Python

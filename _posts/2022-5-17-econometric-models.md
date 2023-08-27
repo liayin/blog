@@ -5,7 +5,9 @@ date: 2022-05-17 17:03:00 --0000
 permalink: /posts/metrics-models/
 ---
 
-This post lists common econometric models. It is currently work-in-progress. Please let me know if you have models in mind that I should include.
+(Updated 6-30-2023)
+
+This post lists common econometric models. It is currently work-in-progress. Please let me know if you have models in mind that I should include. 
 
 Table of Contents
 * TOC
@@ -133,6 +135,8 @@ It first averages across all time periods for each group, and then averages acro
 
 [Callaway & Sant'Anna (2020) R package](https://bcallaway11.github.io/did/)
 
+## ANOVA
+[Reference](https://statsandr.com/blog/anova-in-r/#introduction)
 
 ## Post-estimation
 There are a lot of post estimation that can be carried out. For example, for `xtlogit` in stata, postestimation commands can be found [here](https://www.stata.com/manuals/xtxtlogitpostestimation.pdf).

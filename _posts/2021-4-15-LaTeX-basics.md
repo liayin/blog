@@ -5,13 +5,14 @@ date: 2021-04-15 18:06:00 --0000
 permalink: /posts/latex-basics/
 ---
 
--------------------
-Table of contents
+(Updated Aug 27, 2023)
+
+*Table of contents*
 
 * TOC
 {:toc}
 
--------------------
+
 
 ## Sections and Subsections
 
@@ -43,6 +44,14 @@ Some journals require tables and figures to be numbered in accordance with secti
 ```
 
 ## Lists
+
+### Enumerate environment
+Normal line spacing
+```LaTeX
+\usepackage{enumitem}
+\begin{enumerate}[nolistsep]
+\end{enumerate}
+```
 
 ### Checklists
 ```LaTeX
