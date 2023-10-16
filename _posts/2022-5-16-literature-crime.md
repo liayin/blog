@@ -10,6 +10,8 @@ This blog post serves as a repository of (mainly) academic papers on different t
 
 The sections of the blog post are in the table of contents below. Please contact me if you find that an important paper is missing from the lists!
 
+(Updated 10-16-2023)
+
 * TOC
 {:toc}
 
@@ -91,6 +93,12 @@ Education and Crime:
     - Suggestive evidence that the beneficial impacts are largely driven by improved conflict resolution skills versus other factors that would increase the opportunity cost of crime
 
 ### Inequality and Crime
+- [MacLeod (2023)](https://www.doi.org/10.3386/w31786): Optimal Deterrence, Inequality and the Jean-Valjean Effect
+    - View deterrance as a tax on (criminal) labor supply.
+    - When individuals are needy or desperate, the income effect may dominate the substitution effect.
+    - Policies undertaken with the intent of deterring crime may, unintuitively, lead to an increase in crime.
+    - The policy that minimizes net social costs is characterized by a combination of deterrence and transfers to reduce inequality.
+
 - [Enamorado, Lopez-Calva, Rodriguez-Castelan & Winkler (2015)](https://www.sciencedirect.com/science/article/abs/pii/S0304387815001364): Income inequality and violent crime: Evidence from Mexico's drug war
     - Instruments for inequality through initial distribution and national income trends
     - Data is at the municipality level

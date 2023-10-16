@@ -32,8 +32,14 @@ Some journals require tables and figures to be numbered in accordance with secti
 
 ## Hyperlinks
 [Reference](https://tex.stackexchange.com/questions/3033/forcing-linebreaks-in-url)
+The following can handle long urls with a large number of hyphens. It can also allows for colored links.
 ```
 \PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true, %set true if you want colored links
+    linktoc=all,     %set to all if you want both sections and subsections linked
+    allcolors=blue
+}
 ```
 
 ## Appendix
