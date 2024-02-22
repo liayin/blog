@@ -2,15 +2,15 @@
 # This file contains configuration flags to customize your site
 #
 
-title: Lia Yin's Blog
+title: Lia Yin-Herr's Blog
 
 # Name of your site (displayed in the header)
 author:
-  name: Lia Yin 
+  name: Lia Yin-Herr
   email: lia.yinliang@gmail.com
 
 # Short bio or description (displayed in the header)
-description: Econ PhD at Boston College
+description: Visiting Assistant Professor at The College of William and Mary
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/29715447?s=400&u=66ff7bced74b4149812e28a2fae9981cda3bcc30&v=4
