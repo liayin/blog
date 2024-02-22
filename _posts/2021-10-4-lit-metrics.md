@@ -7,6 +7,8 @@ permalink: /posts/lit-metrics/
 
 This blog post continuously updates with papers in econometrics. Please let me know if you have any questions. You can get in touch with me by email. My email can be obtained through the "About" section of the blog.
 
+This blog post has been updated on 2-22-2024.
+
 * TOC
 {:toc}
 
@@ -124,6 +126,9 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
     - Estimator combines data-driven unit-level weights with a time-series model
     - Use the unit weights to control for unobserved aggregate confounders
     - Use the time-series model to extract the quasi-random variation from the observed shock
+
+- [Cattaneo and Titiunik (2024)](https://arxiv.org/pdf/2402.11640.pdf): Protocols for Observational Studies: An Application to Regression Discontinuity Designs
+    - How to craft a pre-analysis plan.
 
 ### Machine Learning
 - [Montiel Olea, Ke, and Nesbit (2021)](http://www.joseluismontielolea.com/papers.html): Robust Machine Learning Algorithms for Text Analysis
