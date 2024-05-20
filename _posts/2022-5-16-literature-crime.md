@@ -6,11 +6,11 @@ permalink: /posts/literature-crime/
 datatable: true
 ---
 
+(Updated 5-20-2024)
+
 This blog post serves as a repository of (mainly) academic papers on different topics within the economics of crime literature. It has mostly new papers, and it has been updated as of April 25, 2022. Since I am continually updating it, I have not bothered to change the date of the blog post to save myself the pain of having to update the date each time.
 
 The sections of the blog post are in the table of contents below. Please contact me if you find that an important paper is missing from the lists!
-
-(Updated 10-16-2023)
 
 * TOC
 {:toc}
@@ -294,6 +294,9 @@ that would lead to changes in rates of teen childbearing in the absence of suffi
     - Exploring the elusive agenda-setting hypothesis pertaining to democratically-elected leaders, we hypothesize that Duterte’s 2016 inauguration speech systematically shifted Filipinos’ policy agenda to prioritizing illegal drugs. In a country that tops internet usage worldwide, we study daily Google searches on the national and regional level, identifying a strong and persistent increase in drug-related searches right after the speech, both in absolute terms and relative to other prominent policy topics. Further estimations rule out alternative explanations, including Duterte’s election campaign, potentially confounding topics (i.e., pharmaceutical drugs, Duterte’s ‘War on Drugs’), and common international time trends. Complementing Google search data, individual-level surveys also reveal more respondents considered crime reduction the top national priority right after the speech. To better identify causality, we exploit the historical timing of local festivals, leaving some provinces less exposed to the speech. Results show less-exposed provinces exhibit smaller increases in drug-related Google searches and survey-elicited crime prioritization.
 
 ### Judge Leniency Method:
+- [Coulibaly, Hsu, Mourifie, and Wan (2024)](http://www.nber.org/papers/w32456)
+    - A Sharp Test for the Judge Leniency Design
+
 - [Arnold, Dobbie, and Hull (2022)](https://doi.org/10.1257/aer.20201653)
     - AER
     - Measure disparate impact in the context of bail decisions
