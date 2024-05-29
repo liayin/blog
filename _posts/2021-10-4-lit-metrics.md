@@ -19,6 +19,9 @@ This blog post has been updated on 2-22-2024.
     - Conventional pretests may have low power, meaning that preexisting trends that produce meaningful bias in the treatment effects estimates may not be detected with substantial probability
     - Conditioning the analysis on the result of a pre-trends test induces distortions to estimation and inference from pretesting. In other words, the draws of the data that survive a pretest are a selected sample from the true data-generationg process (DGP)
 
+[Goodman-Bacon (2021)](https://drive.google.com/file/d/1gUg7INdzM9A1d1OqCFZjLg9a-BAxMBzf/view): Difference-in-Differences with Variation in Treatment Timing
+- Journal of Econometrics
+
 [Angrist (2021)](https://www.nber.org/papers/w29726): Empirical Strategies in Economics: Illuminating the Path from Cause to Effect
 - Nobel lecture
 - LATE/IV
