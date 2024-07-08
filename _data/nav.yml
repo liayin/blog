@@ -203,6 +203,9 @@ toc:
 
     - page: Jupyter Notebook Shortcuts
       url: /posts/jupyter-notebook-shortcuts/
+
+    - page: Math
+      url: /posts/math/
     
     - page: Job Search Tips
       url: /posts/job-search/
@@ -214,4 +217,4 @@ toc:
       url: /posts/flute-tutorials/
     
     - page: Recipes
-      url: /posts/recipes/
+      url: /posts/recipes/    
