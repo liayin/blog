@@ -375,6 +375,9 @@ Environment and Crime
     - Conclusion: air pollution increases violent crime on the downwind sides of interstates.
 
 ### Judicial system
+- [Philippe (2024)](https://doi.org/10.1257/pol.20210378): Learning by Offending: How Do Criminals Learn about Criminal Law?
+    - Abstract: This paper investigates how criminals learn about criminal laws. It uses a natural experiment in which sentences were drastically increased for a specific type of recidivism in France. In the short run, advertising the reform did not trigger any change in criminal behavior. However, people who had firsthand experience of the reform learned about it and later committed significantly fewer targeted crimes, but the same number of nontargeted crimes. Learning appears to be limited to individuals with direct experience of the law. While codefendants also learned, other criminal peers and defendants attending the same trial for another case did not.
+
 - [Ouss and Stevenson (2023)](https://doi.org/10.1257/app.20210349): Does Cash Bail Deter Misconduct?
     - Abstract: Courts routinely use low cash bail as a financial incentive to ensure released defendants appear in court and abstain from crime. This can create burdens for defendants with little empirical evidence on its efficacy. We exploit a prosecutor-driven reform that led to a sharp reduction in low cash bail and pretrial supervision, with no effect on pretrial detention, to test whether such incentive mechanisms succeed at their intended purpose. We find no evidence that financial collateral has a deterrent effect on failure to appear or pretrial 
 crime. This paper also contributes to the literature on legal actor discretion, showing that nonbinding reforms may have limited impact on jail populations.
