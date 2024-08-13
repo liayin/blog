@@ -115,6 +115,9 @@ toc:
     - page: R Programming
       url: /posts/r-programming/
 
+    - page: Accessing MySQL Databases from R
+      url: /posts/r-sql/
+
 - title: Latex-related
   subfolderitems:
     - page: LaTex Basics
