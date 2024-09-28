@@ -400,6 +400,10 @@ crime. This paper also contributes to the literature on legal actor discretion, 
 - [Rose & Shem-Tov (2021)](https://www.journals.uchicago.edu/doi/abs/10.1086/716561): "How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function"
     - Budget-neutral reductions in sentence length combined with increases in incarceration rates can decrease recidivism
 
+### Location and crime
+- [Braakmann, Chevalier & Wilson (2024)](https://doi.org/10.1257/app.20220585): Expected Returns to Crime and Crime Location
+    - When expected returns are high, crime increases
+
 ### Plea bargains
 - [Baer & Chambliss (1997)](https://link-springer-com.proxy.bc.edu/content/pdf/10.1023/A%3A1008239702811.pdf): Generating fear: The politics of crime reporting
     - Difference between crime reported and plea reached
