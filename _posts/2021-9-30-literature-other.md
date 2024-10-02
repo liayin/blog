@@ -5,6 +5,8 @@ date: 2021-09-30 9:00:00 --0000
 permalink: /posts/literature-other/
 ---
 
+Updated 10-2-2024.
+
 In this blog article, I have compiled a list of papers in different economic disciplines. Please let me know if you have any comments by emailing me through the About page. Thanks!
 
 * TOC
@@ -148,3 +150,7 @@ Wang (2023)
 [Heckman & Zhou (2022)](https://docs.iza.org/dp15252.pdf): Measuring Knowledge
 - Published as an IZA working paper
 - Psychometrically validated test scores are not comparable over time and people
+
+### Macro
+[Fitzgerald, Jones, Kulish & Nicolini (2024)](https://doi.org/10.1257/mac.20220273): Is There a Stable Relationship between Unemployment and Future Inflation?
+- Endogenous monetary policy distorts the Phillips curve at the national level. Locally, it still holds.
