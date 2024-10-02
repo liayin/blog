@@ -107,6 +107,10 @@ In this blog article, I have compiled a list of papers in different economic dis
 
 ### IO
 
+[Campbell, Ushchev, and Zenou (2024)](https://doi.org/10.1086/730550): The Network Origins of Entry
+- Word of mouth learning about new product: based on network density, the pricing equilibria are either blockaded, or deterred, or accommodated entry.
+- For firms that can observe the network density, they can potentially charge less for people who have more friends.
+
 Wang (2023)
 - Title: Subsidizing industry growth in a market with lemons: Evidence from the electric market in China
 - Abstract:The growth of a new infant industry is a combined result of firm competition and support from government policies. Three forces shape the dynamics of a nascent industry. First, firms continue to enter the industry, which leads to market structure changes determined by the underlying sunk cost of entry. Second, technology growth and upstream spillovers improve the industry’s cost structure. Third, for a consumer goods industry, consumer learning and the associated reputation-building dynamics are crucial for the industry’s development. Consumers could accept a product and gradually increase adoption if the industry builds a reputation for good quality. This paper examines the interaction of these three forces in the Chinese electric vehicle market and identifies how subsidies and other policy instruments affect industry growth through the three forces, with a focus on reputational concerns.
