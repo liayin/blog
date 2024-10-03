@@ -107,6 +107,9 @@ In this blog article, I have compiled a list of papers in different economic dis
 
 ### IO
 
+[Kong, Dubé, and Daljord (2024)](https://doi.org/10.3386/w32994): Nonparametric Estimation of Demand with Switching Costs: the Case of Habitual Brand Loyalty
+- Habitual brand loyalty can account for between 10.8% and 72.2% of the repeat purchase behavior.
+
 [Campbell, Ushchev, and Zenou (2024)](https://doi.org/10.1086/730550): The Network Origins of Entry
 - Word of mouth learning about new product: based on network density, the pricing equilibria are either blockaded, or deterred, or accommodated entry.
 - For firms that can observe the network density, they can potentially charge less for people who have more friends.
