@@ -107,6 +107,12 @@ In this blog article, I have compiled a list of papers in different economic dis
 
 ### IO
 
+[Kokovin, Ozhegova, Sharapudinov, and Tarasov (2024)](https://doi.org/10.1257/mic.20200453): A Theory of Monopolistic Competition with
+Horizontally Heterogeneous Consumers
+- Firms serve consumers for whom their products are the most preferred ones.
+- More productive firms choose larger local markets.
+- Markups are the highest in the most and least preferred locations.
+
 [Kong, Dubé, and Daljord (2024)](https://doi.org/10.3386/w32994): Nonparametric Estimation of Demand with Switching Costs: the Case of Habitual Brand Loyalty
 - Habitual brand loyalty can account for between 10.8% and 72.2% of the repeat purchase behavior.
 
