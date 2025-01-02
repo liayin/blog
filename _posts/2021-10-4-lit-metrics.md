@@ -69,6 +69,9 @@ This blog post has been updated on 2-22-2024.
 - [R Package](https://github.com/synth-inference/synthdid)
 
 #### IV
+[Borusyak, Hull, and Jaravel (2024)](https://www.doi.org/10.3386/w33236): A Practical Guide to Shift-Share Instruments
+- Present the core logic of both many exogenous shifts or many exogenous shares
+
 [Mikusheva & Shapiro (2022)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.36.1.177): Isaiah Andrews, 2021 John Bates Clark Medalist
 - Weak instruments
 

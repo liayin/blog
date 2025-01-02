@@ -5,7 +5,7 @@ date: 2021-09-30 9:00:00 --0000
 permalink: /posts/literature-other/
 ---
 
-Updated 10-2-2024.
+Updated 1-2-2025.
 
 In this blog article, I have compiled a list of papers in different economic disciplines. Please let me know if you have any comments by emailing me through the About page. Thanks!
 
@@ -135,6 +135,11 @@ Wang (2023)
     - Allowing manufacturers' product offerings to be endogenously determined
 - Uniform price can increase hospital surplus by up to 3.4%
     - Purchases of ICDs equipped with a superior technology drops by up to 26.3%
+
+### Game Theory
+[Nakamura (2014)](https://www.iser.osaka-u.ac.jp/library/dp/2014/DP0908R.pdf): One-Leader and Multiple-Follower Stackelberg Games with
+Private Information
+- Economics Letters
 
 ### Blockchain
 [Halaburda, Haeringer, Gans, and Gandal (2022)](https://doi.org/10.1257/jel.20201593): The Microeconomics of Cryptocurrencies
